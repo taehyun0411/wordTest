@@ -5,6 +5,7 @@ import React, {useState} from 'react';
 import {useForm} from 'react-hook-form';
 import {Button} from "@nextui-org/button";
 import { useRouter} from "next/navigation";
+import { sql } from "@vercel/postgres";
 
 
 
@@ -74,6 +75,9 @@ const Checking = () => {
   const handleCheckboxChange = (values : any) => {
     setSelectedOptions(values);
   };
+  const handleClick = () => {
+      router.push("/test");
+  }
 
   return (
     <form onSubmit={handleSubmit(onSubmit)}>
@@ -91,9 +95,7 @@ const Checking = () => {
         ))}
       </CheckboxGroup>
     <Button color="primary" type='submit' className="flex flex-col items-center justify-center mt-6"
-    onClick={() => {
-
-    }}>
+    onClick={handleClick}>
       NEXT
     </Button>
     </form>
