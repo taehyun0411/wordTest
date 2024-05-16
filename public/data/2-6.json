@@ -1,0 +1,79 @@
+[
+    {
+        "0": "anxiety",
+        "1": "불안, 걱정",
+        "2": "Your a_______ most likely has genetic roots.",
+        "3": "불안은 필시 유전적 뿌리를 갖고 있을 것이다.",
+        "4": "anxiety"
+    },
+    {
+        "0": "genetic",
+        "1": "유전적인",
+        "2": "Your anxiety most likely has g______ roots.",
+        "3": "불안은 필시 유전적 뿌리를 갖고 있을 것이다.",
+        "4": "genetic"
+    },
+    {
+        "0": "phobia",
+        "1": "공포증",
+        "2": "For example, many people that I treat at my center tend to have a family history of p______, panic attack struggles, or obsessive compulsive disorder.",
+        "3": "예를 들어, 내가 나의 센터에서 치료하는 많은 사람이 공포증이나 공황 발작으로 인한 어려움이나 강박 장애의 가족력을 갖고 있는 경향이 있다.",
+        "4": "phobias"
+    },
+    {
+        "0": "panic attack",
+        "1": "공황 발작",
+        "2": "For example, many people that I treat at my center tend to have a family history of phobias, p____ ______ struggles, or obsessive compulsive disorder.",
+        "3": "예를 들어, 내가 나의 센터에서 치료하는 많은 사람이 공포증이나 공황 발작으로 인한 어려움이나 강박 장애의 가족력을 갖고 있는 경향이 있다.",
+        "4": "panic attack"
+    },
+    {
+        "0": "second aunt",
+        "1": "부모의 사촌 누이",
+        "2": "The genetic connection can be close and obvious, like a parent, or less direct, like a s______ ____ or a great grandfather.",
+        "3": "유젼적 연관성은 부모처럼 가깝고 명백할 수 있거나, 부모의 사촌 누이나 증조할아버지처럼 덜 직접적일 수 있다.",
+        "4": "second aunt"
+    },
+    {
+        "0": "wiring",
+        "1": "신경망, 신경계의 구조",
+        "2": "To put it simply, this means that those with anxious w_____ tend to be more likely to suffer from potential anxiety issues than those without.",
+        "3": "간단히 말하면, 이것은 불안 신경망이 있는 사람들이 없는 사람들보다 잠재적 불안 문제로 고통받을 가능성이 더 높은 경향이 있다는 것을 의미한다.",
+        "4": "wiring"
+    },
+    {
+        "0": "inclination",
+        "1": "성향",
+        "2": "However, this i__________ for developing an anxiety issue by no means suggests that it’s a foregone conclusion.",
+        "3": "그러나 불안 문제가 생기는 이 성향은 그것이 이미 정해진 결론이라는 것을 결코 암시하지 않는다.",
+        "4": "inclination"
+    },
+    {
+        "0": "develop",
+        "1": "(병·문제가) 생기다",
+        "2": "However, this inclination for d________ an anxiety issue by no means suggests that it’s a foregone conclusion.",
+        "3": "그러나 불안 문제가 생기는 이 성향은 그것이 이미 정해진 결론이라는 것을 결코 암시하지 않는다.",
+        "4": "developing"
+    },
+    {
+        "0": "by no means",
+        "1": "절대[결코]~이 아닌",
+        "2": "However, this inclination for developing an anxiety issue b_ __ _____ suggests that it’s a foregone conclusion.",
+        "3": "그러나 불안 문제가 생기는 이 성향은 그것이 이미 정해진 결론이라는 것을 결코 암시하지 않는다.",
+        "4": "by no means"
+    },
+    {
+        "0": "abuse",
+        "1": "남용; 남용하다",
+        "2": "This is similar in some way to someone with a genetic predisposition toward alcohol a_____.",
+        "3": "이것은 어떤 면에서 알코올 남용의 유전적 소인을 가진 어떤 사람과 유사하다.",
+        "4": "abuse"
+    },
+    {
+        "0": "alcoholic",
+        "1": "알코올 중독자",
+        "2": "Even though the pull might be strong, you only become an a________ once you abuse alcohol.",
+        "3": "그 견인력이 강할지 모르지만, 알코올을 남용하고 나서야 알코올 중독자가 될 뿐이다.",
+        "4": "alcoholic"
+    }
+]

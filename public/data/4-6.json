@@ -1,0 +1,128 @@
+[
+    {
+        "0": "sociology",
+        "1": "사회학",
+        "2": "If there is a s________ of knowledge, then there should also be a s________ of ignorance.",
+        "3": "만일 지식의 사회학이 있다면 무지의 사회학도 있어야 한다.",
+        "4": "sociology"
+    },
+    {
+        "0": "sociology",
+        "1": "사회학",
+        "2": "Such a s________ might begin with the question, Who does not know What?",
+        "3": "그런 사회학은 '누가 무엇을 모르는가?'라는 질문으로 시작할 수도 있을 것이다.",
+        "4": "sociology"
+    },
+    {
+        "0": "ignorance",
+        "1": "무지",
+        "2": "If there is a sociology of knowledge, then there should also be a sociology of i________.",
+        "3": "만일 지식의 사회학이 있다면 무지의 사회학도 있어야 한다.",
+        "4": "ignorance"
+    },
+    {
+        "0": "humorist",
+        "1": "유머 작가",
+        "2": "It is worth remembering that ‘we are all ignorant, just about different things’, as the American h_______ Mark Twain remarked.",
+        "3": "미국의 유머 작가 Mark Twain이 말했듯이, '우리는 모두 무지하다, 다만 서로 다른 것에 관해서.'라는 말은 기억할 만한 가치가 있다.",
+        "4": "humorist"
+    },
+    {
+        "0": "remark",
+        "1": "말하다",
+        "2": "It is worth remembering that ‘we are all ignorant, just about different things’, as the American humorist Mark Twain r______.",
+        "3": "미국의 유머 작가 Mark Twain이 말했듯이, '우리는 모두 무지하다, 다만 서로 다른 것에 관해서.'라는 말은 기억할 만한 가치가 있다.",
+        "4": "remarked"
+    },
+    {
+        "0": "spread",
+        "1": "확산",
+        "2": "For example, the s_____ of the Coronavirus was predicted by epidemiologists who had discovered the danger of the transfer of different diseases from wild animals to humans.",
+        "3": "예를 들면 코로나바이러스의 확산은 야생 동물로부터 인간에게로 다양한 질병이 전이될 위험성을 발견한 우행병 환자들에 의해 예견되었다.",
+        "4": "spread"
+    },
+    {
+        "0": "predict",
+        "1": "예견하다",
+        "2": "For example, the spread of the Coronavirus was p________ by epidemiologists who had discovered the danger of the transfer of different diseases from wild animals to humans.",
+        "3": "예를 들면 코로나바이러스의 확산은 야생 동물로부터 인간에게로 다양한 질병이 전이될 위험성을 발견한 우행병 환자들에 의해 예견되었다.",
+        "4": "predicted"
+    },
+    {
+        "0": "transfer",
+        "1": "전이",
+        "2": "For example, the spread of the Coronavirus was predicted by epidemiologists who had discovered the danger of the t_______ of different diseases from wild animals to humans.",
+        "3": "예를 들면 코로나바이러스의 확산은 야생 동물로부터 인간에게로 다양한 질병이 전이될 위험성을 발견한 우행병 환자들에 의해 예견되었다.",
+        "4": "transfer"
+    },
+    {
+        "0": "disaster",
+        "1": "재난",
+        "2": "Many d________ have occurred because those who knew could not act while those who acted did not know.",
+        "3": "아는 사람은 행동하지 못하고, 반면에 행동하는 사람은 알지 못해 많은 재앙이 일어났다.",
+        "4": "disasters"
+    },
+    {
+        "0": "destruction",
+        "1": "파괴",
+        "2": "The d__________ of the World Trade Center in 2001 offers a dramatic example of failure in communication.",
+        "3": "2001년 세계 무역 센터의 파괴는 의사소통 실패의 극적인 사례를 제공한다.",
+        "4": "destruction"
+    },
+    {
+        "0": "agent",
+        "1": "요원",
+        "2": "A_____ in the security services already suspected certain individuals of planning a terrorist attack, but their warnings were lost among the many messages sent to upper levels in Washington in a striking example of ‘information overload’.",
+        "3": "보안 기관 요원들은 이미 특정 개인들이 테러 공격을 계획하고 있다고 의심했지만, 그들의 경고는 '정보 과부화'의 눈에 띄는 사례로 워상턴의 고위층에 보내진 많은 메시지 사이에서 사라졌다.",
+        "4": "agents"
+    },
+    {
+        "0": "security service",
+        "1": "(정부의) 보안 기관",
+        "2": "Agents in the s_______ ________ already suspected certain individuals of planning a terrorist attack, but their warnings were lost among the many messages sent to upper levels in Washington in a striking example of ‘information overload’.",
+        "3": "보안 기관 요원들은 이미 특정 개인들이 테러 공격을 계획하고 있다고 의심했지만, 그들의 경고는 '정보 과부화'의 눈에 띄는 사례로 워상턴의 고위층에 보내진 많은 메시지 사이에서 사라졌다.",
+        "4": "security services"
+    },
+    {
+        "0": "suspect",
+        "1": "의심하다",
+        "2": "Agents in the security services already s________ certain individuals of planning a terrorist attack, but their warnings were lost among the many messages sent to upper levels in Washington in a striking example of ‘information overload’.",
+        "3": "보안 기관 요원들은 이미 특정 개인들이 테러 공격을 계획하고 있다고 의심했지만, 그들의 경고는 '정보 과부화'의 눈에 띄는 사례로 워상턴의 고위층에 보내진 많은 메시지 사이에서 사라졌다.",
+        "4": "suspected"
+    },
+    {
+        "0": "striking",
+        "1": "눈에 띄는",
+        "2": "Agents in the security services already suspected certain individuals of planning a terrorist attack, but their warnings were lost among the many messages sent to upper levels in Washington in a s_______ example of ‘information overload’.",
+        "3": "보안 기관 요원들은 이미 특정 개인들이 테러 공격을 계획하고 있다고 의심했지만, 그들의 경고는 '정보 과부화'의 눈에 띄는 사례로 워상턴의 고위층에 보내진 많은 메시지 사이에서 사라졌다.",
+        "4": "striking"
+    },
+    {
+        "0": "information overload",
+        "1": "정보 과부화",
+        "2": "Agents in the security services already suspected certain individuals of planning a terrorist attack, but their warnings were lost among the many messages sent to upper levels in Washington in a striking example of ‘i__________ ________’.",
+        "3": "보안 기관 요원들은 이미 특정 개인들이 테러 공격을 계획하고 있다고 의심했지만, 그들의 경고는 '정보 과부화'의 눈에 띄는 사례로 워상턴의 고위층에 보내진 많은 메시지 사이에서 사라졌다.",
+        "4": "information overload"
+    },
+    {
+        "0": "national security adviser",
+        "1": "국가 안보 보좌관",
+        "2": "As the n_______ ________ _______ Condoleezza Rice admitted later, ‘There was a lot of chatter in the system.’",
+        "3": "국가 안보 보좌관인 Condoleezza Rice가 나중에 인정했듯이 '시스템 안에 지껄이는 소리가 너무 많았다.'",
+        "4": "national security adviser"
+    },
+    {
+        "0": "admit",
+        "1": "인정하다",
+        "2": "As the national security adviser Condoleezza Rice a_______ later, ‘There was a lot of chatter in the system.’",
+        "3": "국가 안보 보좌관인 Condoleezza Rice가 나중에 인정했듯이 '시스템 안에 지껄이는 소리가 너무 많았다.'",
+        "4": "admitted"
+    },
+    {
+        "0": "chatter",
+        "1": "지껄이는 소리",
+        "2": "As the national security adviser Condoleezza Rice admitted later, ‘There was a lot of c______ in the system.’",
+        "3": "국가 안보 보좌관인 Condoleezza Rice가 나중에 인정했듯이 '시스템 안에 지껄이는 소리가 너무 많았다.'",
+        "4": "chatter"
+    }
+]

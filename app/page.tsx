@@ -68,7 +68,7 @@ const Checking = () => {
   ];
 
   const onSubmit = (data : any) => {
-      console.log(selectedOptions);
+      sessionStorage.setItem('data',JSON.stringify(selectedOptions));
        setSelectedOptions([]);
   };
 

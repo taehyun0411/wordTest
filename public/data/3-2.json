@@ -1,0 +1,121 @@
+[
+    {
+        "0": "expand",
+        "1": "확장되다, 팽창되다",
+        "2": "The e________ nature of digital technology meant new forms were constantly surfacing and rapidly diversifying.",
+        "3": "디지털 기술의 확장되는 본질은 새로운 형식이 끊임없이 나타나고 빠르게 다양해지고 있다는 것을 의미했다.",
+        "4": "expanding"
+    },
+    {
+        "0": "surface",
+        "1": "나타나다, 수면으로 올라오다",
+        "2": "The expanding nature of digital technology meant new forms were constantly s_______ and rapidly diversifying.",
+        "3": "디지털 기술의 확장되는 본질은 새로운 형식이 끊임없이 나타나고 빠르게 다양해지고 있다는 것을 의미했다.",
+        "4": "surfacing"
+    },
+    {
+        "0": "diversify",
+        "1": "다양해지다",
+        "2": "The expanding nature of digital technology meant new forms were constantly surfacing and rapidly d___________.",
+        "3": "디지털 기술의 확장되는 본질은 새로운 형식이 끊임없이 나타나고 빠르게 다양해지고 있다는 것을 의미했다.",
+        "4": "diversifying"
+    },
+    {
+        "0": "regarding",
+        "1": "~에 관하여",
+        "2": "As Dieter Daniels wrote r________ the growing complexity of current digital media, it is “impossible to take in the whole picture.”",
+        "3": "Dieter Daniels 가 현재의 디지털 미디어의 심해지는 복잡성에 관하여 기술한 것처럼, ‘그 전체적인 모습을 이해하는 것은 불가능하다.’",
+        "4": "regarding"
+    },
+    {
+        "0": "take in",
+        "1": "~을 이해하다, ~을 흡수하다",
+        "2": "As Dieter Daniels wrote regarding the growing complexity of current digital media, it is “impossible to t___ __ the whole picture.”",
+        "3": "Dieter Daniels 가 현재의 디지털 미디어의 심해지는 복잡성에 관하여 기술한 것처럼, ‘그 전체적인 모습을 이해하는 것은 불가능하다.’",
+        "4": "take in"
+    },
+    {
+        "0": "unfold",
+        "1": "펼치다",
+        "2": "No technology has ever u_______ its potential as swiftly as computers.",
+        "3": "어떤 기술도 컴퓨터만큼 신속하게 그 잠재력을 펼친 적은 없었다.",
+        "4": "unfolded"
+    },
+    {
+        "0": "potential",
+        "1": "잠재력",
+        "2": "No technology has ever unfolded its p________l as swiftly as computers.",
+        "3": "어떤 기술도 컴퓨터만큼 신속하게 그 잠재력을 펼친 적은 없었다.",
+        "4": "potential"
+    },
+    {
+        "0": "swiftly",
+        "1": "신속하게",
+        "2": "No technology has ever unfolded its potential as s______ as computers.",
+        "3": "어떤 기술도 컴퓨터만큼 신속하게 그 잠재력을 펼친 적은 없었다.",
+        "4": "swiftly"
+    },
+    {
+        "0": "retain",
+        "1": "유지하다, 보유하다",
+        "2": "In contrast to traditional tools, which r_______ their form and function for hundreds of years, the computer has changed dramatically in a short space of time.",
+        "3": "수백 년 동안 형식과 기능을 유지했던 전통적인 도구들과는 대조적으로, 컴퓨터는 짧은 기간에 극적으로 변화했다.",
+        "4": "retained"
+    },
+    {
+        "0": "dramatically",
+        "1": "극적으로",
+        "2": "In contrast to traditional tools, which retained their form and function for hundreds of years, the computer has changed d__________ in a short space of time.",
+        "3": "수백 년 동안 형식과 기능을 유지했던 전통적인 도구들과는 대조적으로, 컴퓨터는 짧은 기간에 극적으로 변화했다.",
+        "4": "dramatically "
+    },
+    {
+        "0": "struggle",
+        "1": "싸우다, 고군분투하다",
+        "2": "Throughout the history of computer art, it seems that artists have often s________ with the morphology and tempo of digitalization.",
+        "3": "컴퓨터 예술의 역사를 통틀어, 예술가들은 흔히 디지털화의 형태 및 속도와 싸워 온 것으로 보인다.",
+        "4": "struggled"
+    },
+    {
+        "0": "tempo",
+        "1": "속도, 빠르기",
+        "2": "Throughout the history of computer art, it seems that artists have often struggled with the morphology and t____ of digitalization.",
+        "3": "컴퓨터 예술의 역사를 통틀어, 예술가들은 흔히 디지털화의 형태 및 속도와 싸워 온 것으로 보인다.",
+        "4": "tempo"
+    },
+    {
+        "0": "digitalization",
+        "1": "디지털화",
+        "2": "Throughout the history of computer art, it seems that artists have often struggled with the morphology and tempo of d__________.",
+        "3": "컴퓨터 예술의 역사를 통틀어, 예술가들은 흔히 디지털화의 형태 및 속도와 싸워 온 것으로 보인다.",
+        "4": "digitalization"
+    },
+    {
+        "0": "theorist",
+        "1": "이론가",
+        "2": "For the t_______ and artist, it was difficult to follow the rapidly evolving nature of the technology and the sudden succession and redundancy of forms.",
+        "3": "이론가이자 예술가의 경우, 빠르게 진화하는 기술의 본질, 그리고 형식의 갑작스러운 계승과 중복을 따라가기가 어려웠다.",
+        "4": "theorist"
+    },
+    {
+        "0": "succession",
+        "1": "계승, 연속",
+        "2": "For the theorist and artist, it was difficult to follow the rapidly evolving nature of the technology and the sudden s_________ and redundancy of forms.",
+        "3": "이론가이자 예술가의 경우, 빠르게 진화하는 기술의 본질, 그리고 형식의 갑작스러운 계승과 중복을 따라가기가 어려웠다.",
+        "4": "succession"
+    },
+    {
+        "0": "map",
+        "1": "상세히 기술하다, (지도에) 나타내다",
+        "2": "Equally, the historian was faced with the difficulty of m______ these rapidly transforming and ever-expanding digital forms.",
+        "3": "마찬가지로, 사학자도 이러한 빠르게 변화하고 항상 확장되는 디지털 형태를 상세히 기술하는 어려움에 직면했다.",
+        "4": "mapping"
+    },
+    {
+        "0": "ever-expanding",
+        "1": "항상 확장되는",
+        "2": "Equally, the historian was faced with the difficulty of mapping these rapidly transforming and e_____________ digital forms.",
+        "3": "마찬가지로, 사학자도 이러한 빠르게 변화하고 항상 확장되는 디지털 형태를 상세히 기술하는 어려움에 직면했다.",
+        "4": "ever-expanding"
+    }
+]

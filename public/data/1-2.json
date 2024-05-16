@@ -1,0 +1,121 @@
+[
+    {
+        "0": "revealing",
+        "1": "흥미로운 사실을 드러내는",
+        "2": "A particularly r________ excerpt illustrating the importance of written documents is provided by a remark made by Socrates.",
+        "3": "기록된 문서의 중요성을 보여 주는 특히 흥미로운 사실을 드러내는 발췌는 소크라테스가 한 말에 나온다.",
+        "4": "revealing"
+    },
+    {
+        "0": "illustrate",
+        "1": "(분명히) 보여주다",
+        "2": "A particularly revealing excerpt i_________ the importance of written documents is provided by a remark made by Socrates.",
+        "3": "기록된 문서의 중요성을 보여 주는 특히 흥미로운 사실을 드러내는 발췌는 소크라테스가 한 말에 나온다.",
+        "4": "illustrating"
+    },
+    {
+        "0": "remark",
+        "1": "말,비평",
+        "2": "A particularly revealing excerpt illustrating the importance of written documents is provided by a r______ made by Socrates.",
+        "3": "기록된 문서의 중요성을 보여 주는 특히 흥미로운 사실을 드러내는 발췌는 소크라테스가 한 말에 나온다.",
+        "4": "remark"
+    },
+    {
+        "0": "dialogue",
+        "1": "대화",
+        "2": "In a d_______ with a young student (Phaedrus) Socrates recounted how the god Thoth of Egypt offered the king of Egypt all types of inventions, including dice, checkers, numbers, geometry, astronomy and writing.",
+        "3": "소크라테스는 젊은 학생 (Phaedrus)과의 대화에서 이집트의 Thoth 신이 이집트 왕에게 주사위, 체커(서양 장기), 숫자, 기하학, 천문학 그리고 기록을 포 함한 온갖 종류의 발명품을 어떻게 권했는지를 이야기했다.",
+        "4": "dialogue"
+    },
+    {
+        "0": "dice",
+        "1": "주사위",
+        "2": "In a dialogue with a young student (Phaedrus) Socrates recounted how the god Thoth of Egypt offered the king of Egypt all types of inventions, including d___, checkers, numbers, geometry, astronomy and writing.",
+        "3": "소크라테스는 젊은 학생 (Phaedrus)과의 대화에서 이집트의 Thoth 신이 이집트 왕에게 주사위, 체커(서양 장기), 숫자, 기하학, 천문학 그리고 기록을 포 함한 온갖 종류의 발명품을 어떻게 권했는지를 이야기했다.",
+        "4": "dice"
+    },
+    {
+        "0": "geometry",
+        "1": "기하학",
+        "2": "In a dialogue with a young student (Phaedrus) Socrates recounted how the god Thoth of Egypt offered the king of Egypt all types of inventions, including dice, checkers, numbers, g_______, astronomy and writing.",
+        "3": "소크라테스는 젊은 학생 (Phaedrus)과의 대화에서 이집트의 Thoth 신이 이집트 왕에게 주사위, 체커(서양 장기), 숫자, 기하학, 천문학 그리고 기록을 포 함한 온갖 종류의 발명품을 어떻게 권했는지를 이야기했다.",
+        "4": "geometry"
+    },
+    {
+        "0": "astronomy",
+        "1": "천문학",
+        "2": "In a dialogue with a young student (Phaedrus) Socrates recounted how the god Thoth of Egypt offered the king of Egypt all types of inventions, including dice, checkers, numbers, geometry, a________ and writing.",
+        "3": "소크라테스는 젊은 학생 (Phaedrus)과의 대화에서 이집트의 Thoth 신이 이집트 왕에게 주사위, 체커(서양 장기), 숫자, 기하학, 천문학 그리고 기록을 포 함한 온갖 종류의 발명품을 어떻게 권했는지를 이야기했다.",
+        "4": "astronomy"
+    },
+    {
+        "0": "merit",
+        "1": "장점",
+        "2": "The god and the king discussed the m_____ and drawbacks of the various gifts and were in general agreement until they reached the gift of writing.",
+        "3": "그 신 과 왕은 다양한 선물의 장점과 결점에 대해서 논의했고 기록이라 는 선물에 이르기까지는 대체로 동의했다.",
+        "4": "merits"
+    },
+    {
+        "0": "drawback",
+        "1": "결점,문제점",
+        "2": "The god and the king discussed the merits and d_________ of the various gifts and were in general agreement until they reached the gift of writing.",
+        "3": "그 신 과 왕은 다양한 선물의 장점과 결점에 대해서 논의했고 기록이라 는 선물에 이르기까지는 대체로 동의했다.",
+        "4": "drawbacks"
+    },
+    {
+        "0": "stress",
+        "1": "강조하다",
+        "2": "Whereas the god s_______ the advantage of being able to remember information, the king objected: ‘If men learn this, it will implant forgetfulness in their souls; they will cease to exercise memory because they will rely on that which is written, calling things to remembrance no longer from within themselves, but by means of external marks.’",
+        "3": "그 신은 정보를 기억할 수 있다는 장점을 강조한 데 반해, 왕은 다음과 같이 반대했다.  “만약 인간이 이것을 배우면 그들의 영혼에 건망증을 심을 것이며, 그들이 기록된 것에 의존하여 더는 자기 내면으로부터가 아니라 외부에 있는 표시로 사물을 상기하게 될 것이기 때문에 기억력을 사용하지 않게 될 것입니다.”",
+        "4": "stressed"
+    },
+    {
+        "0": "object",
+        "1": "반대하다",
+        "2": "Whereas the god stressed the advantage of being able to remember information, the king o_______: ‘If men learn this, it will implant forgetfulness in their souls; they will cease to exercise memory because they will rely on that which is written, calling things to remembrance no longer from within themselves, but by means of external marks.’",
+        "3": "그 신은 정보를 기억할 수 있다는 장점을 강조한 데 반해, 왕은 다음과 같이 반대했다.  “만약 인간이 이것을 배우면 그들의 영혼에 건망증을 심을 것이며, 그들이 기록된 것에 의존하여 더는 자기 내면으로부터가 아니라 외부에 있는 표시로 사물을 상기하게 될 것이기 때문에 기억력을 사용하지 않게 될 것입니다.”",
+        "4": "objected"
+    },
+    {
+        "0": "implant",
+        "1": "심다,이식하다",
+        "2": "Whereas the god stressed the advantage of being able to remember information, the king objected: ‘If men learn this, it will i______ forgetfulness in their souls; they will cease to exercise memory because they will rely on that which is written, calling things to remembrance no longer from within themselves, but by means of external marks.’",
+        "3": "그 신은 정보를 기억할 수 있다는 장점을 강조한 데 반해, 왕은 다음과 같이 반대했다.  “만약 인간이 이것을 배우면 그들의 영혼에 건망증을 심을 것이며, 그들이 기록된 것에 의존하여 더는 자기 내면으로부터가 아니라 외부에 있는 표시로 사물을 상기하게 될 것이기 때문에 기억력을 사용하지 않게 될 것입니다.”",
+        "4": "implant"
+    },
+    {
+        "0": "forgetfulness",
+        "1": "건망증",
+        "2": "Whereas the god stressed the advantage of being able to remember information, the king objected: ‘If men learn this, it will implant f___________ in their souls; they will cease to exercise memory because they will rely on that which is written, calling things to remembrance no longer from within themselves, but by means of external marks.’",
+        "3": "그 신은 정보를 기억할 수 있다는 장점을 강조한 데 반해, 왕은 다음과 같이 반대했다.  “만약 인간이 이것을 배우면 그들의 영혼에 건망증을 심을 것이며, 그들이 기록된 것에 의존하여 더는 자기 내면으로부터가 아니라 외부에 있는 표시로 사물을 상기하게 될 것이기 때문에 기억력을 사용하지 않게 될 것입니다.”",
+        "4": "forgetfulness"
+    },
+    {
+        "0": "remembrance",
+        "1": "기억,추억",
+        "2": "Whereas the god stressed the advantage of being able to remember information, the king objected: ‘If men learn this, it will implant forgetfulness in their souls; they will cease to exercise memory because they will rely on that which is written, calling things to r__________ no longer from within themselves, but by means of external marks.’",
+        "3": "그 신은 정보를 기억할 수 있다는 장점을 강조한 데 반해, 왕은 다음과 같이 반대했다.  “만약 인간이 이것을 배우면 그들의 영혼에 건망증을 심을 것이며, 그들이 기록된 것에 의존하여 더는 자기 내면으로부터가 아니라 외부에 있는 표시로 사물을 상기하게 될 것이기 때문에 기억력을 사용하지 않게 될 것입니다.”",
+        "4": "remembrance"
+    },
+    {
+        "0": "external",
+        "1": "외부의",
+        "2": "Whereas the god stressed the advantage of being able to remember information, the king objected: ‘If men learn this, it will implant forgetfulness in their souls; they will cease to exercise memory because they will rely on that which is written, calling things to remembrance no longer from within themselves, but by means of e_______ marks.’",
+        "3": "그 신은 정보를 기억할 수 있다는 장점을 강조한 데 반해, 왕은 다음과 같이 반대했다.  “만약 인간이 이것을 배우면 그들의 영혼에 건망증을 심을 것이며, 그들이 기록된 것에 의존하여 더는 자기 내면으로부터가 아니라 외부에 있는 표시로 사물을 상기하게 될 것이기 때문에 기억력을 사용하지 않게 될 것입니다.”",
+        "4": "external"
+    },
+    {
+        "0": "the remainder",
+        "1": "나머지(부분)",
+        "2": "From t__ _________ of the dialogue it is clear that Socrates wholeheartedly agreed with the king of Egypt and thought that the availability of books made students lazy and discouraged them from properly studying.",
+        "3": "대화의 나머지 부분으로부터 소크라테스가 이집트 왕의 의견에 진심으로 동의했고 책을 이용할  수 있음이 학생들을 게으르게 만들고 제대로 공부하고자 하는 의욕을 꺾는다고 생각했음을 분명히 알 수 있다. ",
+        "4": "the remainder"
+    },
+    {
+        "0": "wholeheartedly",
+        "1": "진심으로,전적으로",
+        "2": "From the remainder of the dialogue it is clear that Socrates w____________ agreed with the king of Egypt and thought that the availability of books made students lazy and discouraged them from properly studying.",
+        "3": "대화의 나머지 부분으로부터 소크라테스가 이집트 왕의 의견에 진심으로 동의했고 책을 이용할  수 있음이 학생들을 게으르게 만들고 제대로 공부하고자 하는 의욕을 꺾는다고 생각했음을 분명히 알 수 있다. ",
+        "4": "wholeheartedly"
+    }
+]

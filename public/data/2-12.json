@@ -1,0 +1,128 @@
+[
+    {
+        "0": "architect",
+        "1": "건축가",
+        "2": "As we live in a world made of software, programmers are the a_________.",
+        "3": "우리는 소프트웨어로 만들어진 세상에서 살고 있으므로, 프로그래머는 건축가이다.",
+        "4": "architects"
+    },
+    {
+        "0": "coder",
+        "1": "컴퓨터 프로그래머",
+        "2": "When c_____ made the first blogging tools in the late ’90s and early ’00s, it produced an explosion of self-expression; when it’s suddenly easy to publish things, millions more people do it.",
+        "3": "컴퓨터 프로그래머가 1990년대 후반과 2000년대 초반에 최초의 블로그 도구를 만들었을 때, 그것은 자기 표현의 폭발적 증가를 초래했는데, 어떤 것을 발표하는 것이 갑자기 쉬울 때, 수백만 명 더 많은 사람들은 그렇게 한다.",
+        "4": "coders"
+    },
+    {
+        "0": "explosion",
+        "1": "폭발적 증가, 폭발",
+        "2": "When coders made the first blogging tools in the late ’90s and early ’00s, it produced an e_________ of self-expression; when it’s suddenly easy to publish things, millions more people do it.",
+        "3": "컴퓨터 프로그래머가 1990년대 후반과 2000년대 초반에 최초의 블로그 도구를 만들었을 때, 그것은 자기 표현의 폭발적 증가를 초래했는데, 어떤 것을 발표하는 것이 갑자기 쉬울 때, 수백만 명 더 많은 사람들은 그렇게 한다.",
+        "4": "explosion"
+    },
+    {
+        "0": "publish",
+        "1": "발표하다, 출판하다",
+        "2": "When coders made the first blogging tools in the late ’90s and early ’00s, it produced an explosion of self-expression; when it’s suddenly easy to p______ things, millions more people do it.",
+        "3": "컴퓨터 프로그래머가 1990년대 후반과 2000년대 초반에 최초의 블로그 도구를 만들었을 때, 그것은 자기 표현의 폭발적 증가를 초래했는데, 어떤 것을 발표하는 것이 갑자기 쉬울 때, 수백만 명 더 많은 사람들은 그렇게 한다.",
+        "4": "publish"
+    },
+    {
+        "0": "distribution",
+        "1": "배포, 유통",
+        "2": "And when programmers invented “file-sharing” tools around the same time, a shudder ran through the entertainment industries, as they watched their lock hold on d___________ suddenly evaporate.",
+        "3": "그리고 프로그래머들이 대략 같은 시기에 ‘파일 공유’ 도구를 발명했을 때, 예능 산업들이 배포에 걸어 놓은 자신들의 잠금 유지 장치가 순식간에 사라지는 것을 지켜보면서 예능 산업들 전반에 전율이 흘렀다.",
+        "4": "distribution"
+    },
+    {
+        "0": "evaporate",
+        "1": "사라지다, 증발하다",
+        "2": "And when programmers invented “file-sharing” tools around the same time, a shudder ran through the entertainment industries, as they watched their lock hold on distribution suddenly e________.",
+        "3": "그리고 프로그래머들이 대략 같은 시기에 ‘파일 공유’ 도구를 발명했을 때, 예능 산업들이 배포에 걸어 놓은 자신들의 잠금 유지 장치가 순식간에 사라지는 것을 지켜보면서 예능 산업들 전반에 전율이 흘렀다.",
+        "4": "evaporate"
+    },
+    {
+        "0": "digital rights management",
+        "1": "디지털 저작권 관리",
+        "2": "In fact, they fought back by hiring their own programmers to invent “d______ ______ __________” software, putting it in music and film releases, making those wares trickier for everyday folks to copy and hand out to their friends; they tried to create artificial scarcity.",
+        "3": "사실, 그들은 ‘디지털 저작권 관리’ 소프트웨어를 발명하도록 그들 자체의 프로그래머들을 고용하여, 그것을 음악 출시품과 영화 출시품에 넣고, 그 제품을 평범한 사람들이 복제하여 자기 친구에게 배포하기가 더 까다로워지도록 만듦으로써 반격하였으며, 인위적 희소성을 만들려고 애썼다.",
+        "4": "digital rights management"
+    },
+    {
+        "0": "release",
+        "1": "출시(품), 개봉",
+        "2": "In fact, they fought back by hiring their own programmers to invent “digital rights management” software, putting it in music and film r_______, making those wares trickier for everyday folks to copy and hand out to their friends; they tried to create artificial scarcity.",
+        "3": "사실, 그들은 ‘디지털 저작권 관리’ 소프트웨어를 발명하도록 그들 자체의 프로그래머들을 고용하여, 그것을 음악 출시품과 영화 출시품에 넣고, 그 제품을 평범한 사람들이 복제하여 자기 친구에게 배포하기가 더 까다로워지도록 만듦으로써 반격하였으며, 인위적 희소성을 만들려고 애썼다.",
+        "4": "releases"
+    },
+    {
+        "0": "ware",
+        "1": "제품, 상품",
+        "2": "In fact, they fought back by hiring their own programmers to invent “digital rights management” software, putting it in music and film releases, making those w_____ trickier for everyday folks to copy and hand out to their friends; they tried to create artificial scarcity.",
+        "3": "사실, 그들은 ‘디지털 저작권 관리’ 소프트웨어를 발명하도록 그들 자체의 프로그래머들을 고용하여, 그것을 음악 출시품과 영화 출시품에 넣고, 그 제품을 평범한 사람들이 복제하여 자기 친구에게 배포하기가 더 까다로워지도록 만듦으로써 반격하였으며, 인위적 희소성을 만들려고 애썼다.",
+        "4": "wares"
+    },
+    {
+        "0": "tricky",
+        "1": "까다로운, 힘든",
+        "2": "In fact, they fought back by hiring their own programmers to invent “digital rights management” software, putting it in music and film releases, making those wares t_______ for everyday folks to copy and hand out to their friends; they tried to create artificial scarcity.",
+        "3": "사실, 그들은 ‘디지털 저작권 관리’ 소프트웨어를 발명하도록 그들 자체의 프로그래머들을 고용하여, 그것을 음악 출시품과 영화 출시품에 넣고, 그 제품을 평범한 사람들이 복제하여 자기 친구에게 배포하기가 더 까다로워지도록 만듦으로써 반격하였으며, 인위적 희소성을 만들려고 애썼다.",
+        "4": "trickier"
+    },
+    {
+        "0": "everyday folks",
+        "1": "평범한 사람들",
+        "2": "In fact, they fought back by hiring their own programmers to invent “digital rights management” software, putting it in music and film releases, making those wares trickier for e_______ _____ to copy and hand out to their friends; they tried to create artificial scarcity.",
+        "3": "사실, 그들은 ‘디지털 저작권 관리’ 소프트웨어를 발명하도록 그들 자체의 프로그래머들을 고용하여, 그것을 음악 출시품과 영화 출시품에 넣고, 그 제품을 평범한 사람들이 복제하여 자기 친구에게 배포하기가 더 까다로워지도록 만듦으로써 반격하였으며, 인위적 희소성을 만들려고 애썼다.",
+        "4": "everyday folks"
+    },
+    {
+        "0": "artificial",
+        "1": "인위적인",
+        "2": "In fact, they fought back by hiring their own programmers to invent “digital rights management” software, putting it in music and film releases, making those wares trickier for everyday folks to copy and hand out to their friends; they tried to create a_________ scarcity.",
+        "3": "사실, 그들은 ‘디지털 저작권 관리’ 소프트웨어를 발명하도록 그들 자체의 프로그래머들을 고용하여, 그것을 음악 출시품과 영화 출시품에 넣고, 그 제품을 평범한 사람들이 복제하여 자기 친구에게 배포하기가 더 까다로워지도록 만듦으로써 반격하였으며, 인위적 희소성을 만들려고 애썼다.",
+        "4": "artificial"
+    },
+    {
+        "0": "scarcity",
+        "1": "희소성, 품귀(品貴)",
+        "2": "In fact, they fought back by hiring their own programmers to invent “digital rights management” software, putting it in music and film releases, making those wares trickier for everyday folks to copy and hand out to their friends; they tried to create artificial s_______.",
+        "3": "사실, 그들은 ‘디지털 저작권 관리’ 소프트웨어를 발명하도록 그들 자체의 프로그래머들을 고용하여, 그것을 음악 출시품과 영화 출시품에 넣고, 그 제품을 평범한 사람들이 복제하여 자기 친구에게 배포하기가 더 까다로워지도록 만듦으로써 반격하였으며, 인위적 희소성을 만들려고 애썼다.",
+        "4": "scarcity"
+    },
+    {
+        "0": "interest",
+        "1": "이익 집단",
+        "2": "If wealthy i________ don’t like what some code is doing, they’ll pay to create software that fights in the opposite direction.",
+        "3": "부유한 이익 집단은 어떤 코드가 하고 있는 일이 맘에 들지 않으면 반대 방향으로 싸우는 소프트웨어를 만들기 위해 비용을 댈 것이다.",
+        "4": "interests"
+    },
+    {
+        "0": "code",
+        "1": "코드(데이터나 명령의 약자·기호에 의한 표현), 법규",
+        "2": "If wealthy interests don’t like what some c___ is doing, they’ll pay to create software that fights in the opposite direction.",
+        "3": "부유한 이익 집단은 어떤 코드가 하고 있는 일이 맘에 들지 않으면 반대 방향으로 싸우는 소프트웨어를 만들기 위해 비용을 댈 것이다.",
+        "4": "code"
+    },
+    {
+        "0": "in the opposite direction",
+        "1": "반대 방향으로",
+        "2": "If wealthy interests don’t like what some code is doing, they’ll pay to create software that fights i_ ___ ________ _________.",
+        "3": "부유한 이익 집단은 어떤 코드가 하고 있는 일이 맘에 들지 않으면 반대 방향으로 싸우는 소프트웨어를 만들기 위해 비용을 댈 것이다.",
+        "4": "in the opposite direction"
+    },
+    {
+        "0": "giveth",
+        "1": "gives의 고어",
+        "2": "Code g_____, and code taketh away.",
+        "3": "코드께서 주시노라, 그리고 코드께서 가져가시노라.",
+        "4": "giveth"
+    },
+    {
+        "0": "taketh",
+        "1": "takes의 고어",
+        "2": "Code giveth, and code t_____ away.",
+        "3": "코드께서 주시노라, 그리고 코드께서 가져가시노라.",
+        "4": "taketh"
+    }
+]

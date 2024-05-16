@@ -1,0 +1,142 @@
+[
+    {
+        "0": "representative",
+        "1": "대표(자)",
+        "2": "The philosopher Michel de Montaigne is an early r_____________ of a different view of media.",
+        "3": "철학자 Michel de Montaigne는 미디어에 대한 다른 관점을 지닌 초기 대표자이다.",
+        "4": "representative"
+    },
+    {
+        "0": "unique",
+        "1": "독특한",
+        "2": "He considered writing to be a u_____ way of exploring and recording “traits of my character and my humours,” which he famously did best while working alone in his writing tower.",
+        "3": "그는 글쓰기를 '내 성격과 내 기질의 특성'을 탐구하고 기록하는 독특한 방법으로 여겼는데, 그는 자신의 글쓰기 탑에서 혼자 일하는 동안 그것을 가장 잘한 것으로 유명하다.",
+        "4": "unique"
+    },
+    {
+        "0": "trait",
+        "1": "특성",
+        "2": "He considered writing to be a unique way of exploring and recording “t_____ of my character and my humours,” which he famously did best while working alone in his writing tower.",
+        "3": "그는 글쓰기를 '내 성격과 내 기질의 특성'을 탐구하고 기록하는 독특한 방법으로 여겼는데, 그는 자신의 글쓰기 탑에서 혼자 일하는 동안 그것을 가장 잘한 것으로 유명하다.",
+        "4": "traits"
+    },
+    {
+        "0": "humour",
+        "1": "기질",
+        "2": "He considered writing to be a unique way of exploring and recording “traits of my character and my h______,” which he famously did best while working alone in his writing tower.",
+        "3": "그는 글쓰기를 '내 성격과 내 기질의 특성'을 탐구하고 기록하는 독특한 방법으로 여겼는데, 그는 자신의 글쓰기 탑에서 혼자 일하는 동안 그것을 가장 잘한 것으로 유명하다.",
+        "4": "humours"
+    },
+    {
+        "0": "continuously",
+        "1": "계속",
+        "2": "In fact, he actively used the opportunities of pen and paper to c___________ revise and make additions to his essays, in a manner reminiscent of what goes on in the recording studio.",
+        "3": "사실, 그는 펜과 종이의 기회를 적극적으로 이용하여 자신의 에세이를 계속해서 수정하고 추가했는데, 녹음실에서 진행되는 일을 연상시키는 방식으로였다. ",
+        "4": "continuously"
+    },
+    {
+        "0": "revise",
+        "1": "수정하다",
+        "2": "In fact, he actively used the opportunities of pen and paper to continuously r_____ and make additions to his essays, in a manner reminiscent of what goes on in the recording studio.",
+        "3": "사실, 그는 펜과 종이의 기회를 적극적으로 이용하여 자신의 에세이를 계속해서 수정하고 추가했는데, 녹음실에서 진행되는 일을 연상시키는 방식으로였다. ",
+        "4": "revise"
+    },
+    {
+        "0": "recording studio",
+        "1": "녹음실",
+        "2": "In fact, he actively used the opportunities of pen and paper to continuously revise and make additions to his essays, in a manner reminiscent of what goes on in the r________ ______.",
+        "3": "사실, 그는 펜과 종이의 기회를 적극적으로 이용하여 자신의 에세이를 계속해서 수정하고 추가했는데, 녹음실에서 진행되는 일을 연상시키는 방식으로였다. ",
+        "4": "recording studio"
+    },
+    {
+        "0": "celebrate",
+        "1": "찬양하다",
+        "2": "The ability of writers to express their inner lives, and to imagine the experiences of others, has always been broadly c_________, including the way novels are able to place various personalities and worldviews into dialogue with one another.",
+        "3": "소설이 다양한 인물과 서계관을 서로 간의 대화 속에 녹여 낼 수 있는 방법을 포함하여, 자기 내면의 삶을 표현하고 다른 사람들의 경험을 상상하는 작가들의 능력은 항상 널리 찬양되었다.",
+        "4": "celebrated"
+    },
+    {
+        "0": "personality",
+        "1": "인물",
+        "2": "The ability of writers to express their inner lives, and to imagine the experiences of others, has always been broadly celebrated, including the way novels are able to place various p____________ and worldviews into dialogue with one another.",
+        "3": "소설이 다양한 인물과 서계관을 서로 간의 대화 속에 녹여 낼 수 있는 방법을 포함하여, 자기 내면의 삶을 표현하고 다른 사람들의 경험을 상상하는 작가들의 능력은 항상 널리 찬양되었다.",
+        "4": "personalities"
+    },
+    {
+        "0": "distribution",
+        "1": "유통",
+        "2": "The growth in d___________ of books gave people fresh insight into the motivations and sentiments of others.",
+        "3": "책 유통의 증가는 사람들에게 다른 사람들의 동기와 감정을 들여다볼 수 있는 새로운 통찰력을 주었다. ",
+        "4": "distribution"
+    },
+    {
+        "0": "insight",
+        "1": "통찰력",
+        "2": "The growth in distribution of books gave people fresh i______ into the motivations and sentiments of others.",
+        "3": "책 유통의 증가는 사람들에게 다른 사람들의 동기와 감정을 들여다볼 수 있는 새로운 통찰력을 주었다. ",
+        "4": "insight"
+    },
+    {
+        "0": "sentiment",
+        "1": "감정",
+        "2": "The growth in distribution of books gave people fresh insight into the motivations and s________ of others.",
+        "3": "책 유통의 증가는 사람들에게 다른 사람들의 동기와 감정을 들여다볼 수 있는 새로운 통찰력을 주었다. ",
+        "4": "sentiments"
+    },
+    {
+        "0": "defining",
+        "1": "결정적으로 중요한",
+        "2": "The ability to provide increasingly detailed access to people’s lives has since been considered a d_______ trait of electronic media, dramatically demonstrated by witness reports from warzones.",
+        "3": "소설이 다양한 인물과 서계관을 서로 간의 대화 속에 녹여 낼 수 있는 방법을 포함하여, 자기 내면의 삶을 표현하고 다른 사람들의 경험을 상상하는 작가들의 능력은 항상 널리 찬양되었다.",
+        "4": "defining"
+    },
+    {
+        "0": "demonstrate",
+        "1": "보여 주다",
+        "2": "The ability to provide increasingly detailed access to people’s lives has since been considered a defining trait of electronic media, dramatically d__________ by witness reports from warzones.",
+        "3": "소설이 다양한 인물과 서계관을 서로 간의 대화 속에 녹여 낼 수 있는 방법을 포함하여, 자기 내면의 삶을 표현하고 다른 사람들의 경험을 상상하는 작가들의 능력은 항상 널리 찬양되었다.",
+        "4": "demonstrated"
+    },
+    {
+        "0": "witness",
+        "1": "목격자",
+        "2": "The ability to provide increasingly detailed access to people’s lives has since been considered a defining trait of electronic media, dramatically demonstrated by w_____ reports from warzones.",
+        "3": "소설이 다양한 인물과 서계관을 서로 간의 대화 속에 녹여 낼 수 있는 방법을 포함하여, 자기 내면의 삶을 표현하고 다른 사람들의 경험을 상상하는 작가들의 능력은 항상 널리 찬양되었다.",
+        "4": "witness"
+    },
+    {
+        "0": "warzone",
+        "1": "전쟁 지역",
+        "2": "The ability to provide increasingly detailed access to people’s lives has since been considered a defining trait of electronic media, dramatically demonstrated by witness reports from w_______.",
+        "3": "소설이 다양한 인물과 서계관을 서로 간의 대화 속에 녹여 낼 수 있는 방법을 포함하여, 자기 내면의 삶을 표현하고 다른 사람들의 경험을 상상하는 작가들의 능력은 항상 널리 찬양되었다.",
+        "4": "warzones"
+    },
+    {
+        "0": "trigger",
+        "1": "촉발하다",
+        "2": "These points can t______ a critical awareness of the power of mediated communication but might also inspire a nuanced appreciation of its rewards.",
+        "3": "이러한 점은 매개 커뮤니케이션의 힘에 대한 비판적 인식을 촉발할 수 있지만, 그것의 보상에 대해 미묘하게 다른 이해를 불러일으킬 수도 있을 것이다.",
+        "4": "trigger"
+    },
+    {
+        "0": "mediated communication",
+        "1": "매개 커뮤니케이션",
+        "2": "These points can trigger a critical awareness of the power of m_______ _____________ but might also inspire a nuanced appreciation of its rewards.",
+        "3": "이러한 점은 매개 커뮤니케이션의 힘에 대한 비판적 인식을 촉발할 수 있지만, 그것의 보상에 대해 미묘하게 다른 이해를 불러일으킬 수도 있을 것이다.",
+        "4": "mediated communication"
+    },
+    {
+        "0": "inspire",
+        "1": "불러일으키다",
+        "2": "These points can trigger a critical awareness of the power of mediated communication but might also i______ a nuanced appreciation of its rewards.",
+        "3": "이러한 점은 매개 커뮤니케이션의 힘에 대한 비판적 인식을 촉발할 수 있지만, 그것의 보상에 대해 미묘하게 다른 이해를 불러일으킬 수도 있을 것이다.",
+        "4": "inspire"
+    },
+    {
+        "0": "appreciation",
+        "1": "이해, 감사",
+        "2": "These points can trigger a critical awareness of the power of mediated communication but might also inspire a nuanced a___________ of its rewards.",
+        "3": "이러한 점은 매개 커뮤니케이션의 힘에 대한 비판적 인식을 촉발할 수 있지만, 그것의 보상에 대해 미묘하게 다른 이해를 불러일으킬 수도 있을 것이다.",
+        "4": "appreciation"
+    }
+]

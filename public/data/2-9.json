@@ -1,0 +1,72 @@
+[
+    {
+        "0": "authenticity",
+        "1": "진정성",
+        "2": "A___________ and objective success are independent of each other.",
+        "3": "진정성과 객관적인 성공은 서로 관련이 없다.",
+        "4": "authenticity "
+    },
+    {
+        "0": "authenticity",
+        "1": "진정성",
+        "2": "S__________ success (success as perceived by the individual) could potentially be high even with low a_________.",
+        "3": "주관적인 성공(개인에 의해 인식되는 성공)은 심지어 진정성이 낮아도 잠재적으로 높을 수 있을 것이다.",
+        "4": "authenticity "
+    },
+    {
+        "0": "objective",
+        "1": "객관적인",
+        "2": "Authenticity and o_________ success are independent of each other.",
+        "3": "진정성과 객관적인 성공은 서로 관련이 없다.",
+        "4": "objective"
+    },
+    {
+        "0": "pursue",
+        "1": "추구하다",
+        "2": "The fact that a person is p_______ a career path that is an authentic expression of his or her most deeply held values and strongest interests says nothing about how successful the person will be in attaining career outcomes that others can observe.",
+        "3": "한 사람이 자신의 마음속에 가장 깊이 간직한 가치와 가장 강한 관심사를 진정으로 표현하는 진로를 추구하고 있다는 사실은 다른 사람들이 관찰할 수 있는 직업적 성과를 얻는 데 그 사람이 얼마나 성공할 것인지에 대해 아무것도 말해 주지 않는다.",
+        "4": "pursuing"
+    },
+    {
+        "0": "attain",
+        "1": "얻다, 달성하다",
+        "2": "The fact that a person is pursuing a career path that is an authentic expression of his or her most deeply held values and strongest interests says nothing about how successful the person will be in a_________ career outcomes that others can observe.",
+        "3": "한 사람이 자신의 마음속에 가장 깊이 간직한 가치와 가장 강한 관심사를 진정으로 표현하는 진로를 추구하고 있다는 사실은 다른 사람들이 관찰할 수 있는 직업적 성과를 얻는 데 그 사람이 얼마나 성공할 것인지에 대해 아무것도 말해 주지 않는다.",
+        "4": "attaining"
+    },
+    {
+        "0": "subjective",
+        "1": "주관적인",
+        "2": "S__________ success (success as perceived by the individual) could potentially be high even with low authenticity.",
+        "3": "주관적인 성공(개인에 의해 인식되는 성공)은 심지어 진정성이 낮아도 잠재적으로 높을 수 있을 것이다.",
+        "4": "subjective"
+    },
+    {
+        "0": "counterintuitive",
+        "1": "직관에 반대되는",
+        "2": "While this might seem c__________________, consider a person who had created an organization that was very successful, creating a huge fortune for the person.",
+        "3": "이것이 직관에 반대되는 것처럼 보일 수도 있지만, 큰 성공을 거두어 그 사람에게 엄청난 재산을 창출해 준 조직체를 만든 사람을 생각해보라.",
+        "4": "counterintuitive"
+    },
+    {
+        "0": "fortune",
+        "1": "재산",
+        "2": "While this might seem counterintuitive, consider a person who had created an organization that was very successful, creating a huge f_______ for the person.",
+        "3": "이것이 직관에 반대되는 것처럼 보일 수도 있지만, 큰 성공을 거두어 그 사람에게 엄청난 재산을 창출해 준 조직체를 만든 사람을 생각해보라.",
+        "4": "fortune"
+    },
+    {
+        "0": "venture",
+        "1": "벤처 사업",
+        "2": "The person might subjectively see herself as being highly successful in this v______.",
+        "3": "그 사람은 자신이 이 벤처 사업에서 매우 성공적이라고 주관적으로 생각할 수도 있을 것이다.",
+        "4": "venture"
+    },
+    {
+        "0": "executive",
+        "1": "(기업체 따위의) 경영 간부, 중역, 임원",
+        "2": "Her authentic self would be a painter, but her actual self had become an e________, whose life had little room for art.",
+        "3": "그녀의 진정한 자아는 화가일 것이지만, 그녀의 실제 자아는 이미 경영 간부가 되어 버려서, 자신의 삶에 예술이 자리잡을 공간은 거의 없었다.",
+        "4": "executive"
+    }
+]
