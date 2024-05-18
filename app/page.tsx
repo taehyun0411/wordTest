@@ -34,10 +34,9 @@ const title = () => {
     );
 }; //semicolon 글씨 함수
 const Checking = () => { //주석 달기 너무 귀찮 모르는거 걍 물어봐
-  const [selectedOptions, setSelectedOptions] = useState([]);//옵션의 초기 상태와 옵션의 값 설정을 구현
+  const [selectedOptions, setSelectedOptions] = useState<string[]>([]);//옵션의 초기 상태와 옵션의 값 설정을 구현
   const { handleSubmit } = useForm(); // 제출 형태를 구현(Button{submit})
   const router = useRouter();//페이지간 전환을 구현
-
   const options = [
       { label: '1-1', value: '1-1' },
       { label: '1-2', value: '1-2' },
@@ -77,6 +76,15 @@ const Checking = () => { //주석 달기 너무 귀찮 모르는거 걍 물어�
   const handleCheckboxChange = (values : any) => {
     setSelectedOptions(values);
   };
+
+    const handleSelectAll = () => {
+    const allValues = options.map((option) => option.value);
+    setSelectedOptions(allValues);
+  };
+
+  const handleDeselectAll = () => {
+    setSelectedOptions([]);
+  };
   const handleClick = () => {
       router.push("/test");
   }
@@ -96,10 +104,18 @@ const Checking = () => { //주석 달기 너무 귀찮 모르는거 걍 물어�
           </Checkbox>
         ))}
       </CheckboxGroup>
-    <Button color="primary" type='submit' className="flex flex-col items-center justify-center mt-6"
-    onClick={handleClick}>
-      NEXT
-    </Button>
+        <div className="flex flex-row items-center justify-center mt-4">
+            <Button color="primary" type="button" onClick={handleSelectAll} className="mr-2">
+                Select All
+            </Button>
+            <Button color="primary" type="button" onClick={handleDeselectAll}>
+                Deselect All
+            </Button>
+        </div>
+        <Button color="primary" type="submit" className="flex flex-col items-center justify-center mt-6"
+                onClick={handleClick}>
+            NEXT
+        </Button>
     </form>
   );
 };
