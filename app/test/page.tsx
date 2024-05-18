@@ -1,7 +1,10 @@
 'use client';
 
 import {any} from "prop-types";
-import React, {useEffect, useState} from "react";
+import React, {useEffect, useRef, useState} from "react";
+import {Textarea} from "@nextui-org/input";
+import {Button} from "@nextui-org/button";
+import {Input} from "@nextui-org/input";
 
 interface DataArrays {
   [key: string]: any;
@@ -69,6 +72,7 @@ export default function Home() {
 
   let tempdayResult : string[] = [];
   const [RdayResult,setRdayResult] = React.useState<string[]>([]);
+const [incorrectAnswer,setincorrectAnswer] = React.useState<string[]>([]);
 
   useEffect(() => {
 
@@ -78,7 +82,7 @@ export default function Home() {
       const result = JSON.parse(temp);
       const resultArrays = result.map((key: string) =>  {
           const dataKey = `data${key.replace("-", "")}`;
-          console.log(dataKey);
+
           if (!tempdayResult.includes(data[dataKey])) {
               tempdayResult.push(...data[dataKey]);
             }
@@ -93,33 +97,80 @@ export default function Home() {
   console.log(RdayResult);
   const [currentWordindex, setCurrentWordindex] = useState(0);
   const [userAnswer, setUserAnswer] = useState('');
+  const inputRef = useRef<HTMLInputElement | null>(null); // 초기값을 HTMLInputElement | null로 지정
+
+     useEffect(() => {
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
+  }, [currentWordindex]);
 
   const handleSubmit = (e: any) => {
     e.preventDefault();
     if(RdayResult[currentWordindex][4] === userAnswer) {
       alert("Correct!");
     } else {
-      alert("InCorrect!");
+      alert("InCorrect! 정답: " + RdayResult[currentWordindex][4]);
+      setincorrectAnswer((prevIncorrectAnswer) => {
+    return [...prevIncorrectAnswer, RdayResult[currentWordindex][4]];
+  });
     }
     setUserAnswer('');
     setCurrentWordindex(currentWordindex + 1);
+
   };
   if(currentWordindex >= RdayResult.length) {
-    return <p>테스트가 끝났습니다!</p>;
+    return (
+
+        <div className="flex flex-col items-center justify-center">
+        <p>테스트가 종료되었습니다.</p>
+        <Textarea
+          isReadOnly
+          label="틀린 단어는 다음과 같습니다."
+          variant="bordered"
+          labelPlacement="outside"
+          placeholder={incorrectAnswer.join('\n')}
+          className = "mt-6"
+          />
+
+        </div>
+        );
   } else {
 
     return (
-        <div>
-          <p>{RdayResult[currentWordindex][2]}</p>
-          <p>{RdayResult[currentWordindex][3]}</p>
-          <form onSubmit={handleSubmit}>
-            <input
+        <div className="flex flex-col items-center justify-center">
+          <p>총 단어 개수 : {RdayResult.length}</p>
+
+            <p>남은 단어 개수 : {RdayResult.length-currentWordindex}</p>
+          <Textarea
+          isReadOnly
+          label="영어 문장"
+          variant="bordered"
+          labelPlacement="outside"
+          placeholder={RdayResult[currentWordindex][2]}
+
+          />
+          <Textarea
+              isReadOnly
+          label="해석"
+          variant="bordered"
+          labelPlacement="outside"
+          placeholder={RdayResult[currentWordindex][3]}
+
+          className = "mt-6"
+          />
+          <form onSubmit={handleSubmit} className="mt-6">
+            <Input
                 type="text"
                 value={userAnswer}
                 onChange={(e: any) => setUserAnswer(e.target.value)}
                 placeholder="영어단어를 입력하세요."
+                label = "Answer"
+                ref={inputRef}
             />
-            <button type='submit'>제출</button>
+            <Button color="primary" type="submit" className="mt-6">
+                NEXT
+            </Button>
           </form>
         </div>
 
@@ -145,4 +196,3 @@ export default function Home() {
   }
   return array;
 }
-

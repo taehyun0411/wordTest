@@ -5,13 +5,14 @@ import React, {useState} from 'react';
 import {useForm} from 'react-hook-form';
 import {Button} from "@nextui-org/button";
 import { useRouter} from "next/navigation";
-import { sql } from "@vercel/postgres";
+
 
 
 
 export default function Home() {
 
 	return (
+        <div>
 		<div className="flex flex-col items-center justify-center">
 			<div className="mt-6">
 				{ title() }
@@ -19,22 +20,23 @@ export default function Home() {
 			<div className="mt-6">
                 { Checking() }
 			</div>
-		</div>
+        </div>
 
-	);
+        </div>
+    );
 }
 
 const title = () => {
-	return (
-		<div>
-			<span className="text-white font-bold text-4xl">SemiColon</span>
-		</div>
-	);
-};
-const Checking = () => {
-  const [selectedOptions, setSelectedOptions] = useState([]);
-  const { handleSubmit } = useForm();
-  const router = useRouter();
+    return (
+        <div>
+            <span className="text-white font-bold text-4xl">SemiColon</span>
+        </div>
+    );
+}; //semicolon 글씨 함수
+const Checking = () => { //주석 달기 너무 귀찮 모르는거 걍 물어봐
+  const [selectedOptions, setSelectedOptions] = useState([]);//옵션의 초기 상태와 옵션의 값 설정을 구현
+  const { handleSubmit } = useForm(); // 제출 형태를 구현(Button{submit})
+  const router = useRouter();//페이지간 전환을 구현
 
   const options = [
       { label: '1-1', value: '1-1' },
