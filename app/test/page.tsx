@@ -34,8 +34,8 @@ const T11 =   require('../../public/data/1-1.json')
   const T42 = require('../../public/data/4-2.json')
   const T43 = require('../../public/data/4-3.json')
   const T44 = require('../../public/data/4-4.json')
-  const T45 = require('../../public/data/4-4.json')
-  const T46 = require('../../public/data/4-4.json')
+  const T45 = require('../../public/data/4-5.json')
+  const T46 = require('../../public/data/4-6.json')
 
   const data: DataArrays = {
     data11: jsonToArray(T11),
