@@ -1,121 +1,156 @@
 [
     {
-        "0": "lean",
-        "1": "(몸을) 숙이다, 기울이다",
-        "2": "I l____ forward a little in my seat and look out of the window.",
-        "3": "나는 내 좌석에서 약간 앞쪽으로 숙여 창밖을 본다.",
-        "4": "lean"
+        "0": "wonder",
+        "1": "궁금해하다, 경탄하다; 경이(로운 것), 경이감",
+        "2": "W_________ goes beyond merely being curious.",
+        "3": "(궁금해하고 경탄하는 것)은 단지 호기심 있는 것은 넘어선다.",
+        "4": "wondering"
     },
     {
-        "0": "have yet to do",
-        "1": "아직~하지 않다",
-        "2": "Our flight to Peru h__ ___ __ reach cruising altitude.",
-        "3": "우리의 페루행 비행기는 아직 순항 고도에 이르지 않았다.",
-        "4": "has yet to"
+        "0": "wonder",
+        "1": "궁금해하다, 경탄하다; 경이(로운 것), 경이감",
+        "2": "To marvel at something is also linked to w_________.",
+        "3": "어떤 것에 경탄하는 것도 (궁금해하고 경탄하는 것)과 연관돼 있다.",
+        "4": "wondering"
     },
     {
-        "0": "cruise",
-        "1": "순항하다,(꾸준한 속도로) 나아가다",
-        "2": "Our flight to Peru has yet to reach c________ altitude.",
-        "3": "우리의 페루행 비행기는 아직 순항 고도에 이르지 않았다.",
-        "4": "cruising"
+        "0": "wonder",
+        "1": "궁금해하다, 경탄하다; 경이(로운 것), 경이감",
+        "2": "While marvels and w______ often refer to awe-evoking things, when children engage in w______, they do much more than simply sit in a state of passive reverential awe.",
+        "3": "경탄스러운 것과 경이로운 것이란 흔히 경외감을 일으키는 것을 지칭하지만, 아이는 경이감을 느끼고 있을 때 수동적인 경건한 경외감의 상태로 앉아 있기만 하는 것보다 훨씬 더 많은 것을 한다.",
+        "4": "wonders,wonder"
     },
     {
-        "0": "just about",
-        "1": "거의,대략",
-        "2": "Below us, I can j___ _____ make out roads, houses and fields, cows in a pasture, here and there a village, and a city in the far distance.",
-        "3": "우리 아래로 나는 도로, 가옥과 들판, 목초지의 소, 여기저기에 있는 마을,  그리고 아주 먼 곳의 도시를 거의 알아볼 수 있다.",
-        "4": "just about"
+        "0": "prior",
+        "1": "사전의, 우선하는",
+        "2": "Building on p____ knowledge and some sense of major causual and spatial patterns, we entertain rough sketches of possibilities or interpretations and strive to learn which is more accurate and how it is filled out.",
+        "3": "사전 지식과 인과 관계의 그리고 공간의 주요한 패턴에 관한 약간의 감각을 기반으로 하여, 우리는 가능한 것이나 이해한 것의 대략적인 윤곽을 생각하고 어떤 것이 더 정확한지 그리고 어떻게 그것이 완성되는지 알기 위해 애쓴다.",
+        "4": "prior"
     },
     {
-        "0": "make out",
-        "1": "~을 알아보다",
-        "2": "Below us, I can just about m____ ___ roads, houses and fields, cows in a pasture, here and there a village, and a city in the far distance.",
-        "3": "우리 아래로 나는 도로, 가옥과 들판, 목초지의 소, 여기저기에 있는 마을,  그리고 아주 먼 곳의 도시를 거의 알아볼 수 있다.",
-        "4": "make out"
+        "0": "causual",
+        "1": "인과 관계의",
+        "2": "Building on prior knowledge and some sense of major c______ and spatial patterns, we entertain rough sketches of possibilities or interpretations and strive to learn which is more accurate and how it is filled out.",
+        "3": "사전 지식과 인과 관계의 그리고 공간의 주요한 패턴에 관한 약간의 감각을 기반으로 하여, 우리는 가능한 것이나 이해한 것의 대략적인 윤곽을 생각하고 어떤 것이 더 정확한지 그리고 어떻게 그것이 완성되는지 알기 위해 애쓴다.",
+        "4": "causual"
     },
     {
-        "0": "pasture",
-        "1": "목초지",
-        "2": "Below us, I can just about make out roads, houses and fields, cows in a p______, here and there a village, and a city in the far distance.",
-        "3": "우리 아래로 나는 도로, 가옥과 들판, 목초지의 소, 여기저기에 있는 마을,  그리고 아주 먼 곳의 도시를 거의 알아볼 수 있다.",
-        "4": "pasture"
+        "0": "spatial",
+        "1": "공간의, 공간적인",
+        "2": "Building on prior knowledge and some sense of major causual and s______ patterns, we entertain rough sketches of possibilities or interpretations and strive to learn which is more accurate and how it is filled out.",
+        "3": "사전 지식과 인과 관계의 그리고 공간의 주요한 패턴에 관한 약간의 감각을 기반으로 하여, 우리는 가능한 것이나 이해한 것의 대략적인 윤곽을 생각하고 어떤 것이 더 정확한지 그리고 어떻게 그것이 완성되는지 알기 위해 애쓴다.",
+        "4": "spatial"
     },
     {
-        "0": "comparison",
-        "1": "비유,비교",
-        "2": "It’s not a bad c__________, I think.",
-        "3": "그것이 형편없는 비유는 아니라는 생각이 든다.",
-        "4": "comparison"
+        "0": "entertain",
+        "1": "생각하다, (생각·희망·감정 등을) 품다",
+        "2": "Building on prior knowledge and some sense of major causual and spatial patterns, we e________ rough sketches of possibilities or interpretations and strive to learn which is more accurate and how it is filled out.",
+        "3": "사전 지식과 인과 관계의 그리고 공간의 주요한 패턴에 관한 약간의 감각을 기반으로 하여, 우리는 가능한 것이나 이해한 것의 대략적인 윤곽을 생각하고 어떤 것이 더 정확한지 그리고 어떻게 그것이 완성되는지 알기 위해 애쓴다.",
+        "4": "entertain"
     },
     {
-        "0": "spectacular",
-        "1": "멋진, 장관을 이루는",
-        "2": "Everything I can see from up here is something I have encountered in my research on ants: fixed roads, s__________ buildings, agriculture, livestock farming.",
-        "3": "여기 위에서 내가 볼 수 있는 모든 것은 내가 나의 개미 연구에서 마주쳤던 것으로 고정된 도로,  멋진 건물, 농업, 목축이다.",
-        "4": "spectacular"
+        "0": "interpretation",
+        "1": "이해, 해석, 설명",
+        "2": "Building on prior knowledge and some sense of major causual and s______ patterns, we entertain rough sketches of possibilities or i______________ and strive to learn which is more accurate and how it is filled out.",
+        "3": "사전 지식과 인과 관계의 그리고 공간의 주요한 패턴에 관한 약간의 감각을 기반으로 하여, 우리는 가능한 것이나 이해한 것의 대략적인 윤곽을 생각하고 어떤 것이 더 정확한지 그리고 어떻게 그것이 완성되는지 알기 위해 애쓴다.",
+        "4": "interpretations"
     },
     {
-        "0": "agriculture",
-        "1": "농업",
-        "2": "Everything I can see from up here is something I have encountered in my research on ants: fixed roads, spectacular buildings, a__________, livestock farming.",
-        "3": "여기 위에서 내가 볼 수 있는 모든 것은 내가 나의 개미 연구에서 마주쳤던 것으로 고정된 도로,  멋진 건물, 농업, 목축이다.",
-        "4": "agriculture"
+        "0": "strive",
+        "1": "애쓰다, 노력하다",
+        "2": "Building on prior knowledge and some sense of major causual and spatial patterns, we entertain rough sketches of possibilities or interpretations and s_____ to learn which is more accurate and how it is filled out.",
+        "3": "사전 지식과 인과 관계의 그리고 공간의 주요한 패턴에 관한 약간의 감각을 기반으로 하여, 우리는 가능한 것이나 이해한 것의 대략적인 윤곽을 생각하고 어떤 것이 더 정확한지 그리고 어떻게 그것이 완성되는지 알기 위해 애쓴다.",
+        "4": "strive"
     },
     {
-        "0": "livestock farming",
-        "1": "목축",
-        "2": "Everything I can see from up here is something I have encountered in my research on ants: fixed roads, spectacular buildings, agriculture, l_______ _______.",
-        "3": "여기 위에서 내가 볼 수 있는 모든 것은 내가 나의 개미 연구에서 마주쳤던 것으로 고정된 도로,  멋진 건물, 농업, 목축이다.",
-        "4": "livestock farming"
+        "0": "fill out",
+        "1": "~을 완성하다, ~을 채우다",
+        "2": "Building on prior knowledge and some sense of major causual and spatial patterns, we entertain rough sketches of possibilities or interpretations and strive to learn which is more accurate and how it is f______ ___.",
+        "3": "사전 지식과 인과 관계의 그리고 공간의 주요한 패턴에 관한 약간의 감각을 기반으로 하여, 우리는 가능한 것이나 이해한 것의 대략적인 윤곽을 생각하고 어떤 것이 더 정확한지 그리고 어떻게 그것이 완성되는지 알기 위해 애쓴다.",
+        "4": "filled out"
     },
     {
-        "0": "go about",
-        "1": "계속~을 하다,~을시작하다",
-        "2": "In times of peace, they g_ _____ their work, sharing the labor fairly.",
-        "3": "평화로운 시기에 그것들은 노동을 공정 하게 분담하며 자신들이 평소에 하던 일을 계속 한다.",
-        "4": "go about"
+        "0": "awe",
+        "1": "경외감",
+        "2": "While marvels and wonders often refer to a__-evoking things, when children engage in wonder, they do much more than simply sit in a state of passive reverential a__.",
+        "3": "경탄스러운 것과 경이로운 것이란 흔히 경외감을 일으키는 것을 지칭하지만, 아이는 경이감을 느끼고 있을 때 수동적인 경건한 경외감의 상태로 앉아 있기만 하는 것보다 훨씬 더 많은 것을 한다.",
+        "4": "awe"
     },
     {
-        "0": "wet nurse",
-        "1": "유모",
-        "2": "Each has a job, from the w__ ______ in the nursery to the architects, construction workers, and housekeepers in the nest, to the hunters and gatherers, who ensure that everyone is fed.",
-        "3": "각자는 할  일이 있는데, 탁아 시설의 유모부터 건축가, 건설 노동자, 둥지의  살림꾼까지, 그리고 모두가 먹도록 보장해 주는 수렵꾼과 채집꾼 까지이다.",
-        "4": "wet nurses"
+        "0": "awe",
+        "1": "경외감",
+        "2": "Their a__ is better described by the naturalist Rachel Carson — a joyous marveling at how an insight has revealed an enormous new expanse of possible patterns to explore.",
+        "3": "아이의 경외감은 동식물학자 Rachel Carson에 의해 더 잘 설명되는데, 그것은 곧 탐구할, 가능한 패턴의 거대한 새 영역을 통찰력이 드러낸 방식에 대한 기쁜 경탄이다.",
+        "4": "awe"
     },
     {
-        "0": "nursery",
-        "1": "탁아 시설",
-        "2": "Each has a job, from the wet nurses in the n______ to the architects, construction workers, and housekeepers in the nest, to the hunters and gatherers, who ensure that everyone is fed.",
-        "3": "각자는 할  일이 있는데, 탁아 시설의 유모부터 건축가, 건설 노동자, 둥지의  살림꾼까지, 그리고 모두가 먹도록 보장해 주는 수렵꾼과 채집꾼 까지이다.",
-        "4": "nursery"
+        "0": "expanse",
+        "1": "(광활한) 영역, 확장",
+        "2": "Their awe is better described by the naturalist Rachel Carson — a joyous marveling at how an insight has revealed an enormous new e______ of possible patterns to explore.",
+        "3": "아이의 경외감은 동식물학자 Rachel Carson에 의해 더 잘 설명되는데, 그것은 곧 탐구할, 가능한 패턴의 거대한 새 영역을 통찰력이 드러낸 방식에 대한 기쁜 경탄이다.",
+        "4": "expanse"
     },
     {
-        "0": "architect",
-        "1": "건축가",
-        "2": "Each has a job, from the wet nurses in the nursery to the a_________, construction workers, and housekeepers in the nest, to the hunters and gatherers, who ensure that everyone is fed.",
-        "3": "각자는 할  일이 있는데, 탁아 시설의 유모부터 건축가, 건설 노동자, 둥지의  살림꾼까지, 그리고 모두가 먹도록 보장해 주는 수렵꾼과 채집꾼 까지이다.",
-        "4": "architects"
+        "0": "dumbstruck",
+        "1": "놀라서 말도 못하는",
+        "2": "It is not the d_________, potentially fear-laden sense of awe experienced by adults.",
+        "3": "그것은 성인이 경험하는, 놀라서 말도 못 하는, 잠재적으로 두려움이 가득한 의미의 경외감이 아니다.",
+        "4": "dumbstruck"
     },
     {
-        "0": "border",
-        "1": "경계,국경",
-        "2": "Neighbors fight over the b______ to their territory and wage bitter wars on one another.",
-        "3": "이웃들은 자기 영역의 경계를 놓고 싸우고 서로를 상 대로 격렬한 전쟁을 벌인다.",
-        "4": "borders"
+        "0": "fear-laden",
+        "1": "두려움이 가득한",
+        "2": "It is not the dumbstruck, potentially f__________ sense of awe experienced by adults.",
+        "3": "그것은 성인이 경험하는, 놀라서 말도 못 하는, 잠재적으로 두려움이 가득한 의미의 경외감이 아니다.",
+        "4": "fear-laden"
     },
     {
-        "0": "territory",
-        "1": "(동물등의) 영력, 세력권, 영토",
-        "2": "Neighbors fight over the borders to their t________ and wage bitter wars on one another.",
-        "3": "이웃들은 자기 영역의 경계를 놓고 싸우고 서로를 상 대로 격렬한 전쟁을 벌인다.",
-        "4": "territory"
+        "0": "rock",
+        "1": "흔들리다, 뒤흔들다",
+        "2": "Almost a century ago, in an isolated region of Papua-New Guinea, the anthropologist Margaret Mead observed that, when children were asked to explain why a canoe tied to a tree drifted away overnight, they offered explanations of how the r________ boat gradually loosened up the knot.",
+        "3": "거의 한 세기 전에 파푸아뉴기니의 고립된 지역에서 인류학자 Margaret Mead는 나무에 묶어 두었던 카누가 밤 사이에 떠내려간 이유를 설명하라고 요청받았을 때 아이들은 흔들리는 배가 어떻게 점차로 매듭을 느슨하게 했는지에 관한 설명을 제시한 것을 관찰했다. ",
+        "4": "rocking"
     },
     {
-        "0": "wage a war",
-        "1": "전쟁을 벌이다",
-        "2": "Neighbors fight over the borders to their territory and w____ bitter ____ on one another.",
-        "3": "이웃들은 자기 영역의 경계를 놓고 싸우고 서로를 상 대로 격렬한 전쟁을 벌인다.",
-        "4": "wage wars"
+        "0": "loosen up",
+        "1": "~을 느슨하게 하다",
+        "2": "Almost a century ago, in an isolated region of Papua-New Guinea, the anthropologist Margaret Mead observed that, when children were asked to explain why a canoe tied to a tree drifted away overnight, they offered explanations of how the rocking boat gradually l_______ __ the knot.",
+        "3": "거의 한 세기 전에 파푸아뉴기니의 고립된 지역에서 인류학자 Margaret Mead는 나무에 묶어 두었던 카누가 밤 사이에 떠내려간 이유를 설명하라고 요청받았을 때 아이들은 흔들리는 배가 어떻게 점차로 매듭을 느슨하게 했는지에 관한 설명을 제시한 것을 관찰했다. ",
+        "4": "loosened up"
+    },
+    {
+        "0": "knot",
+        "1": "매듭",
+        "2": "Almost a century ago, in an isolated region of Papua-New Guinea, the anthropologist Margaret Mead observed that, when children were asked to explain why a canoe tied to a tree drifted away overnight, they offered explanations of how the rocking boat gradually loosened up the k___.",
+        "3": "거의 한 세기 전에 파푸아뉴기니의 고립된 지역에서 인류학자 Margaret Mead는 나무에 묶어 두었던 카누가 밤 사이에 떠내려간 이유를 설명하라고 요청받았을 때 아이들은 흔들리는 배가 어떻게 점차로 매듭을 느슨하게 했는지에 관한 설명을 제시한 것을 관찰했다. ",
+        "4": "knot"
+    },
+    {
+        "0": "invoke",
+        "1": "언급하다, 들먹이다",
+        "2": "In contrast, many adults i_______ spirits, moral crimes, and supernatural interventions.",
+        "3": "대조적으로 많은 성인은 유령, 도덕적 범죄, 그리고 초자연의 개입을 언급했다. ",
+        "4": "invoked"
+    },
+    {
+        "0": "supernatural",
+        "1": "초자연적인",
+        "2": "In contrast, many adults invoked spirits, moral crimes, and s_ interventions",
+        "3": "대조적으로 많은 성인은 유령, 도덕적 범죄, 그리고 초자연의 개입을 언급했다. ",
+        "4": "supernatural"
+    },
+    {
+        "0": "intervention",
+        "1": "개입",
+        "2": "In contrast, many adults invoked spirits, moral crimes, and supernatural i___________.",
+        "3": "대조적으로 많은 성인은 유령, 도덕적 범죄, 그리고 초자연의 개입을 언급했다. ",
+        "4": "interventions"
+    },
+    {
+        "0": "agency",
+        "1": "힘, 행위자, 대행사",
+        "2": "When we see young children’s wonder as filled with supernatural a_______, we impose the encultured interpretations of adults.",
+        "3": "아이들의 경이감이 초자연적인 힘으로 채워져 있디고 간주하는 경우, 우리는 성인의 문화화된 해석을 강요하는 것이다.",
+        "4": "agency"
     }
 ]
