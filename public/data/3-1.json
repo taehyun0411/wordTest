@@ -9,7 +9,7 @@
     {
         "0": "nature-nurture war",
         "1": "천성과 교육 사이의 전쟁",
-        "2": "The bitter irony of the n______-_____ ___ of the twentieth century was that a world where nurture was everything would be horribly more cruel than one where nature allowed people to escape their disadvantages through their own talents.",
+        "2": "The bitter irony of the n____________ ____ of the twentieth century was that a world where nurture was everything would be horribly more cruel than one where nature allowed people to escape their disadvantages through their own talents.",
         "3": "20세기의 천성과 교육 사이 전쟁의 쓰라린 아이러니는 교육이 가장 중요한 것인 세상이 천성으로 사람들이 자신의 재능을 통해 자신들의 불리한 상황을 벗어날 수 있는 세상보다 끔찍하게 더 잔인할 거라는 것이었다.",
         "4": "nature-nurture wars"
     },
@@ -30,56 +30,56 @@
     {
         "0": "peculiarly",
         "1": "아주, 특히",
-        "2": "How p______ nasty to write people off because they were born in a slum, or fostered by indifferent parents.",
+        "2": "How p_________ nasty to write people off because they were born in a slum, or fostered by indifferent parents.",
         "3": "빈민가에서 태어났거나 무관심한 부모에 의해 양육되었다는 이유로 사람들을 무가치하게 보는 것은 정말로 아주 불쾌한 일이다.",
         "4": "peculiarly"
     },
     {
         "0": "nasty",
         "1": "불쾌한",
-        "2": "How peculiarly n_____ to write people off because they were born in a slum, or fostered by indifferent parents.",
+        "2": "How peculiarly n____ to write people off because they were born in a slum, or fostered by indifferent parents.",
         "3": "빈민가에서 태어났거나 무관심한 부모에 의해 양육되었다는 이유로 사람들을 무가치하게 보는 것은 정말로 아주 불쾌한 일이다.",
         "4": "nasty"
     },
     {
         "0": "write off",
         "1": "~을 무가치하게 보다",
-        "2": "How peculiarly nasty to w____ people __ because they were born in a slum, or fostered by indifferent parents.",
+        "2": "How peculiarly nasty to w____ people ___ because they were born in a slum, or fostered by indifferent parents.",
         "3": "빈민가에서 태어났거나 무관심한 부모에 의해 양육되었다는 이유로 사람들을 무가치하게 보는 것은 정말로 아주 불쾌한 일이다.",
         "4": "write~off"
     },
     {
         "0": "slum",
         "1": "빈민가",
-        "2": "How peculiarly nasty to write people off because they were born in a s____, or fostered by indifferent parents.",
+        "2": "How peculiarly nasty to write people off because they were born in a s___, or fostered by indifferent parents.",
         "3": "빈민가에서 태어났거나 무관심한 부모에 의해 양육되었다는 이유로 사람들을 무가치하게 보는 것은 정말로 아주 불쾌한 일이다.",
         "4": "slum"
     },
     {
         "0": "foster",
         "1": "양육하다, (양자로) 기르다",
-        "2": "How peculiarly nasty to write people off because they were born in a slum, or f_____ by indifferent parents.",
+        "2": "How peculiarly nasty to write people off because they were born in a slum, or f_______ by indifferent parents.",
         "3": "빈민가에서 태어났거나 무관심한 부모에 의해 양육되었다는 이유로 사람들을 무가치하게 보는 것은 정말로 아주 불쾌한 일이다.",
         "4": "fostered"
     },
     {
         "0": "depict",
         "1": "묘사하다",
-        "2": "The society d______ in Aldous Huxley's Brave New World is usually mistaken these days for one of fatalistic genetic determinism.",
+        "2": "The society d_______ in Aldous Huxley’s Brave New World is usually mistaken these days for one of fatalistic genetic determinism.",
         "3": "Aldous Huxley의 Brave New World에서 묘사된 사회는 요즘에는 보통 운명론적인 유전자 결정론의 사회로 오인된다.",
-        "4": "dipicted"
+        "4": "depicted"
     },
     {
         "0": "fatalistic",
         "1": "운명론적인",
-        "2": "The society depicted in Aldous Huxley's Brave New World is usually mistaken these days for one of f_______ genetic determinism.",
+        "2": "The society depicted in Aldous Huxley’s Brave New World is usually mistaken these days for one of f_________ genetic determinism.",
         "3": "Aldous Huxley의 Brave New World에서 묘사된 사회는 요즘에는 보통 운명론적인 유전자 결정론의 사회로 오인된다.",
         "4": "fatalistic"
     },
     {
         "0": "genetic determinism",
         "1": "유전자 결정론",
-        "2": "The society depicted in Aldous Huxley's Brave New World is usually mistaken these days for one of fatalistic g______ _______.",
+        "2": "The society depicted in Aldous Huxley’s Brave New World is usually mistaken these days for one of fatalistic g______ ___________.",
         "3": "Aldous Huxley의 Brave New World에서 묘사된 사회는 요즘에는 보통 운명론적인 유전자 결정론의 사회로 오인된다.",
         "4": "genetic determinism"
     },
@@ -93,22 +93,22 @@
     {
         "0": "make up for",
         "1": "~을 만회하다, ~을 보상하다",
-        "2": "Despite sending their children to elite pre-schools, the richest of the rich in a city like New York can do little to m___ __ ___ their children's genetic mediocrity; and despite getting little opportunity, brilliant kids from the slums can make it big.",
+        "2": "Despite sending their children to elite pre-schools, the richest of the rich in a city like New York can do little to m____ __ ___ their children’s genetic mediocrity; and despite getting little opportunity, brilliant kids from the slums can make it big.",
         "3": "자녀들을 엘리트 유치원에 보냄에도 불구하고, 뉴욕과 같은 도시의 부자 중에서 가장 부유한 사람들은 자녀들의 유전적 평범함을 만회하기 위해 할 수 있는 것이 거의 없고, 기회를 거의 얻지 못함에도 불구하고, 빈민가 출신의 재능이 뛰어난 아이들은 크게 성공할 수 있다.",
         "4": "make up for"
     },
     {
         "0": "brilliant",
         "1": "재능이 뛰어난, 찬란한",
-        "2": "Despite sending their children to elite pre-schools, the richest of the rich in a city like New York can do little to make up for their children's genetic mediocrity; and despite getting little opportunity, b_______ kids from the slums can make it big.",
+        "2": "Despite sending their children to elite pre-schools, the richest of the rich in a city like New York can do little to make up for their children’s genetic mediocrity; and despite getting little opportunity, b________ kids from the slums can make it big.",
         "3": "자녀들을 엘리트 유치원에 보냄에도 불구하고, 뉴욕과 같은 도시의 부자 중에서 가장 부유한 사람들은 자녀들의 유전적 평범함을 만회하기 위해 할 수 있는 것이 거의 없고, 기회를 거의 얻지 못함에도 불구하고, 빈민가 출신의 재능이 뛰어난 아이들은 크게 성공할 수 있다.",
         "4": "brilliant"
     },
     {
         "0": "make it big",
         "1": "크게 성공하다",
-        "2": "Despite sending their children to elite pre-schools, the richest of the rich in a city like New York can do little to make up for their children's genetic mediocrity; and despite getting little opportunity, brilliant kids from the slums can m____ __ ___.",
+        "2": "Despite sending their children to elite pre-schools, the richest of the rich in a city like New York can do little to make up for their children’s genetic mediocrity; and despite getting little opportunity, brilliant kids from the slums can m___ __ ___.",
         "3": "자녀들을 엘리트 유치원에 보냄에도 불구하고, 뉴욕과 같은 도시의 부자 중에서 가장 부유한 사람들은 자녀들의 유전적 평범함을 만회하기 위해 할 수 있는 것이 거의 없고, 기회를 거의 얻지 못함에도 불구하고, 빈민가 출신의 재능이 뛰어난 아이들은 크게 성공할 수 있다.",
         "4": "make it big"
-    },
+    }
 ]
