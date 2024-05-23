@@ -70,11 +70,11 @@
         "4": "destruction"
     },
     {
-        "0": "agent",
+        "0": "Agent",
         "1": "요원",
         "2": "A_____ in the security services already suspected certain individuals of planning a terrorist attack, but their warnings were lost among the many messages sent to upper levels in Washington in a striking example of ‘information overload’.",
         "3": "보안 기관 요원들은 이미 특정 개인들이 테러 공격을 계획하고 있다고 의심했지만, 그들의 경고는 '정보 과부화'의 눈에 띄는 사례로 워상턴의 고위층에 보내진 많은 메시지 사이에서 사라졌다.",
-        "4": "agents"
+        "4": "Agents"
     },
     {
         "0": "security service",
