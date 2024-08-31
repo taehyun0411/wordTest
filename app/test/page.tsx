@@ -47,7 +47,7 @@ const T11 =   require('../../public/data/7-1.json')
     data73: jsonToArray(T13),
     data74: jsonToArray(T16),
     data77: jsonToArray(T18),
-    dat78: jsonToArray(T19),
+    data78: jsonToArray(T19),
     data79:jsonToArray(T111),
     data710:jsonToArray(T112),
     data81: jsonToArray(T21),
