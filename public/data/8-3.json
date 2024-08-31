@@ -1,0 +1,142 @@
+[
+    {
+        "0": "divinity",
+        "1": "신",
+        "2": "The moon is undoubtedly the earliest d______ that humans worshipped, even before the sun, wind, thunder, ocean, and all the forces of nature.",
+        "3": "달은 의심할 여지 없이 태양, 바람, 천둥, 바다, 그리고 자연의 모든 힘보다 먼저 인간이 숭배했던 가장 초기의 신이다.",
+        "4": "divinity"
+    },
+    {
+        "0": "worship",
+        "1": "숭배하다",
+        "2": "The moon is undoubtedly the earliest divinity that humans w________, even before the sun, wind, thunder, ocean, and all the forces of nature.",
+        "3": "달은 의심할 여지 없이 태양, 바람, 천둥, 바다, 그리고 자연의 모든 힘보다 먼저 인간이 숭배했던 가장 초기의 신이다.",
+        "4": "worshipped"
+    },
+    {
+        "0": "phase",
+        "1": "(달의) 상",
+        "2": "They observed its different p_____, its changing forms, its white light illuminating the darkness, its growth and diminishment, then its disappearance and renewal.",
+        "3": "그들은 그것의 다른 상(相), 그것의 변화하는 형태, 어둠을 비추는 그것의 하얀 빛, 그것의 성장과 감소, 게다가 그것의 소멸과 재생을 관찰했다.",
+        "4": "phases"
+    },
+    {
+        "0": "illuminate",
+        "1": "비추다, 밝게 하다",
+        "2": "They observed its different phases, its changing forms, its white light i__________ the darkness, its growth and diminishment, then its disappearance and renewal.",
+        "3": "그들은 그것의 다른 상(相), 그것의 변화하는 형태, 어둠을 비추는 그것의 하얀 빛, 그것의 성장과 감소, 게다가 그것의 소멸과 재생을 관찰했다.",
+        "4": "illuminating"
+    },
+    {
+        "0": "diminishment",
+        "1": "감소시키다",
+        "2": "They observed its different phases, its changing forms, its white light illuminating the darkness, its growth and d__________, then its disappearance and renewal.",
+        "3": "그들은 그것의 다른 상(相), 그것의 변화하는 형태, 어둠을 비추는 그것의 하얀 빛, 그것의 성장과 감소, 게다가 그것의 소멸과 재생을 관찰했다.",
+        "4": "diminishment"
+    },
+    {
+        "0": "renewal",
+        "1": "재생",
+        "2": "They observed its different phases, its changing forms, its white light illuminating the darkness, its growth and diminishment, then its disappearance and r_______.",
+        "3": "그들은 그것의 다른 상(相), 그것의 변화하는 형태, 어둠을 비추는 그것의 하얀 빛, 그것의 성장과 감소, 게다가 그것의 소멸과 재생을 관찰했다.",
+        "4": "renewal"
+    },
+    {
+        "0": "possess",
+        "1": "가지고 있다, 소유하다",
+        "2": "It was only later that the moon came to be paired with the sun, and later still that humans recognized it p_______ no light of its own but only reflected the sun's light.",
+        "3": "달이 태양과 짝을 이루게 된 것은 실제로 오직 그 이후였고, 그것이 자신의 빛을 가진 게 아니라 단지 태양의 빛을 반사하기만 한다는 것을 인간이 알아차린 것은 훨씬 더 나중이었다.",
+        "4": "possessed"
+    },
+    {
+        "0": "reflect",
+        "1": "반사하다",
+        "2": "It was only later that the moon came to be paired with the sun, and later still that humans recognized it possessed no light of its own but only r_______ the sun's light.",
+        "3": "달이 태양과 짝을 이루게 된 것은 실제로 오직 그 이후였고, 그것이 자신의 빛을 가진 게 아니라 단지 태양의 빛을 반사하기만 한다는 것을 인간이 알아차린 것은 훨씬 더 나중이었다.",
+        "4": "reflected"
+    },
+    {
+        "0": "subordinate",
+        "1": "종속된, 하위의",
+        "2": "From then on, it was more or less s__________ to the sun, becoming its wife, sister, or daughter, even while retaining its remarkable characteristics.",
+        "3": "그때부터 그것은 계속해서 거의 태양에 종속되었고 그것의 아내, 여동생, 또는 딸이 되었지만 그런 와중에서도 그것의 놀라운 특성은 보유하고 있었다.",
+        "4": "subordinate"
+    },
+    {
+        "0": "retain",
+        "1": "보유하다, 유지하다",
+        "2": "From then on, it was more or less subordinate to the sun, becoming its wife, sister, or daughter, even while r_______ its remarkable characteristics.",
+        "3": "그때부터 그것은 계속해서 거의 태양에 종속되었고 그것의 아내, 여동생, 또는 딸이 되었지만 그런 와중에서도 그것의 놀라운 특성은 보유하고 있었다.",
+        "4": "retaining"
+    },
+    {
+        "0": "remarkable",
+        "1": "놀라운",
+        "2": "From then on, it was more or less subordinate to the sun, becoming its wife, sister, or daughter, even while retaining its r_________ characteristics.",
+        "3": "그때부터 그것은 계속해서 거의 태양에 종속되었고 그것의 아내, 여동생, 또는 딸이 되었지만 그런 와중에서도 그것의 놀라운 특성은 보유하고 있었다.",
+        "4": "remarkable"
+    },
+    {
+        "0": "characteristic",
+        "1": "특성",
+        "2": "From then on, it was more or less subordinate to the sun, becoming its wife, sister, or daughter, even while retaining its remarkable c__________.",
+        "3": "그때부터 그것은 계속해서 거의 태양에 종속되었고 그것의 아내, 여동생, 또는 딸이 되었지만 그런 와중에서도 그것의 놀라운 특성은 보유하고 있었다.",
+        "4": "characteristics"
+    },
+    {
+        "0": "designate",
+        "1": "가리키다, 나타내다",
+        "2": "In German, for example, the word d__________ the moon (der Mond) is masculine in gender while the one designating the sun (die Sonne) is feminine.",
+        "3": "예를 들어, 독일어에서 달을 가리키는 단어(der Mond)는 성이 남성인 반면, 태양을 가리키는 단어(die Sonne)는 여성이다.",
+        "4": "designating"
+    },
+    {
+        "0": "masculine",
+        "1": "남성인",
+        "2": "In German, for example, the word designating the moon (der Mond) is m________ in gender while the one designating the sun (die Sonne) is feminine.",
+        "3": "예를 들어, 독일어에서 달을 가리키는 단어(der Mond)는 성이 남성인 반면, 태양을 가리키는 단어(die Sonne)는 여성이다.",
+        "4": "masculine"
+    },
+    {
+        "0": "feminine",
+        "1": "여성인",
+        "2": "In German, for example, the word designating the moon (der Mond) is masculine in gender while the one designating the sun (die Sonne) is f________.",
+        "3": "예를 들어, 독일어에서 달을 가리키는 단어(der Mond)는 성이 남성인 반면, 태양을 가리키는 단어(die Sonne)는 여성이다.",
+        "4": "feminine"
+    },
+    {
+        "0": "inhabit",
+        "1": "살다, 거주하다",
+        "2": "Hence they made it into a higher being, i________ the heavens and gifted with magical powers over all that lived on earth.",
+        "3": "그래서 그들은 그것을 더 높은 존재로 만들었고, 그것은 하늘에 살면서 땅에 사는 모든 것에게 미치는 마법의 힘을 가졌다.",
+        "4": "inhabiting"
+    },
+    {
+        "0": "gifted with",
+        "1": "~을 가진",
+        "2": "Hence they made it into a higher being, inhabiting the heavens and g____ _____ magical powers over all that lived on earth.",
+        "3": "그래서 그들은 그것을 더 높은 존재로 만들었고, 그것은 하늘에 살면서 땅에 사는 모든 것에게 미치는 마법의 힘을 가졌다.",
+        "4": "gifted with"
+    },
+    {
+        "0": "favor",
+        "1": "호의",
+        "2": "They worshipped it in order to win its f____ and prevent it from harming them.",
+        "3": "그들은 그것의 호의를 얻고 그것이 그들을 해롭게 하는 것을 막기 위해 그것을 숭배했다.",
+        "4": "favor"
+    },
+    {
+        "0": "divinity",
+        "1": "신",
+        "2": "Moreover, although it became a female principle in many cultures, in others it remained a male d_____.",
+        "3": "게다가, 비록 그것이 많은 문화에서 여성 신이 되었지만, 다른 문화에서는 그것은 남성 신으로 남아 있었다.",
+        "4": "divinity"
+    },
+    {
+        "0": "worship",
+        "1": "숭배하다",
+        "2": "They w________ it in order to win its favor and prevent it from harming them.",
+        "3": "그들은 그것의 호의를 얻고 그것이 그들을 해롭게 하는 것을 막기 위해 그것을 숭배했다.",
+        "4": "worshipped"
+    }
+]
