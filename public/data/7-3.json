@@ -1,0 +1,135 @@
+[
+    {
+        "0": "starve",
+        "1": "굶주리다",
+        "2": "If your brain thinks you're s_______, it will eventually wear you down, no matter how strong your resolve.",
+        "3": "만약 여러분의 뇌가 여러분이 몹시 배고프다고 생각한다면, 여러분의 결심이 아무리 강하더라도 결국 여러분을 지치게 할 것이다.",
+        "4": "starving"
+    },
+    {
+        "0": "wear down",
+        "1": "~을 지치게 하다",
+        "2": "If your brain thinks you're starving, it will eventually w___ you d____, no matter how strong your resolve.",
+        "3": "만약 여러분의 뇌가 여러분이 몹시 배고프다고 생각한다면, 여러분의 결심이 아무리 강하더라도 결국 여러분을 지치게 할 것이다.",
+        "4": "wear down"
+    },
+    {
+        "0": "resolve",
+        "1": "결심",
+        "2": "If your brain thinks you're starving, it will eventually wear you down, no matter how strong your r______.",
+        "3": "만약 여러분의 뇌가 여러분이 몹시 배고프다고 생각한다면, 여러분의 결심이 아무리 강하더라도 결국 여러분을 지치게 할 것이다.",
+        "4": "resolve"
+    },
+    {
+        "0": "cue",
+        "1": "단서",
+        "2": "The solution is to give it the c___ it needs to realize you aren't starving.",
+        "3": "해결책은 여러분이 몹시 배고프지 않다는 것을 그것이 깨닫는 데 필요한 단서를 그것에게 주는 것이다.",
+        "4": "cues"
+    },
+    {
+        "0": "content",
+        "1": "함유량, 내용물",
+        "2": "And foods based on white flour in particular, which tend to have a high calorie density and low fiber c______, are definitely off the menu.",
+        "3": "그리고 특히 흰 밀가루를 기반으로 한 음식들은 열량 밀도가 높고 섬유 함유량이 적은 경향이 있어서 확실히 메뉴에서 제외된다.",
+        "4": "content"
+    },
+    {
+        "0": "seafood",
+        "1": "해산물",
+        "2": "This tends to include simple foods that are closer to their natural state, such as fresh fruit, vegetables, potatoes, fresh meats, s______, eggs, yogurt, whole grains, and beans.",
+        "3": "이것은 신선한 과일, 채소, 감자, 신선한 고기, 해산물, 계란, 요구르트, 통곡물, 콩과 같은 자연 상태에 더 가까 운 간단한 음식을 포함하는 경향이 있다.",
+        "4": "seafood"
+    },
+    {
+        "0": "whole grain",
+        "1": "통곡물",
+        "2": "Bread is surprisingly calorie-dense, even when it's made from w_____ ______, so it can be easy to overeat.",
+        "3": "빵은 심지어 통곡물로 만들어졌을 때도 놀랍게도 열량 밀도가 높기에 과식하기 쉬울 수 있다.",
+        "4": "whole grains"
+    },
+    {
+        "0": "calorie-dense",
+        "1": "열량 밀도가 높은",
+        "2": "Bread is surprisingly c____-______, even when it's made from whole grains, so it can be easy to overeat.",
+        "3": "빵은 심지어 통곡물로 만들어졌을 때도 놀랍게도 열량 밀도가 높기에 과식하기 쉬울 수 있다.",
+        "4": "calorie-dense"
+    },
+    {
+        "0": "overeat",
+        "1": "과식하다",
+        "2": "Bread is surprisingly calorie-dense, even when it's made from whole grains, so it can be easy to o_______.",
+        "3": "빵은 심지어 통곡물로 만들어졌을 때도 놀랍게도 열량 밀도가 높기에 과식하기 쉬울 수 있다.",
+        "4": "overeat"
+    },
+    {
+        "0": "straightforward",
+        "1": "간단한, 솔직한",
+        "2": "The most s___________ way to do this is to choose foods that send strong satiety signals to the brain stem but contain a moderate number of calories.",
+        "3": "이것을 하는 가장 간단한 방법은 뇌간에 강한 포만감 신호를 보내지만 중간 수치의 열량을 함유한 음식을 선택하는 것이다.",
+        "4": "straightforward"
+    },
+    {
+        "0": "moderate",
+        "1": "중간의, 보통의",
+        "2": "The most straightforward way to do this is to choose foods that send strong satiety signals to the brain stem but contain a m________ number of calories.",
+        "3": "이것을 하는 가장 간단한 방법은 뇌간에 강한 포만감 신호를 보내지만 중간 수치의 열량을 함유한 음식을 선택하는 것이다.",
+        "4": "moderate"
+    },
+    {
+        "0": "concentration",
+        "1": "농도",
+        "2": "These are foods that have a lower calorie c_________, higher protein and/or fiber content, and a moderate level of tastiness.",
+        "3": "이것들은 낮은 열량 농도, 더 높은 단백질 및/또는 섬유 함유량, 그리고 중간 정도의 맛을 가진 음식들이다.",
+        "4": "concentration"
+    },
+    {
+        "0": "tastiness",
+        "1": "맛있음",
+        "2": "These are foods that have a lower calorie concentration, higher protein and/or fiber content, and a moderate level of t_______.",
+        "3": "이것들은 낮은 열량 농도, 더 높은 단백질 및/또는 섬유 함유량, 그리고 중간 정도의 맛을 가진 음식들이다.",
+        "4": "tastiness"
+    },
+    {
+        "0": "fiber",
+        "1": "섬유, 섬유질",
+        "2": "These are foods that have a lower calorie concentration, higher protein and/or f____ content, and a moderate level of tastiness.",
+        "3": "이것들은 낮은 열량 농도, 더 높은 단백질 및/또는 섬유 함유량, 그리고 중간 정도의 맛을 가진 음식들이다.",
+        "4": "fiber"
+    },
+    {
+        "0": "preferable",
+        "1": "더 나은, 선호되는",
+        "2": "It may be p________ to get your starch from water-rich foods like potatoes, sweet potatoes, and beans rather than flour-based foods like bread and crackers.",
+        "3": "빵과 크래커와 같은 밀가루 기반의 음식보다 감자, 고구마, 콩과 같은 수분이 풍부한 음식에서 탄수화물을 얻는 것이 더 나을 수 있다.",
+        "4": "preferable"
+    },
+    {
+        "0": "definitely",
+        "1": "확실히, 분명히",
+        "2": "And foods based on white flour in particular, which tend to have a high calorie density and low fiber content, are d________ off the menu.",
+        "3": "그리고 특히 흰 밀가루를 기반으로 한 음식들은 열량 밀도가 높고 섬유 함유량이 적은 경향이 있어서 확실히 메뉴에서 제외된다.",
+        "4": "definitely"
+    },
+    {
+        "0": "starve",
+        "1": "굶주리다",
+        "2": "The solution is to give it the cues it needs to realize you aren't s_______.",
+        "3": "해결책은 여러분이 몹시 배고프지 않다는 것을 그것이 깨닫는 데 필요한 단서를 그것에게 주는 것이다.",
+        "4": "starving"
+    },
+    {
+        "0": "content",
+        "1": "함유량, 내용물",
+        "2": "These are foods that have a lower calorie concentration, higher protein and/or fiber c______, and a moderate level of tastiness.",
+        "3": "이것들은 낮은 열량 농도, 더 높은 단백질 및/또는 섬유 함유량, 그리고 중간 정도의 맛을 가진 음식들이다.",
+        "4": "content"
+    },
+    {
+        "0": "fiber",
+        "1": "섬유, 섬유질",
+        "2": "And foods based on white flour in particular, which tend to have a high calorie density and low f____ content, are definitely off the menu.",
+        "3": "그리고 특히 흰 밀가루를 기반으로 한 음식들은 열량 밀도가 높고 섬유 함유량이 적은 경향이 있어서 확실히 메뉴에서 제외된다.",
+        "4": "fiber"
+    }
+]

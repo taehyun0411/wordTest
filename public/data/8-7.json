@@ -1,0 +1,114 @@
+[
+    {
+        "0": "ancestor",
+        "1": "조상",
+        "2": "According to evolutionary biologists, polar bears evolved from an a_______ they shared with brown bears, including grizzlies, with which they have been known to crossbreed, producing fertile hybrids known as 'pizzlies'.",
+        "3": "진화 생물학자들에 따르면 북극곰은 회색곰을 포함해, 불곰과 공유했던 조상으로부터 진화했으며, 회색곰과 이종 교배하여 '피즐리'로 알려진 새끼를 가질 수 있는 교배종을 낳는 것으로 알려져 왔다.",
+        "4": "ancestor"
+    },
+    {
+        "0": "crossbreed",
+        "1": "이종 교배하다",
+        "2": "According to evolutionary biologists, polar bears evolved from an ancestor they shared with brown bears, including grizzlies, with which they have been known to c__________, producing fertile hybrids known as 'pizzlies'.",
+        "3": "진화 생물학자들에 따르면 북극곰은 회색곰을 포함해, 불곰과 공유했던 조상으로부터 진화했으며, 회색곰과 이종 교배하여 '피즐리'로 알려진 새끼를 가질 수 있는 교배종을 낳는 것으로 알려져 왔다.",
+        "4": "crossbreed"
+    },
+    {
+        "0": "fertile",
+        "1": "새끼를 가질 수 있는",
+        "2": "According to evolutionary biologists, polar bears evolved from an ancestor they shared with brown bears, including grizzlies, with which they have been known to crossbreed, producing f_______ hybrids known as 'pizzlies'.",
+        "3": "진화 생물학자들에 따르면 북극곰은 회색곰을 포함해, 불곰과 공유했던 조상으로부터 진화했으며, 회색곰과 이종 교배하여 '피즐리'로 알려진 새끼를 가질 수 있는 교배종을 낳는 것으로 알려져 왔다.",
+        "4": "fertile"
+    },
+    {
+        "0": "hybrid",
+        "1": "교배종, 혼성체",
+        "2": "According to evolutionary biologists, polar bears evolved from an ancestor they shared with brown bears, including grizzlies, with which they have been known to crossbreed, producing fertile h______ known as 'pizzlies'.",
+        "3": "진화 생물학자들에 따르면 북극곰은 회색곰을 포함해, 불곰과 공유했던 조상으로부터 진화했으며, 회색곰과 이종 교배하여 '피즐리'로 알려진 새끼를 가질 수 있는 교배종을 낳는 것으로 알려져 왔다.",
+        "4": "hybrids"
+    },
+    {
+        "0": "approximate",
+        "1": "대략적인",
+        "2": "The a___________ date of divergence between the two species is still unclear, although the oldest known fossil of what's thought to be a polar bear jaw is about 100,000 years old, so they must have evolved prior to that; according to the latest DNA analysis, it was probably within the last 500,000 years or so. ",
+        "3": "두 종의 대략적인 분화(分化) 시기는 아직 불분명하지만, 북극곰 턱으로 추정되는 가장 오래된 알려진 화석은 약 10만 년 전의 것이어서, 그것(북극곰)은 틀림없이 그 이전에 진화했을 것이다. 가장 최신 DNA 분석에 따르면 그것은 아마도 지난 50만 년 정도 이내였을 것으로 보인다.",
+        "4": "approximate"
+    },
+    {
+        "0": "divergence",
+        "1": "분화, 차이",
+        "2": "The approximate date of d__________ between the two species is still unclear, although the oldest known fossil of what's thought to be a polar bear jaw is about 100,000 years old, so they must have evolved prior to that; according to the latest DNA analysis, it was probably within the last 500,000 years or so. ",
+        "3": "두 종의 대략적인 분화(分化) 시기는 아직 불분명하지만, 북극곰 턱으로 추정되는 가장 오래된 알려진 화석은 약 10만 년 전의 것이어서, 그것(북극곰)은 틀림없이 그 이전에 진화했을 것이다. 가장 최신 DNA 분석에 따르면 그것은 아마도 지난 50만 년 정도 이내였을 것으로 보인다.",
+        "4": "divergence"
+    },
+    {
+        "0": "fossil",
+        "1": "화석",
+        "2": "The approximate date of divergence between the two species is still unclear, although the oldest known f______ of what's thought to be a polar bear jaw is about 100,000 years old, so they must have evolved prior to that; according to the latest DNA analysis, it was probably within the last 500,000 years or so. ",
+        "3": "두 종의 대략적인 분화(分化) 시기는 아직 불분명하지만, 북극곰 턱으로 추정되는 가장 오래된 알려진 화석은 약 10만 년 전의 것이어서, 그것(북극곰)은 틀림없이 그 이전에 진화했을 것이다. 가장 최신 DNA 분석에 따르면 그것은 아마도 지난 50만 년 정도 이내였을 것으로 보인다.",
+        "4": "fossil"
+    },
+    {
+        "0": "jaw",
+        "1": "턱",
+        "2": "The approximate date of divergence between the two species is still unclear, although the oldest known fossil of what's thought to be a polar bear j___ is about 100,000 years old, so they must have evolved prior to that; according to the latest DNA analysis, it was probably within the last 500,000 years or so. ",
+        "3": "두 종의 대략적인 분화(分化) 시기는 아직 불분명하지만, 북극곰 턱으로 추정되는 가장 오래된 알려진 화석은 약 10만 년 전의 것이어서, 그것(북극곰)은 틀림없이 그 이전에 진화했을 것이다. 가장 최신 DNA 분석에 따르면 그것은 아마도 지난 50만 년 정도 이내였을 것으로 보인다.",
+        "4": "jaw"
+    },
+    {
+        "0": "analysis",
+        "1": "분석",
+        "2": "The approximate date of divergence between the two species is still unclear, although the oldest known fossil of what's thought to be a polar bear jaw is about 100,000 years old, so they must have evolved prior to that; according to the latest DNA a________, it was probably within the last 500,000 years or so. ",
+        "3": "두 종의 대략적인 분화(分化) 시기는 아직 불분명하지만, 북극곰 턱으로 추정되는 가장 오래된 알려진 화석은 약 10만 년 전의 것이어서, 그것(북극곰)은 틀림없이 그 이전에 진화했을 것이다. 가장 최신 DNA 분석에 따르면 그것은 아마도 지난 50만 년 정도 이내였을 것으로 보인다.",
+        "4": "analysis"
+    },
+    {
+        "0": "take a hold",
+        "1": "완전히 자리를 잡다, 장악하다",
+        "2": "After the next ice age t____ __ _____, most headed back south, but some, thanks to mutations in their DNA which code for hair colour, became adapted to the harsher conditions. ",
+        "3": "다음 빙하기가 완전히 자리를 잡은 후, 대부분은 남쪽으로 돌아갔지만, 일부는 털 색깔의 유전 암호를 지정하는 DNA의 돌연변이 덕분에 더 혹독한 환경에 적응하게 되었다.",
+        "4": "took a hold"
+    },
+    {
+        "0": "mutaion",
+        "1": "돌연변이",
+        "2": "After the next ice age took a hold, most headed back south, but some, thanks to m_________ in their DNA which code for hair colour, became adapted to the harsher conditions. ",
+        "3": "다음 빙하기가 완전히 자리를 잡은 후, 대부분은 남쪽으로 돌아갔지만, 일부는 털 색깔의 유전 암호를 지정하는 DNA의 돌연변이 덕분에 더 혹독한 환경에 적응하게 되었다.",
+        "4": "mutations"
+    },
+    {
+        "0": "code for",
+        "1": "~의 유전 암호를 지정하다",
+        "2": "After the next ice age took a hold, most headed back south, but some, thanks to mutations in their DNA which c____ ___ hair colour, became adapted to the harsher conditions. ",
+        "3": "다음 빙하기가 완전히 자리를 잡은 후, 대부분은 남쪽으로 돌아갔지만, 일부는 털 색깔의 유전 암호를 지정하는 DNA의 돌연변이 덕분에 더 혹독한 환경에 적응하게 되었다.",
+        "4": "code for"
+    },
+    {
+        "0": "suitable",
+        "1": "적합한, 알맞은",
+        "2": "Those with the most s_______ adaptations, namely a lighter whiter coat for camouflage when hunting seals, were more likely to survive. ",
+        "3": "가장 적합한 적응, 다시 말해 바다표범을 사냥할 때 위장을 위한 더 색깔이 연한 더 하얀 털을 가진 개체들이 생존할 가능성이 컸다.",
+        "4": "suitable"
+    },
+    {
+        "0": "adaptation",
+        "1": "적응",
+        "2": "Those with the most suitable a__________, namely a lighter whiter coat for camouflage when hunting seals, were more likely to survive. ",
+        "3": "가장 적합한 적응, 다시 말해 바다표범을 사냥할 때 위장을 위한 더 색깔이 연한 더 하얀 털을 가진 개체들이 생존할 가능성이 컸다.",
+        "4": "adaptations"
+    },
+    {
+        "0": "seal",
+        "1": "바다표범",
+        "2": "Those with the most suitable adaptations, namely a lighter whiter coat for camouflage when hunting s_____, were more likely to survive. ",
+        "3": "가장 적합한 적응, 다시 말해 바다표범을 사냥할 때 위장을 위한 더 색깔이 연한 더 하얀 털을 가진 개체들이 생존할 가능성이 컸다.",
+        "4": "seals"
+    },
+    {
+        "0": "natural selection",
+        "1": "자연 선택",
+        "2": "It was through this process of n________ __________ in action that the polar bear was born. ",
+        "3": "북극곰이 탄생한 것은 바로 작동 중인 이러한 자연 선택의 과정을 통해서였다.",
+        "4": "natural selection"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "0": "mobility",
+        "1": "이동성, 옮기기 쉬움",
+        "2": "These places evolved along with the growing m______ of music itself.",
+        "3": "이러한 장소들은 음악 자체의 증가하는 이동성과 함께 진화했다.",
+        "4": "mobility"
+    },
+    {
+        "0": "inhibit",
+        "1": "억제하다",
+        "2": "In order for only the intended sounds to be recorded, studios were constructed of materials that i_______ sound transfer.",
+        "3": "의도한 소리만 녹음하기 위해 스튜디오는 소리의 전달을 억제하는 재료로 지어졌다.",
+        "4": "inhibited"
+    },
+    {
+        "0": "dead",
+        "1": "생기[활기]가 없는",
+        "2": "Such attempts sometimes led to \"d____\" acoustic properties, however.",
+        "3": "그러나 이러한 시도는 때때로 '생기가 없는' 음향 특성으로 이어졌다.",
+        "4": "dead"
+    },
+    {
+        "0": "property",
+        "1": "특성",
+        "2": "Such attempts sometimes led to \"dead\" acoustic p_______, however.",
+        "3": "그러나 이러한 시도는 때때로 '생기가 없는' 음향 특성으로 이어졌다.",
+        "4": "properties"
+    },
+    {
+        "0": "manipulate",
+        "1": "조작하다",
+        "2": "Recording enabled various forms of editing, including splicing (moving sections in time) and overdubbing (placing sections atop one another), as well as a growing range of opportunities for processing and m_________ sound.",
+        "3": "녹음은 스플라이싱(악절을 시간상에서 옮김)과 오버더빙(악절을 서로 위에 겹치게 함)을 포함한 다양한 형태의 편집을 가능하게 했고, 뿐만 아니라 음향을 처리하고 조작할 점점 더 다양한 기회도 가능하게 했다.",
+        "4": "manipulating"
+    },
+    {
+        "0": "address",
+        "1": "해결하다",
+        "2": "While recording studios supplied vast opportunities for shaping sonic expressions, they also presented new challenges, some of which were a_________ via architectural gestures.",
+        "3": "녹음 스튜디오는 소리의 표현을 형성할 방대한 기회를 제공했지만, 동시에 새로운 난제도 제시했는데, 그중 일 부는 건축적 행위를 통해 해결되었다.",
+        "4": "addressed"
+    },
+    {
+        "0": "via",
+        "1": "~을 통하여, 거쳐",
+        "2": "While recording studios supplied vast opportunities for shaping sonic expressions, they also presented new challenges, some of which were addressed v__ architectural gestures.",
+        "3": "녹음 스튜디오는 소리의 표현을 형성할 방대한 기회를 제공했지만, 동시에 새로운 난제도 제시했는데, 그중 일 부는 건축적 행위를 통해 해결되었다.",
+        "4": "via"
+    },
+    {
+        "0": "gesture",
+        "1": "행위, 의사 표시",
+        "2": "While recording studios supplied vast opportunities for shaping sonic expressions, they also presented new challenges, some of which were addressed via architectural g_______.",
+        "3": "녹음 스튜디오는 소리의 표현을 형성할 방대한 기회를 제공했지만, 동시에 새로운 난제도 제시했는데, 그중 일 부는 건축적 행위를 통해 해결되었다.",
+        "4": "gestures"
+    },
+    {
+        "0": "echo chamber",
+        "1": "반향실",
+        "2": "In the 1950s and 1960s, then, studios began to construct \"e____ ________\" using materials that reflected sound, such as concrete and tiles, in order to simulate the sound of certain places, including, of course, the \"live\" sound of concert venues.",
+        "3": "그러다가 1950년대와 1960년대에 들어서서, 스튜디오는 콘서트장의 '라이브' 음향을 물론 포함하여, 특정 장소에서의 음향을 모방하고자 콘크리트와 타일과 같이 소리를 반향하는 재료를 사용하여 '반향실'을 짓기 시작했 다.",
+        "4": "echo chambers"
+    },
+    {
+        "0": "simulate",
+        "1": "모방하다, 흉내 내다",
+        "2": "In the 1950s and 1960s, then, studios began to construct \"echo chambers\" using materials that reflected sound, such as concrete and tiles, in order to s_______ the sound of certain places, including, of course, the \"live\" sound of concert venues.",
+        "3": "그러다가 1950년대와 1960년대에 들어서서, 스튜디오는 콘서트장의 '라이브' 음향을 물론 포함하여, 특정 장소에서의 음향을 모방하고자 콘크리트와 타일과 같이 소리를 반향하는 재료를 사용하여 '반향실'을 짓기 시작했 다.",
+        "4": "simulate"
+    },
+    {
+        "0": "venue",
+        "1": "장소",
+        "2": "In the 1950s and 1960s, then, studios began to construct \"echo chambers\" using materials that reflected sound, such as concrete and tiles, in order to simulate the sound of certain places, including, of course, the \"live\" sound of concert v______.",
+        "3": "그러다가 1950년대와 1960년대에 들어서서, 스튜디오는 콘서트장의 '라이브' 음향을 물론 포함하여, 특정 장소에서의 음향을 모방하고자 콘크리트와 타일과 같이 소리를 반향하는 재료를 사용하여 '반향실'을 짓기 시작했 다.",
+        "4": "venues"
+    },
+    {
+        "0": "panorama",
+        "1": "파노라마, 전경",
+        "2": "The use of stereo systems also allowed recorded music to be organized as a sonic p________, thus producing the sense of being in an environment where sounds came from different sources.",
+        "3": "스테레오 시스템의 사용은 또한 녹음된 음악을 소리의 파노라마로 구성되게 하고, 그리하여 다양한 (소리의) 원천에서 소리가 나오는 환경에 있는 듯한 느낌을 만들어 낼 수 있었다.",
+        "4": "panorama"
+    }
+]

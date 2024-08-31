@@ -1,0 +1,58 @@
+[
+    {
+        "0": "individual",
+        "1": "개인",
+        "2": "Telling stories of one's own is important for children and for those i__________ close to them.",
+        "3": "자기 자신의 이야기를 들려주는 것은 아이들과 그들에게 가까운 그 개인들에게 중요하다.",
+        "4": "individuals"
+    },
+    {
+        "0": "fictional",
+        "1": "허구의",
+        "2": "Through reading and hearing real-life and f_______ stories, children can direct their own life story, and there is power in learning through story and telling one's own story.",
+        "3": "실생활과 허구의 이야기를 읽고 들으면서 아이들은 자신의 인생 이야기를 연출할 수 있으며, 이야기를 통해 배우고 자기 자신의 이야기를 들려주는 데에는 힘이 있다.",
+        "4": "fictional"
+    },
+    {
+        "0": "express",
+        "1": "표현하다",
+        "2": "When children tell stories themselves, they can be heard the way they want to be heard; children choose the words, drawings, and acts they want to use to e_______ themselves.",
+        "3": "아이들이 직접 이야기를 들려줄 때 그들은 자신이 들려지고 싶은 방식으로 (남에게) 들려질 수 있는데, 즉 아이들은 자신을 표현하기 위해 사용하고 싶은 말, 그림, 행동을 선택한다.",
+        "4": "express"
+    },
+    {
+        "0": "visible",
+        "1": "눈에 뜨이는, 명백한",
+        "2": "Children's self-created stories can help adults better understand and make children's thinking and knowledge v______ to themselves and others.",
+        "3": "아이들이 직접 만들어 낸 이야기는 어른들이 더 잘 이해하도록 돕고 아이들의 사고와 지식이 자신과 다른 사람들에게 눈에 뜨이도록 할 수 있다.",
+        "4": "visible"
+    },
+    {
+        "0": "narrative",
+        "1": "이야기",
+        "2": "N_________ may even be a source of protection for young children unable to articulate their fears directly or needing safe mental spaces to nurture their hopes and dreams.",
+        "3": "이야기는 심지어 두려움을 직접 설명할 수 없거나 자신의 희망과 꿈을 키울 수 있는 안전한 정신적 공간이 필요한 어린아이들에게 보호의 원천이 될 수도 있다.",
+        "4": "Narratives"
+    },
+    {
+        "0": "nurture",
+        "1": "(감정, 계획 등을 마음속으로) 키우다",
+        "2": "Narratives may even be a source of protection for young children unable to articulate their fears directly or needing safe mental spaces to n_______ their hopes and dreams.",
+        "3": "이야기는 심지어 두려움을 직접 설명할 수 없거나 자신의 희망과 꿈을 키울 수 있는 안전한 정신적 공간이 필요한 어린아이들에게 보호의 원천이 될 수도 있다.",
+        "4": "nurture"
+    },
+    {
+        "0": "thoughtfully",
+        "1": "사려 깊게",
+        "2": "A t____________ shared story can help a child better understand herself.",
+        "3": "사려 깊게 공유된 이야기는 아이가 자신을 더 잘 이해하게 도울 수 있다.",
+        "4": "thoughtfully"
+    },
+    {
+        "0": "comfort",
+        "1": "위로",
+        "2": "This knowledge can be a great c______ to a child.",
+        "3": "이러한 지식은 아이에게 큰 위로가 될 수 있다.",
+        "4": "comfort"
+    }
+]

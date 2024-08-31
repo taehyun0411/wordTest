@@ -1,0 +1,121 @@
+[
+    {
+        "0": "assembly",
+        "1": "집합체",
+        "2": "Is the brain an a________ of distinct components, each with a defined and separate function?",
+        "3": "뇌는 각각 분명히 정해진 독립된 기능을 가진 별개의 구성 요소들의 집합체인가?",
+        "4": "assembly"
+    },
+    {
+        "0": "defined",
+        "1": "분명히 정해진, 규정된",
+        "2": "Is the brain an assembly of distinct components, each with a d______ and separate function?",
+        "3": "뇌는 각각 분명히 정해진 독립된 기능을 가진 별개의 구성 요소들의 집합체인가?",
+        "4": "defined"
+    },
+    {
+        "0": "arrange",
+        "1": "배치하다, 배열하다",
+        "2": "One of the many difficulties in studying how the brain works is precisely because it is not a________ in this way.",
+        "3": "뇌가 작동하는 방식을 연구하는 데 있어서의 여러 어려움 중 하나는 바로 뇌가 이런 식으로 배치되어 있지 않기 때문이다.",
+        "4": "arranged"
+    },
+    {
+        "0": "assign",
+        "1": "(기능을) 부여하다, 배정하다",
+        "2": "That does not mean that one cannot a_____ specific functions to anatomically recognisable parts of the brain.",
+        "3": "그렇다고 해서 해부학적으로 식별할 수 있는 뇌 부위에 특정 기능을 부여할 수 없다는 뜻은 아니다.",
+        "4": "assign"
+    },
+    {
+        "0": "recognisable",
+        "1": "식별할 수 있는",
+        "2": "That does not mean that one cannot assign specific functions to anatomically r__________ parts of the brain.",
+        "3": "그렇다고 해서 해부학적으로 식별할 수 있는 뇌 부위에 특정 기능을 부여할 수 없다는 뜻은 아니다.",
+        "4": "recognisable"
+    },
+    {
+        "0": "typically",
+        "1": "전형적으로",
+        "2": "Indeed one can: for example, the cerebral cortex that forms most of the outside of the brain and gives it its t_______ wrinkled or folded appearance has areas that we know are concerned with identifiable actions.",
+        "3": "실제로 그렇게 할 수 있다. 예를 들어, 뇌의 바깥쪽의 대부분을 형성하고 뇌의 전형적으로 주름지거나 접힌 모습을 주는 대뇌피질에는 인식할 수 있는 동작과 관련이 있다고 우리가 알고 있는 부위들이 있다.",
+        "4": "typically"
+    },
+    {
+        "0": "wrinkled",
+        "1": "주름진",
+        "2": "Indeed one can: for example, the cerebral cortex that forms most of the outside of the brain and gives it its typically w________ or folded appearance has areas that we know are concerned with identifiable actions.",
+        "3": "실제로 그렇게 할 수 있다. 예를 들어, 뇌의 바깥쪽의 대부분을 형성하고 뇌의 전형적으로 주름지거나 접힌 모습을 주는 대뇌피질에는 인식할 수 있는 동작과 관련이 있다고 우리가 알고 있는 부위들이 있다.",
+        "4": "wrinkled"
+    },
+    {
+        "0": "appearance",
+        "1": "모습, 외양",
+        "2": "Indeed one can: for example, the cerebral cortex that forms most of the outside of the brain and gives it its typically wrinkled or folded a_________ has areas that we know are concerned with identifiable actions.",
+        "3": "실제로 그렇게 할 수 있다. 예를 들어, 뇌의 바깥쪽의 대부분을 형성하고 뇌의 전형적으로 주름지거나 접힌 모습을 주는 대뇌피질에는 인식할 수 있는 동작과 관련이 있다고 우리가 알고 있는 부위들이 있다.",
+        "4": "appearance"
+    },
+    {
+        "0": "be concerned with",
+        "1": "~과 관련이 있다",
+        "2": "Indeed one can: for example, the cerebral cortex that forms most of the outside of the brain and gives it its typically wrinkled or folded appearance has areas that we know a___ __________ _____ identifiable actions.",
+        "3": "실제로 그렇게 할 수 있다. 예를 들어, 뇌의 바깥쪽의 대부분을 형성하고 뇌의 전형적으로 주름지거나 접힌 모습을 주는 대뇌피질에는 인식할 수 있는 동작과 관련이 있다고 우리가 알고 있는 부위들이 있다.",
+        "4": "are concerned with"
+    },
+    {
+        "0": "identifiable",
+        "1": "인식할 수 있는",
+        "2": "Indeed one can: for example, the cerebral cortex that forms most of the outside of the brain and gives it its typically wrinkled or folded appearance has areas that we know are concerned with i__________ actions.",
+        "3": "실제로 그렇게 할 수 있다. 예를 들어, 뇌의 바깥쪽의 대부분을 형성하고 뇌의 전형적으로 주름지거나 접힌 모습을 주는 대뇌피질에는 인식할 수 있는 동작과 관련이 있다고 우리가 알고 있는 부위들이 있다.",
+        "4": "identifiable"
+    },
+    {
+        "0": "generate",
+        "1": "생성하다",
+        "2": "One is responsible for g__________ movement, another for analysing incoming visual information and so on.",
+        "3": "한 부위는 동작의 생성을 맡고, 다른 부위는 들어오는 시각 정보의 분석을 맡는 따위이다.",
+        "4": "generating"
+    },
+    {
+        "0": "analyse",
+        "1": "분석하다",
+        "2": "One is responsible for generating movement, another for a_________ incoming visual information and so on.",
+        "3": "한 부위는 동작의 생성을 맡고, 다른 부위는 들어오는 시각 정보의 분석을 맡는 따위이다.",
+        "4": "analysing"
+    },
+    {
+        "0": "incoming",
+        "1": "들어오는",
+        "2": "One is responsible for generating movement, another for analysing i________ visual information and so on.",
+        "3": "한 부위는 동작의 생성을 맡고, 다른 부위는 들어오는 시각 정보의 분석을 맡는 따위이다.",
+        "4": "incoming"
+    },
+    {
+        "0": "boundary",
+        "1": "경계",
+        "2": "Similar functional b__________ have been recognised in other parts of the brain.",
+        "3": "뇌의 다른 부위에서도 비슷한 기능적 경계가 인정되었다.",
+        "4": "boundaries"
+    },
+    {
+        "0": "equally",
+        "1": "똑같이, 동일하게",
+        "2": "What is, however, is whether there are clearly defined boundaries between these areas, either anatomically ─ where does one begin, or the other end? ─ or functionally ─ is there a circumscribed area of the brain that has an e_______ precise function?",
+        "3": "그러나 여기서 논점이 되는 것은, 이러한 부위들 사이에 해부학적으로든 ― 한 부위가 어디에서 시작되는가, 또는 다른 부위는 어디에서 끝나는가? ─ 아니면 기능적으로든 ─ 똑같이 정확한 기능을 가진 뇌의 경계가 정해 진 부위가 있는가? ─ 명확히 규정된 경계가 있는지의 여부이다.",
+        "4": "equally"
+    },
+    {
+        "0": "resounding",
+        "1": "분명한, 완전한",
+        "2": "The answer to both questions is a r_________ 'no.'",
+        "3": "이 두 가지 질문에 대한 답은 분명한 '아니요'이다.",
+        "4": "resounding"
+    },
+    {
+        "0": "boundary",
+        "1": "경계",
+        "2": "What is, however, is whether there are clearly defined b_________ between these areas, either anatomically ─ where does one begin, or the other end? ─ or functionally ─ is there a circumscribed area of the brain that has an equally precise function?",
+        "3": "그러나 여기서 논점이 되는 것은, 이러한 부위들 사이에 해부학적으로든 ― 한 부위가 어디에서 시작되는가, 또는 다른 부위는 어디에서 끝나는가? ─ 아니면 기능적으로든 ─ 똑같이 정확한 기능을 가진 뇌의 경계가 정해 진 부위가 있는가? ─ 명확히 규정된 경계가 있는지의 여부이다.",
+        "4": "boundaries"
+    }
+]

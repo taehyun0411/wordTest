@@ -1,0 +1,79 @@
+[
+    {
+        "0": "be meant to do",
+        "1": "원래 ~하기 위한 것이다",
+        "2": "Though innovation i__ _______ __ _____ improve the flow of work and daily life, technology has also been associated with feelings of anxiety and irritability, headaches, mental fatigue, lost productivity, and poor job performance.",
+        "3": "혁신은 원래 업무와 일상생활의 흐름을 개선하는 데 도움을 주기 위한 것이지만, 기술은 또한 불안과 짜증, 두통, 정신적 피로, 저하된 생산성, 그리고 형편없는 업무 성과와도 관련이 있어 왔다.",
+        "4": "is meant to help"
+    },
+    {
+        "0": "irritability",
+        "1": "짜증",
+        "2": "Though innovation is meant to help improve the flow of work and daily life, technology has also been associated with feelings of anxiety and i_________, headaches, mental fatigue, lost productivity, and poor job performance.",
+        "3": "혁신은 원래 업무와 일상생활의 흐름을 개선하는 데 도움을 주기 위한 것이지만, 기술은 또한 불안과 짜증, 두통, 정신적 피로, 저하된 생산성, 그리고 형편없는 업무 성과와도 관련이 있어 왔다.",
+        "4": "irritability"
+    },
+    {
+        "0": "imply",
+        "1": "암시하다",
+        "2": "Tech-related stress has been termed \"technostress,\" and as the name i______, refers to stress caused by the inability to adapt to or cope with technology in a healthy way.",
+        "3": "기술 관련 스트레스는 '테크노스트레스'라고 불리게 되었으며, 그리고 명칭이 암시하듯이 기술에 건전한 방식으로 적응하지 못하거나 대처하지 못한 것으로 인해 발생하는 스트레스를 일컫는다.",
+        "4": "implies"
+    },
+    {
+        "0": "refer to",
+        "1": "~을 일컫다",
+        "2": "Tech-related stress has been termed \"technostress,\" and as the name implies, r_____ __ stress caused by the inability to adapt to or cope with technology in a healthy way.",
+        "3": "기술 관련 스트레스는 '테크노스트레스'라고 불리게 되었으며, 그리고 명칭이 암시하듯이 기술에 건전한 방식으로 적응하지 못하거나 대처하지 못한 것으로 인해 발생하는 스트레스를 일컫는다.",
+        "4": "refers to"
+    },
+    {
+        "0": "cope with",
+        "1": "~에 대처하다",
+        "2": "Tech-related stress has been termed \"technostress,\" and as the name implies, refers to stress caused by the inability to adapt to or c____ _____ technology in a healthy way.",
+        "3": "기술 관련 스트레스는 '테크노스트레스'라고 불리게 되었으며, 그리고 명칭이 암시하듯이 기술에 건전한 방식으로 적응하지 못하거나 대처하지 못한 것으로 인해 발생하는 스트레스를 일컫는다.",
+        "4": "cope with"
+    },
+    {
+        "0": "dirstraction",
+        "1": "주의 산만, 집중을 방해하는 것",
+        "2": "D_________ and lack of focus due to the never-ending interruption of incoming texts, emails, phone calls, and social notifications has been called the epidemic of our digital age.",
+        "3": "도착하는 문자 메시지, 이메일, 전화 호출, 그리고 소셜 (네트워크) 알림의 끊임없는 방해로 인한 주의 산만과 집중력 부족은 우리가 사는 디지털 시대의 유행병이라고 불려 왔다.",
+        "4": "Distraction"
+    },
+    {
+        "0": "interruption",
+        "1": "방해하다",
+        "2": "Distraction and lack of focus due to the never-ending i___________ of incoming texts, emails, phone calls, and social notifications has been called the epidemic of our digital age.",
+        "3": "도착하는 문자 메시지, 이메일, 전화 호출, 그리고 소셜 (네트워크) 알림의 끊임없는 방해로 인한 주의 산만과 집중력 부족은 우리가 사는 디지털 시대의 유행병이라고 불려 왔다.",
+        "4": "interruption"
+    },
+    {
+        "0": "notification",
+        "1": "알림",
+        "2": "Distraction and lack of focus due to the never-ending interruption of incoming texts, emails, phone calls, and social n__________ has been called the epidemic of our digital age.",
+        "3": "도착하는 문자 메시지, 이메일, 전화 호출, 그리고 소셜 (네트워크) 알림의 끊임없는 방해로 인한 주의 산만과 집중력 부족은 우리가 사는 디지털 시대의 유행병이라고 불려 왔다.",
+        "4": "notifications"
+    },
+    {
+        "0": "manage",
+        "1": "처리하다, 관리하다",
+        "2": "People often feel stressed because they don't know how to m________ the daily onslaught of resources and information made available on the web, leading to feelings of being overwhelmed with \"information overload.\"",
+        "3": "사람들은 웹에서 이용 가능하게 된 자료와 정보의 일상적인 맹습을 어떻게 처리해야 할지 모르고, 이것은 '정보 과부하'에 압도당한다는 느낌으로 이어지기 때문에 스트레스를 자주 받는다.",
+        "4": "manage"
+    },
+    {
+        "0": "overwhelm",
+        "1": "압도하다",
+        "2": "People often feel stressed because they don't know how to manage the daily onslaught of resources and information made available on the web, leading to feelings of being o____________ with \"information overload.\"",
+        "3": "사람들은 웹에서 이용 가능하게 된 자료와 정보의 일상적인 맹습을 어떻게 처리해야 할지 모르고, 이것은 '정보 과부하'에 압도당한다는 느낌으로 이어지기 때문에 스트레스를 자주 받는다.",
+        "4": "overwhelmed"
+    },
+    {
+        "0": "overload",
+        "1": "과부하, 지나치게 많음",
+        "2": "People often feel stressed because they don't know how to manage the daily onslaught of resources and information made available on the web, leading to feelings of being overwhelmed with \"information o_________.\"",
+        "3": "사람들은 웹에서 이용 가능하게 된 자료와 정보의 일상적인 맹습을 어떻게 처리해야 할지 모르고, 이것은 '정보 과부하'에 압도당한다는 느낌으로 이어지기 때문에 스트레스를 자주 받는다.",
+        "4": "overload"
+    }
+]

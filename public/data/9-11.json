@@ -1,0 +1,114 @@
+[
+    {
+        "0": "neurotransmitter",
+        "1": "신경 전달물질",
+        "2": "Dopamine is a n______________ that runs the brain's reward and pleasure center. ",
+        "3": "도파민은 뇌의 보상과 쾌감 중추를 작동시키는 신경 전달 물질이다.",
+        "4": "neurotransmitter"
+    },
+    {
+        "0": "addictive",
+        "1": "중독되기 쉬운, 중독성의",
+        "2": "It is also highly a________ ─ all addictions cause a powerful surge in dopamine. ",
+        "3": "그것은 또한 중독되기 매우 쉬운데, 모든 중독은 도파민의 강력한 급증을 유발한다.",
+        "4": "addictive"
+    },
+    {
+        "0": "tolerance",
+        "1": "내성",
+        "2": "Our brains develop t_________ for dopamine, meaning that as time goes on, increasingly higher levels of dopamine are needed to get the same level of pleasure.",
+        "3": "우리의 뇌는 도파민에 대한 내성을 기르는데, 이는 시간이 지남에 따라 동일한 수준의 쾌감을 얻기 위해 점점 더 높은 수준의 도파민이 필요해진다는 것을 의미한다.",
+        "4": "tolerance"
+    },
+    {
+        "0": "novelty",
+        "1": "새로운 것",
+        "2": "Addictive, n_______-seeking behaviors are the result of high levels of dopamine.",
+        "3": "중독되기 쉽고 새로운 것을 추구하는 행동은 높은 수준의 도파민의 결과이다.",
+        "4": "novelty"
+    },
+    {
+        "0": "fire",
+        "1": "활성화되다, 발화되다",
+        "2": "The neurons that f___ together get wired together in our brains, meaning stress and the dopamine rush that goes along with it get connected.",
+        "3": "함께 활성화되는 뉴런은 우리 뇌에서 서로 연결되어 있는데, 이는 스트레스와 그에 동반되는 도파민 분출이 연결된다는 것을 의미한다.",
+        "4": "fire"
+    },
+    {
+        "0": "wire",
+        "1": "(선이나 망 등을) 연결하다",
+        "2": "The neurons that fire together get w____ together in our brains, meaning stress and the dopamine rush that goes along with it get connected.",
+        "3": "함께 활성화되는 뉴런은 우리 뇌에서 서로 연결되어 있는데, 이는 스트레스와 그에 동반되는 도파민 분출이 연결된다는 것을 의미한다.",
+        "4": "wired"
+    },
+    {
+        "0": "rush",
+        "1": "분출, 치밀어 오름",
+        "2": "The neurons that fire together get wired together in our brains, meaning stress and the dopamine r____ that goes along with it get connected.",
+        "3": "함께 활성화되는 뉴런은 우리 뇌에서 서로 연결되어 있는데, 이는 스트레스와 그에 동반되는 도파민 분출이 연결된다는 것을 의미한다.",
+        "4": "rush"
+    },
+    {
+        "0": "chronically",
+        "1": "만성적으로",
+        "2": "This might explain why some c_________ stressed people don't celebrate achieving goals ─ they are constantly looking for the next goal to get their next amount of dopamine.",
+        "3": "이것은 만성적으로 스트레스를 받는 일부 사람들이 목표 달성을 축하하지 않는 이유를 설명할 수도 있는데, 그들은 다음 분량의 도파민을 얻기 위해 끊임없이 다음 목표를 찾고 있다.",
+        "4": "chronically"
+    },
+    {
+        "0": "celebrate",
+        "1": "축하하다",
+        "2": "This might explain why some chronically stressed people don't c_________ achieving goals ─ they are constantly looking for the next goal to get their next amount of dopamine.",
+        "3": "이것은 만성적으로 스트레스를 받는 일부 사람들이 목표 달성을 축하하지 않는 이유를 설명할 수도 있는데, 그들은 다음 분량의 도파민을 얻기 위해 끊임없이 다음 목표를 찾고 있다.",
+        "4": "celebrate"
+    },
+    {
+        "0": "constantly",
+        "1": "끊임없이, 계속",
+        "2": "This might explain why some chronically stressed people don't celebrate achieving goals ─ they are c________ looking for the next goal to get their next amount of dopamine.",
+        "3": "이것은 만성적으로 스트레스를 받는 일부 사람들이 목표 달성을 축하하지 않는 이유를 설명할 수도 있는데, 그들은 다음 분량의 도파민을 얻기 위해 끊임없이 다음 목표를 찾고 있다.",
+        "4": "constantly"
+    },
+    {
+        "0": "overlook",
+        "1": "간과하다, 내려다보다",
+        "2": "Their employees might feel discouraged because their achievements go o__________ or unappreciated. ",
+        "3": "그들의 직원들은 자신들의 성과가 간과되거나 인정받지 못하기 때문에 낙담할 수도 있다.",
+        "4": "overlooked"
+    },
+    {
+        "0": "unappreciated",
+        "1": "인정받지 못하는",
+        "2": "Their employees might feel discouraged because their achievements go overlooked or u___________. ",
+        "3": "그들의 직원들은 자신들의 성과가 간과되거나 인정받지 못하기 때문에 낙담할 수도 있다.",
+        "4": "unappreciated"
+    },
+    {
+        "0": "artificially",
+        "1": "인위적으로",
+        "2": "These managers may a_________ create crises to justify the elevated level of stress and dopamine their brains have gotten used to.",
+        "3": "이러한 관리자들은 자신들의 뇌가 익숙해진 높아진 수준의 스트레스와 도파민을 정당화하느라 인위적으로 위기를 만들 수도 있다.",
+        "4": "artificially"
+    },
+    {
+        "0": "justify",
+        "1": "정당화하다",
+        "2": "These managers may artificially create crises to j_______ the elevated level of stress and dopamine their brains have gotten used to.",
+        "3": "이러한 관리자들은 자신들의 뇌가 익숙해진 높아진 수준의 스트레스와 도파민을 정당화하느라 인위적으로 위기를 만들 수도 있다.",
+        "4": "justify"
+    },
+    {
+        "0": "elevated",
+        "1": "높아진, 상승한",
+        "2": "These managers may artificially create crises to justify the e________ level of stress and dopamine their brains have gotten used to.",
+        "3": "이러한 관리자들은 자신들의 뇌가 익숙해진 높아진 수준의 스트레스와 도파민을 정당화하느라 인위적으로 위기를 만들 수도 있다.",
+        "4": "elevated"
+    },
+    {
+        "0": "addictive",
+        "1": "중독되기 쉬운, 중독성의",
+        "2": "A_________, novelty-seeking behaviors are the result of high levels of dopamine.",
+        "3": "중독되기 쉽고 새로운 것을 추구하는 행동은 높은 수준의 도파민의 결과이다.",
+        "4": "Addictive"
+    }
+]

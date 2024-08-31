@@ -1,0 +1,79 @@
+[
+    {
+        "0": "restrict",
+        "1": "제한하다",
+        "2": "In early democracies, participation was often r________ to a smaller number of individuals, but for those who enjoyed the right, the frequency of participation was much higher.",
+        "3": "현대 민주주의는 초기 민주주의로부터 발전했는데, 이 과정은 미국에서 ─ 자유인인 백인 남성에게는 ─ 처음으로 더 완전한 범위에 이르기 전에, 영국에서 시작되었다.",
+        "4": "restricted"
+    },
+    {
+        "0": "frequency",
+        "1": "빈도",
+        "2": "In early democracies, participation was often restricted to a smaller number of individuals, but for those who enjoyed the right, the f_________ of participation was much higher.",
+        "3": "현대 민주주의는 초기 민주주의로부터 발전했는데, 이 과정은 미국에서 ─ 자유인인 백인 남성에게는 ─ 처음으로 더 완전한 범위에 이르기 전에, 영국에서 시작되었다.",
+        "4": "frequency"
+    },
+    {
+        "0": "evolve",
+        "1": "발전하다, 진화하다",
+        "2": "Modern democracy e______ from early democracy, and this process began in England before first reaching a fuller extent ─ for free white males ─ in the United States.",
+        "3": "현대 민주주의는 정치적 참여가 광범위하지만 가끔씩 발생하는 통치 형태인데, 시민은 대표자 선출 투표로 참여하지만, 이것은 일정한 간격으로만 발생하고, 투표 이외의 통제 수단이 거의 없다 ― 즉 요구나 지시로 대표자를 속박할 수 없다.",
+        "4": "evolved"
+    },
+    {
+        "0": "episodic",
+        "1": "가끔씩 발생하는",
+        "2": "Modern democracy is a form of rule where political participation is broad but e______: citizens participate by voting for representatives, but this occurs only at certain intervals, and there are few means of control other than the vote ─ representatives cannot be bound by mandates or instructions.",
+        "3": "현대 민주주의는 정치적 참여가 광범위하지만 가끔씩 발생하는 통치 형태인데, 시민은 대표자 선출 투표로 참여하지만, 이것은 일정한 간격으로만 발생하고, 투표 이외의 통제 수단이 거의 없다 ― 즉 요구나 지시로 대표자를 속박할 수 없다.",
+        "4": "episodic"
+    },
+    {
+        "0": "representative",
+        "1": "대표자, 대의원",
+        "2": "Modern democracy is a form of rule where political participation is broad but episodic: citizens participate by voting for r___________, but this occurs only at certain intervals, and there are few means of control other than the vote ─ representatives cannot be bound by mandates or instructions.",
+        "3": "현대 민주주의는 정치적 참여가 광범위하지만 가끔씩 발생하는 통치 형태인데, 시민은 대표자 선출 투표로 참여하지만, 이것은 일정한 간격으로만 발생하고, 투표 이외의 통제 수단이 거의 없다 ― 즉 요구나 지시로 대표자를 속박할 수 없다.",
+        "4": "representatives"
+    },
+    {
+        "0": "interval",
+        "1": "간격",
+        "2": "Modern democracy is a form of rule where political participation is broad but episodic: citizens participate by voting for representatives, but this occurs only at certain i________, and there are few means of control other than the vote ─ representatives cannot be bound by mandates or instructions.",
+        "3": "현대 민주주의는 정치적 참여가 광범위하지만 가끔씩 발생하는 통치 형태인데, 시민은 대표자 선출 투표로 참여하지만, 이것은 일정한 간격으로만 발생하고, 투표 이외의 통제 수단이 거의 없다 ― 즉 요구나 지시로 대표자를 속박할 수 없다.",
+        "4": "intervals"
+    },
+    {
+        "0": "bind",
+        "1": "(약속 등으로) 속박하다, 의무를 지우다",
+        "2": "Modern democracy is a form of rule where political participation is broad but episodic: citizens participate by voting for representatives, but this occurs only at certain intervals, and there are few means of control other than the vote ─ representatives cannot be b______ by mandates or instructions.",
+        "3": "현대 민주주의는 정치적 참여가 광범위하지만 가끔씩 발생하는 통치 형태인데, 시민은 대표자 선출 투표로 참여하지만, 이것은 일정한 간격으로만 발생하고, 투표 이외의 통제 수단이 거의 없다 ― 즉 요구나 지시로 대표자를 속박할 수 없다.",
+        "4": "bound"
+    },
+    {
+        "0": "locality",
+        "1": "지방",
+        "2": "It was also the case that those who chose representatives could bind them with mandates, and individual l________ could either reject central decisions or opt out of them.",
+        "3": "또한 대표자를 뽑은 사람들이 요구를 통해 그들을 속박할 수 있고 개별 지방이 중앙의 결정을 거부하거나 그것 에 불참을 택할 수 있었던 것도 사실이었다.",
+        "4": "localities"
+    },
+    {
+        "0": "opt out of",
+        "1": "~에 불참을 택하다",
+        "2": "It was also the case that those who chose representatives could bind them with mandates, and individual localities could either reject central decisions or o___ ___ __  them.",
+        "3": "또한 대표자를 뽑은 사람들이 요구를 통해 그들을 속박할 수 있고 개별 지방이 중앙의 결정을 거부하거나 그것 에 불참을 택할 수 있었던 것도 사실이었다.",
+        "4": "opt out of"
+    },
+    {
+        "0": "consensus",
+        "1": "합의",
+        "2": "This created substantial blocking power and therefore a need for c________.",
+        "3": "이것으로 상당한 저지력이, 그리하여 합의의 필요성이 생겼다.",
+        "4": "consensus"
+    },
+    {
+        "0": "representative",
+        "1": "대표자, 대의원",
+        "2": "Modern democracy is a form of rule where political participation is broad but episodic: citizens participate by voting for representatives, but this occurs only at certain intervals, and there are few means of control other than the vote ─ r____________ cannot be bound by mandates or instructions.",
+        "3": "현대 민주주의는 정치적 참여가 광범위하지만 가끔씩 발생하는 통치 형태인데, 시민은 대표자 선출 투표로 참여하지만, 이것은 일정한 간격으로만 발생하고, 투표 이외의 통제 수단이 거의 없다 ― 즉 요구나 지시로 대표자를 속박할 수 없다.",
+        "4": "representatives"
+    }
+]

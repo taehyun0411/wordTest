@@ -1,0 +1,100 @@
+[
+    {
+        "0": "unlearn",
+        "1": "(배운 것을) 잊다",
+        "2": "One of the biggest challenges in overcoming fear is that, although the brain learns lessons quickly, it does not u______ lessons quickly.",
+        "3": "두려움을 극복할 때 가장 큰 어려움 중 하나는 뇌가 학습 내용을 빨리 배우지만 학습 내용을 빨리 '잊지' 않는다는 것이다.",
+        "4": "unlearn"
+    },
+    {
+        "0": "obey",
+        "1": "따르다, 복종하다",
+        "2": "On every trip, trains o___ the direction of the tracks.",
+        "3": "모든 여정에서 기차는 선로의 방향을 따른다.",
+        "4": "obey"
+    },
+    {
+        "0": "direction",
+        "1": "방향, 지시",
+        "2": "On every trip, trains obey the d_______ of the tracks.",
+        "3": "모든 여정에서 기차는 선로의 방향을 따른다.",
+        "4": "direction"
+    },
+    {
+        "0": "engineer",
+        "1": "(기차, 선박의) 기관사, 기사, 기술자",
+        "2": "If an e__________ wanted to take the train in a different direction, but lacked the track, it would not be possible.",
+        "3": "만약 기관사가 기차를 다른 방향으로 가게 하고 싶어 하지만 선로가 없다면, 그것은 가능하지 않을 것이다.",
+        "4": "engineer"
+    },
+    {
+        "0": "lay",
+        "1": "놓다, 설치하다",
+        "2": "The challenge lies in l______ the new track.",
+        "3": "어려움은 새로운 선로를 놓는 데 있다.",
+        "4": "laying"
+    },
+    {
+        "0": "patience",
+        "1": "인내",
+        "2": "Like most goals in life, it would take p_________, effort, and commitment to build that new path. ",
+        "3": "인생에서 대부분의 목표와 마찬가지로 그 새로운 길을 건설하는 데는 인내, 노력, 그리고 헌신이 필요할 것이 다.",
+        "4": "patience"
+    },
+    {
+        "0": "commitment",
+        "1": "헌신, 전념",
+        "2": "Like most goals in life, it would take patience, effort, and c__________ to build that new path. ",
+        "3": "인생에서 대부분의 목표와 마찬가지로 그 새로운 길을 건설하는 데는 인내, 노력, 그리고 헌신이 필요할 것이 다.",
+        "4": "commitment"
+    },
+    {
+        "0": "chemistry",
+        "1": "화학 반응, 화학",
+        "2": "There is a similar challenge in facing anxiety and changing your brain's c_________.",
+        "3": "불안에 직면하여 뇌의 화학 반응을 바꾸는 것에 유사한 어려움이 있다.",
+        "4": "chemistry"
+    },
+    {
+        "0": "neural",
+        "1": "신경의",
+        "2": "In other words, creating a new n_______ pathway that is unafraid of what you currently fear is going to take some effort.",
+        "3": "다시 말해서, 여러분이 현재 두려워하는 것을 두려워하지 않는 새로운 신경 경로를 만드는 데는 상당한 노력이 필요할 것이다.",
+        "4": "neural"
+    },
+    {
+        "0": "currently",
+        "1": "현재",
+        "2": "In other words, creating a new neural pathway that is unafraid of what you c_________ fear is going to take some effort.",
+        "3": "다시 말해서, 여러분이 현재 두려워하는 것을 두려워하지 않는 새로운 신경 경로를 만드는 데는 상당한 노력이 필요할 것이다.",
+        "4": "currently"
+    },
+    {
+        "0": "absolutely",
+        "1": "틀림없이, 절대적으로",
+        "2": "But it can a________ be done.",
+        "3": "하지만 그것은 틀림없이 해낼 수 있다.",
+        "4": "absolutely"
+    },
+    {
+        "0": "provoke",
+        "1": "유발하다",
+        "2": "You can change your brain's response to your anxiety-p__________ stimulus by creating a new neural pathway.",
+        "3": "여러분은 새로운 신경 경로를 만듦으로써 불안을 유발하는 자극에 대한 뇌의 반응을 바꿀 수 있다.",
+        "4": "provoking"
+    },
+    {
+        "0": "stimulus",
+        "1": "자극",
+        "2": "You can change your brain's response to your anxiety-provoking s_________ by creating a new neural pathway.",
+        "3": "여러분은 새로운 신경 경로를 만듦으로써 불안을 유발하는 자극에 대한 뇌의 반응을 바꿀 수 있다.",
+        "4": "stimulus"
+    },
+    {
+        "0": "direction",
+        "1": "방향, 지시",
+        "2": "If an engineer wanted to take the train in a different d__________, but lacked the track, it would not be possible.",
+        "3": "만약 기관사가 기차를 다른 방향으로 가게 하고 싶어 하지만 선로가 없다면, 그것은 가능하지 않을 것이다.",
+        "4": "direction"
+    }
+]

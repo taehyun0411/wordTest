@@ -1,0 +1,100 @@
+[
+    {
+        "0": "causal",
+        "1": "인과의, 원인이 되는",
+        "2": "C_______ relations often come in characteristic groups or clusters.",
+        "3": "인과 관계는 흔히 특징적인 집단이나 무리에서 나타난다.",
+        "4": "Causal"
+    },
+    {
+        "0": "cluster",
+        "1": "무리, 집단",
+        "2": "Causal relations often come in characteristic groups or c_______.",
+        "3": "인과 관계는 흔히 특징적인 집단이나 무리에서 나타난다.",
+        "4": "clusters"
+    },
+    {
+        "0": "billiard",
+        "1": "당구의",
+        "2": "For example, in thinking about two people, I might notice that, in contrast to a pair of b_______ balls, they often causally act on each other at a distance.",
+        "3": "예를 들어, 두 사람에 관해 생각할 때, 나는 한 쌍의 당구공과 대조적으로 그들이 흔히 얼마간 떨어져서도 서로에게 인과적으로 작용한다는 것을 알 수도 있다.",
+        "4": "billiard"
+    },
+    {
+        "0": "at a distance",
+        "1": "얼마간[좀] 떨어져서",
+        "2": "For example, in thinking about two people, I might notice that, in contrast to a pair of billiard balls, they often causally act on each other a__ __ _________.",
+        "3": "예를 들어, 두 사람에 관해 생각할 때, 나는 한 쌍의 당구공과 대조적으로 그들이 흔히 얼마간 떨어져서도 서로에게 인과적으로 작용한다는 것을 알 수도 있다.",
+        "4": "at a distance"
+    },
+    {
+        "0": "remark",
+        "1": "말, 발언",
+        "2": "A r______ to a person several feet away can cause that person to move quickly backward.",
+        "3": "몇 피트 떨어져 있는 사람에게 한 말은 그 사람을 급히 뒤로 움직이게 할 수 있다.",
+        "4": "remark"
+    },
+    {
+        "0": "cause-and-effect",
+        "1": "인과의",
+        "2": "C_____-___-______ relations for people have longer time lags than for balls.",
+        "3": "사람들에 대한 인과 관계는 공보다 더 긴 시간적 격차가 있다.",
+        "4": "Cause-and-effect"
+    },
+    {
+        "0": "instantaneously",
+        "1": "즉각, 당장",
+        "2": "You do not move i____________ after I speak, unlike cases in which one ball launches another. ",
+        "3": "하나의 공이 다른 공의 운동을 일으키는 경우와 달리, 여러분은 내가 말한 뒤에 즉각 움직이지는 않는다.",
+        "4": "instantaneously"
+    },
+    {
+        "0": "launch",
+        "1": "(~의 운동을 일으키다, 출발시키다",
+        "2": "You do not move instantaneously after I speak, unlike cases in which one ball l_________ another. ",
+        "3": "하나의 공이 다른 공의 운동을 일으키는 경우와 달리, 여러분은 내가 말한 뒤에 즉각 움직이지는 않는다.",
+        "4": "launches"
+    },
+    {
+        "0": "noticeable",
+        "1": "뚜렷한, 주목할 만한",
+        "2": "There is a n________ lag.",
+        "3": "뚜렷한 시간의 지연이 있다.",
+        "4": "noticeable"
+    },
+    {
+        "0": "on one's own",
+        "1": "자력으로, 스스로",
+        "2": "People move o__ _____ ____ without needing any external force.",
+        "3": "사람들은 어떤 외부의 힘을 필요로 하지 않고 자력으로 움직인다.",
+        "4": "on their own"
+    },
+    {
+        "0": "spontaneously",
+        "1": "자발적으로, 저절로",
+        "2": "Simple balls do not s____________ move.",
+        "3": "단순한 공은 자발적으로 움직이지 않는다.",
+        "4": "spontaneously"
+    },
+    {
+        "0": "dart",
+        "1": "빠르게 움직이다",
+        "2": "People can move in irregular ways, d_______ this way and that.",
+        "3": "사람들은 이리저리 빠르게 움직이면서 불규칙한 방식으로 이동할 수 있다.",
+        "4": "darting"
+    },
+    {
+        "0": "intervene",
+        "1": "개입하다",
+        "2": "Balls move in smooth predictable paths unless something else i__________.",
+        "3": "공은 다른 어떤 것이 개입하지 않는 한 매끄럽고 예측할 수 있는 경로로 움직인다.",
+        "4": "intervenes"
+    },
+    {
+        "0": "causal",
+        "1": "인과의, 원인이 되는",
+        "2": "Taken together, several interacting c_______ relations distinguish the motions of people from those of simple solids.",
+        "3": "종합하면, 상호 작용하는 여러 인과 관계 때문에 사람의 움직임은 평범한 고체의 그것과 구별된다.",
+        "4": "causal"
+    }
+]

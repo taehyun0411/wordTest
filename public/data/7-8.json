@@ -1,0 +1,142 @@
+[
+    {
+        "0": "advance",
+        "1": "제기하다, 진척시키다",
+        "2": "In 1958 the American political scientist Edward Banfield a_______ an influential thesis that attributed southern Italy's lower level of prosperity to stronger family ties in the region.",
+        "3": "1958년 미국의 정치학자 Edward Banfield는 남부 이탈리아의 더 낮은 번영 수준을 그 지역의 더 강력한 가족 유대 탓으로 돌리는 영향력 있는 주장을 제기했다.",
+        "4": "advanced"
+    },
+    {
+        "0": "thesis",
+        "1": "주장, 논제, 논문",
+        "2": "In 1958 the American political scientist Edward Banfield advanced an influential t_____ that attributed southern Italy's lower level of prosperity to stronger family ties in the region.",
+        "3": "1958년 미국의 정치학자 Edward Banfield는 남부 이탈리아의 더 낮은 번영 수준을 그 지역의 더 강력한 가족 유대 탓으로 돌리는 영향력 있는 주장을 제기했다.",
+        "4": "thesis"
+    },
+    {
+        "0": "attribute ~ to",
+        "1": "~을 ~ 탓으로 돌리다",
+        "2": "In 1958 the American political scientist Edward Banfield advanced an influential thesis that a_______ southern Italy's lower level of prosperity t__ stronger family ties in the region.",
+        "3": "1958년 미국의 정치학자 Edward Banfield는 남부 이탈리아의 더 낮은 번영 수준을 그 지역의 더 강력한 가족 유대 탓으로 돌리는 영향력 있는 주장을 제기했다.",
+        "4": "attributed to"
+    },
+    {
+        "0": "prosperity",
+        "1": "번영",
+        "2": "In 1958 the American political scientist Edward Banfield advanced an influential thesis that attributed southern Italy's lower level of p_______ to stronger family ties in the region.",
+        "3": "1958년 미국의 정치학자 Edward Banfield는 남부 이탈리아의 더 낮은 번영 수준을 그 지역의 더 강력한 가족 유대 탓으로 돌리는 영향력 있는 주장을 제기했다.",
+        "4": "prosperity"
+    },
+    {
+        "0": "tie",
+        "1": "유대",
+        "2": "In 1958 the American political scientist Edward Banfield advanced an influential thesis that attributed southern Italy's lower level of prosperity to stronger family t___ in the region.",
+        "3": "1958년 미국의 정치학자 Edward Banfield는 남부 이탈리아의 더 낮은 번영 수준을 그 지역의 더 강력한 가족 유대 탓으로 돌리는 영향력 있는 주장을 제기했다.",
+        "4": "ties"
+    },
+    {
+        "0": "intense",
+        "1": "강한",
+        "2": "He argued that more i______ family ties diminished trust outside of one's kinship group, weakened cooperation in pursuit of a common public goal, and thereby reduced the level of economic prosperity in the region.",
+        "3": "그는 더 강한 가족 유대가 친족 집단 밖에 대한 신뢰를 줄였고, 공동의 공공 목표의 추구에서 협력을 약화하였으며, 그로 인해 그 지역의 경제적 번영 수준을 감소시켰다고 주장했다.",
+        "4": "intense"
+    },
+    {
+        "0": "diminish",
+        "1": "줄이다",
+        "2": "He argued that more intense family ties d_______ trust outside of one's kinship group, weakened cooperation in pursuit of a common public goal, and thereby reduced the level of economic prosperity in the region.",
+        "3": "그는 더 강한 가족 유대가 친족 집단 밖에 대한 신뢰를 줄였고, 공동의 공공 목표의 추구에서 협력을 약화하였으며, 그로 인해 그 지역의 경제적 번영 수준을 감소시켰다고 주장했다.",
+        "4": "diminished"
+    },
+    {
+        "0": "region",
+        "1": "지역",
+        "2": "He argued that more intense family ties diminished trust outside of one's kinship group, weakened cooperation in pursuit of a common public goal, and thereby reduced the level of economic prosperity in the r____.",
+        "3": "그는 더 강한 가족 유대가 친족 집단 밖에 대한 신뢰를 줄였고, 공동의 공공 목표의 추구에서 협력을 약화하였으며, 그로 인해 그 지역의 경제적 번영 수준을 감소시켰다고 주장했다.",
+        "4": "region"
+    },
+    {
+        "0": "in line with",
+        "1": "~과 일치하여, ~에 따라",
+        "2": "I__ ____ ____ his thesis, recent evidence suggests that kinship ties do indeed differ significantly across Italian regions, as they do more generally across countries.",
+        "3": "그의 주장과 일치하여, 최근의 증거는 친족 유대가 더 일반적으로 국가마다 다른 것처럼, 그것이 이탈리아의 지역마다 실제로 상당히 다르다는 것을 보여 준다.",
+        "4": "In line with"
+    },
+    {
+        "0": "significantly",
+        "1": "상당히, 두드러지게",
+        "2": "In line with his thesis, recent evidence suggests that kinship ties do indeed differ s___________ across Italian regions, as they do more generally across countries.",
+        "3": "그의 주장과 일치하여, 최근의 증거는 친족 유대가 더 일반적으로 국가마다 다른 것처럼, 그것이 이탈리아의 지역마다 실제로 상당히 다르다는 것을 보여 준다.",
+        "4": "significantly"
+    },
+    {
+        "0": "nuclear family",
+        "1": "핵가족",
+        "2": "Likewise, tighter n______ _______ bonds do tend to adversely affect levels of social trust, political participation, the status of women in the workforce and geographic mobility.",
+        "3": "마찬가지로, 더 긴밀한 핵가족 유대는 사회적 신뢰 수준, 정치적 참여, 노동 인구 내 여성의 지위 및 지리적 이동성에 부정적으로 영향을 미치는 경향이 정말로 있다.",
+        "4": "nuclear family"
+    },
+    {
+        "0": "bond",
+        "1": "유대",
+        "2": "Likewise, tighter nuclear family b_____ do tend to adversely affect levels of social trust, political participation, the status of women in the workforce and geographic mobility.",
+        "3": "마찬가지로, 더 긴밀한 핵가족 유대는 사회적 신뢰 수준, 정치적 참여, 노동 인구 내 여성의 지위 및 지리적 이동성에 부정적으로 영향을 미치는 경향이 정말로 있다.",
+        "4": "bonds"
+    },
+    {
+        "0": "adversely",
+        "1": "부정적으로, 나쁘게",
+        "2": "Likewise, tighter nuclear family bonds do tend to a_________ affect levels of social trust, political participation, the status of women in the workforce and geographic mobility.",
+        "3": "마찬가지로, 더 긴밀한 핵가족 유대는 사회적 신뢰 수준, 정치적 참여, 노동 인구 내 여성의 지위 및 지리적 이동성에 부정적으로 영향을 미치는 경향이 정말로 있다.",
+        "4": "adversely"
+    },
+    {
+        "0": "status",
+        "1": "지위",
+        "2": "Likewise, tighter nuclear family bonds do tend to adversely affect levels of social trust, political participation, the s_____ of women in the workforce and geographic mobility.",
+        "3": "마찬가지로, 더 긴밀한 핵가족 유대는 사회적 신뢰 수준, 정치적 참여, 노동 인구 내 여성의 지위 및 지리적 이동성에 부정적으로 영향을 미치는 경향이 정말로 있다.",
+        "4": "status"
+    },
+    {
+        "0": "geographic",
+        "1": "지리적인",
+        "2": "Likewise, tighter nuclear family bonds do tend to adversely affect levels of social trust, political participation, the status of women in the workforce and g_________ mobility.",
+        "3": "마찬가지로, 더 긴밀한 핵가족 유대는 사회적 신뢰 수준, 정치적 참여, 노동 인구 내 여성의 지위 및 지리적 이동성에 부정적으로 영향을 미치는 경향이 정말로 있다.",
+        "4": "geographic"
+    },
+    {
+        "0": "mobility",
+        "1": "이동성, 유동성",
+        "2": "Likewise, tighter nuclear family bonds do tend to adversely affect levels of social trust, political participation, the status of women in the workforce and geographic m_______.",
+        "3": "마찬가지로, 더 긴밀한 핵가족 유대는 사회적 신뢰 수준, 정치적 참여, 노동 인구 내 여성의 지위 및 지리적 이동성에 부정적으로 영향을 미치는 경향이 정말로 있다.",
+        "4": "mobility"
+    },
+    {
+        "0": "empower",
+        "1": "~하도록 하다, 허용하다, 권한을 부여하다",
+        "2": "Due to regional efforts, significant progress has been made in enhancing the status of women, e___________ them to thrive both within and beyond their familial roles.",
+        "3": "지역적 노력 덕분에 여성의 지위를 향상하는 데 상당한 진전이 있었고, 그들이 가족의 역할 안팎 둘 다에서 성공할 수 있도록 해 주었다.",
+        "4": "empowering"
+    },
+    {
+        "0": "rely on",
+        "1": "~에 의존하다",
+        "2": "And since, as the Nobel Prize-winning American economist Kenneth Arrow noted, business deals often r___ __ trust while its absence harms trade, lower levels of trust outside of the family setting might have diminished the level of economic development in southern Italy compared to the north.",
+        "3": "그리고 노벨상 수상자인 미국의 경제학자 Kenneth Arrow가 언급했듯이, 사업상의 거래는 흔히 신뢰에 의존하는 반면 그것의 부재는 무역에 해를 끼치기 때문에, 가족 환경 밖에 대한 더 낮은 신뢰 수준은 북부에 비해 남부 이탈리아의 경제 발전 수준을 감소시켰을 수도 있다.",
+        "4": "rely on"
+    },
+    {
+        "0": "region",
+        "1": "지역",
+        "2": "In 1958 the American political scientist Edward Banfield advanced an influential thesis that attributed southern Italy's lower level of prosperity to stronger family ties in the r______.",
+        "3": "1958년 미국의 정치학자 Edward Banfield는 남부 이탈리아의 더 낮은 번영 수준을 그 지역의 더 강력한 가족 유대 탓으로 돌리는 영향력 있는 주장을 제기했다.",
+        "4": "region"
+    },
+    {
+        "0": "diminish",
+        "1": "줄이다",
+        "2": "And since, as the Nobel Prize-winning American economist Kenneth Arrow noted, business deals often rely on trust while its absence harms trade, lower levels of trust outside of the family setting might have d________ the level of economic development in southern Italy compared to the north.",
+        "3": "그리고 노벨상 수상자인 미국의 경제학자 Kenneth Arrow가 언급했듯이, 사업상의 거래는 흔히 신뢰에 의존하는 반면 그것의 부재는 무역에 해를 끼치기 때문에, 가족 환경 밖에 대한 더 낮은 신뢰 수준은 북부에 비해 남부 이탈리아의 경제 발전 수준을 감소시켰을 수도 있다.",
+        "4": "diminished"
+    }
+]

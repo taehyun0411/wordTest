@@ -1,0 +1,44 @@
+[
+    {
+        "0": "capacity",
+        "1": "능력",
+        "2": "About 100,000 years ago, we developed the c________ to communicate using speech.",
+        "3": "약 10만 년 전에, 우리는 말을 사용하여 의사소통하는 능력을 발달시켰다.",
+        "4": "capacity"
+    },
+    {
+        "0": "pigeon",
+        "1": "비둘기",
+        "2": "Through the ages, we've used various systems to send messages like smoke signals, semaphores (flags), p_______, and human messengers, each of which had its own advantages and disadvantages.",
+        "3": "오랜 기간 동안, 우리는 메시지를 전달하기 위해 연기 신호, 수기 신호(깃발), 비둘기, 그리고 인간 전달자와 같은 다양한 시스템을 사용해 왔는데, 이것 각각은 그것만의 장단점을 가지고 있었다.",
+        "4": "pigeons"
+    },
+    {
+        "0": "capture",
+        "1": "포로로 잡다",
+        "2": "Messengers were slow and could be c_______ during times of conflict or war.",
+        "3": "전달자는 (메시지 전달 속도가) 느렸고 분쟁이나 전쟁 중에는 포로로 잡힐 수도 있었다.",
+        "4": "captured"
+    },
+    {
+        "0": "conflict",
+        "1": "분쟁, 물리적 충돌",
+        "2": "Messengers were slow and could be captured during times of c_______ or war.",
+        "3": "전달자는 (메시지 전달 속도가) 느렸고 분쟁이나 전쟁 중에는 포로로 잡힐 수도 있었다.",
+        "4": "conflict"
+    },
+    {
+        "0": "predator",
+        "1": "포식자",
+        "2": "Pigeons could carry very small messages but were susceptible to natural p________ and severe weather. ",
+        "3": "비둘기는 매우 작은 메시지를 전달할 수 있었지만 자연 포식자와 악천후에 취약했다.",
+        "4": "predators"
+    },
+    {
+        "0": "pigeon",
+        "1": "비둘기",
+        "2": "P_______ could carry very small messages but were susceptible to natural predators and severe weather. ",
+        "3": "비둘기는 매우 작은 메시지를 전달할 수 있었지만 자연 포식자와 악천후에 취약했다.",
+        "4": "Pigeons"
+    }
+]

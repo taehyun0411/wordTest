@@ -1,0 +1,86 @@
+[
+    {
+        "0": "inexhaustible",
+        "1": "무한한, 다함이 없는",
+        "2": "Essentially, water is an i__________ source because once the water is used to produce electricity, it is usually returned to its original river or reservoir.",
+        "3": "본질적으로, 물은 일단 전기를 생산하는 데 사용되면 보통 원래의 강이나 저수지로 되돌아오므로 무한한 원천이다.",
+        "4": "inexhaustible"
+    },
+    {
+        "0": "location",
+        "1": "장소, 위치",
+        "2": "With this data and the amount of potential future l_______ for hydroelectric power plants, the cost to retrofit the existing dams would be able to pay for themselves in just a short time.",
+        "3": "이 자료와 미래에 수력 발전소가 들어설 수 있는 잠재적 장소의 양을 고려하면, 기존 댐에 터빈을 새로 장착하는 데에 드는 비용은 단지 짧은 시간에 회수될 수 있을 것이다.",
+        "4": "locations"
+    },
+    {
+        "0": "hydroelectric power plant",
+        "1": "수력 발전소",
+        "2": "With this data and the amount of potential future locations for h_______ ______ ______, the cost to retrofit the existing dams would be able to pay for themselves in just a short time.",
+        "3": "이 자료와 미래에 수력 발전소가 들어설 수 있는 잠재적 장소의 양을 고려하면, 기존 댐에 터빈을 새로 장착하는 데에 드는 비용은 단지 짧은 시간에 회수될 수 있을 것이다.",
+        "4": "hydroelectric power plants"
+    },
+    {
+        "0": "complicate",
+        "1": "복잡하게 하다",
+        "2": "However, these attempts are c_________ by the push for additional dam removals by local and national environmental groups.",
+        "3": "하지만 이러한 시도는 추가로 댐을 철거하라는 지역 및 전국 환경 단체의 압박으로 인해 복잡해진다.",
+        "4": "complicated"
+    },
+    {
+        "0": "removal",
+        "1": "철거, 제거",
+        "2": "However, these attempts are complicated by the push for additional dam r_______ by local and national environmental groups.",
+        "3": "하지만 이러한 시도는 추가로 댐을 철거하라는 지역 및 전국 환경 단체의 압박으로 인해 복잡해진다.",
+        "4": "removals"
+    },
+    {
+        "0": "install",
+        "1": "설치하다",
+        "2": "Many of these existing dams could have advanced technologies i_______ to produce energy and increase efficiency.",
+        "3": "이러한 기존 댐 중 많은 것에 에너지를 생산하고 효율성을 높이기 위해 고급 기술 장비를 설치할 수 있을 것이 다.",
+        "4": "installed"
+    },
+    {
+        "0": "efficiency",
+        "1": "효율성",
+        "2": "Many of these existing dams could have advanced technologies installed to produce energy and increase e_________.",
+        "3": "이러한 기존 댐 중 많은 것에 에너지를 생산하고 효율성을 높이기 위해 고급 기술 장비를 설치할 수 있을 것이 다.",
+        "4": "efficiency"
+    },
+    {
+        "0": "turbine",
+        "1": "터빈",
+        "2": "A study performed by the U.S. Department of Energy calculated that it would cost approximately $1,600 per kilowatt to add t_______ to dams that currently lack electricity capabilities.",
+        "3": "미국 에너지부에 의해 수행된 연구는 현재 전력 생산 능력이 없는 댐에 터빈을 추가하는 데에 킬로와트당 약 1,600달러의 비용이 들 것이라고 추산했다.",
+        "4": "turbines"
+    },
+    {
+        "0": "hinder",
+        "1": "방해하다",
+        "2": "Only 20 percent of hydroelectric potential has been developed within the United States; tapping into this potential, however, is often h________ by unsuitable terrains and large distances from needing communities.",
+        "3": "미국 내에서 수력 발전 잠재력의 20%만이 개발되었다. 하지만 이러한 잠재력을 활용하는 것은 부적합한 지형 과 전력이 필요한 지역 사회로부터의 먼 거리로 인해 자주 방해받는다.",
+        "4": "hindered"
+    },
+    {
+        "0": "terrain",
+        "1": "지형",
+        "2": "Only 20 percent of hydroelectric potential has been developed within the United States; tapping into this potential, however, is often hindered by unsuitable t_______ and large distances from needing communities.",
+        "3": "미국 내에서 수력 발전 잠재력의 20%만이 개발되었다. 하지만 이러한 잠재력을 활용하는 것은 부적합한 지형 과 전력이 필요한 지역 사회로부터의 먼 거리로 인해 자주 방해받는다.",
+        "4": "terrains"
+    },
+    {
+        "0": "location",
+        "1": "장소, 위치",
+        "2": "In addition, future projects do not necessarily require new l________ or dams.",
+        "3": "게다가, 미래의 사업에 반드시 새로운 장소나 댐이 필요한 것은 아니다.",
+        "4": "locations"
+    },
+    {
+        "0": "hydroelectric power plant",
+        "1": "수력 발전소",
+        "2": "Only 2,400 out of 80,000 dams in the U.S. currently produce electricity from h_________ ______ ______.",
+        "3": "현재 미국 내 80,000개의 댐 중 2,400개만이 수력 발전소에서 전기를 생산한다.",
+        "4": "hydroelectric power plants"
+    }
+]

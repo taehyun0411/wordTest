@@ -1,0 +1,135 @@
+[
+    {
+        "0": "overestimate",
+        "1": "과대평가하다",
+        "2": "People tend to o_________ how harshly others will judge them.",
+        "3": "사람들은 남들이 얼마나 가혹하게 그들을 판단할 것인지를 과대평가하는 경향이 있다.",
+        "4": "overestimate"
+    },
+    {
+        "0": "dynamic",
+        "1": "역학",
+        "2": "This d_______ may apply to the case of help-seeking.",
+        "3": "이런 역학이 도움을 구하는 경우에 적용될 수 있다.",
+        "4": "dynamic"
+    },
+    {
+        "0": "request",
+        "1": "요청, 부탁",
+        "2": "Even a small r________ can make the help-seeker feel self-conscious, embarrassed, and guilty.",
+        "3": "작은 요청조차 도움을 구하는 사람이 남의 시선을 의식하고 쑥스러워하며 죄책감을 느끼게 만들 수 있다.",
+        "4": "request"
+    },
+    {
+        "0": "self-conscious",
+        "1": "남의 시선을 의식하는",
+        "2": "Even a small request can make the help-seeker feel s___-________, embarrassed, and guilty.",
+        "3": "작은 요청조차 도움을 구하는 사람이 남의 시선을 의식하고 쑥스러워하며 죄책감을 느끼게 만들 수 있다.",
+        "4": "self-conscious"
+    },
+    {
+        "0": "anxiety",
+        "1": "불안감",
+        "2": "In our research, we have found that the a______ help-seekers experience over how their request will come across is surprising to potential helpers who do not know what all the fuss is about.",
+        "3": "우리의 연구에서 알아낸 바에 따르면, 도움을 구하는 사람이 자신의 요청이 어떤 인상을 줄 것인지에 관해 겪는 불안감은 그 모든 쓸데없는 걱정이 무엇에 대한 것인지 모르는, 도움을 줄 가능성이 있는 사람에게는 놀라 운 것이다.",
+        "4": "anxiety"
+    },
+    {
+        "0": "come across",
+        "1": "(어떤) 인상을 주다",
+        "2": "In our research, we have found that the anxiety help-seekers experience over how their request will c_____ ________ is surprising to potential helpers who do not know what all the fuss is about.",
+        "3": "우리의 연구에서 알아낸 바에 따르면, 도움을 구하는 사람이 자신의 요청이 어떤 인상을 줄 것인지에 관해 겪는 불안감은 그 모든 쓸데없는 걱정이 무엇에 대한 것인지 모르는, 도움을 줄 가능성이 있는 사람에게는 놀라 운 것이다.",
+        "4": "come across"
+    },
+    {
+        "0": "potential",
+        "1": "(~이 될) 가능성이 있는",
+        "2": "In our research, we have found that the anxiety help-seekers experience over how their request will come across is surprising to p_________ helpers who do not know what all the fuss is about.",
+        "3": "우리의 연구에서 알아낸 바에 따르면, 도움을 구하는 사람이 자신의 요청이 어떤 인상을 줄 것인지에 관해 겪는 불안감은 그 모든 쓸데없는 걱정이 무엇에 대한 것인지 모르는, 도움을 줄 가능성이 있는 사람에게는 놀라 운 것이다.",
+        "4": "potential"
+    },
+    {
+        "0": "teaching assistant",
+        "1": "조교",
+        "2": "In one study, we asked two samples of potential helpers (t______ __________ and peer advisors) to estimate the number of students who would seek their help during a single semester.",
+        "3": "한 연구에서 우리는 도움을 줄 가능성이 있는 사람의 두 표본(조교와 또래 조언자)에게 한 학기 동안 자신의 도움을 구할 학생의 수를 가늠해 보라고 요청했다.",
+        "4": "teaching assistants"
+    },
+    {
+        "0": "peer advisor",
+        "1": "또래 조언자",
+        "2": "In one study, we asked two samples of potential helpers (teaching assistants and p____ ________) to estimate the number of students who would seek their help during a single semester.",
+        "3": "한 연구에서 우리는 도움을 줄 가능성이 있는 사람의 두 표본(조교와 또래 조언자)에게 한 학기 동안 자신의 도움을 구할 학생의 수를 가늠해 보라고 요청했다.",
+        "4": "peer advisors"
+    },
+    {
+        "0": "estimate",
+        "1": "가늠하다, 평가하다",
+        "2": "In one study, we asked two samples of potential helpers (teaching assistants and peer advisors) to e_______ the number of students who would seek their help during a single semester.",
+        "3": "한 연구에서 우리는 도움을 줄 가능성이 있는 사람의 두 표본(조교와 또래 조언자)에게 한 학기 동안 자신의 도움을 구할 학생의 수를 가늠해 보라고 요청했다.",
+        "4": "estimate"
+    },
+    {
+        "0": "semester",
+        "1": "학기",
+        "2": "In one study, we asked two samples of potential helpers (teaching assistants and peer advisors) to estimate the number of students who would seek their help during a single s________.",
+        "3": "한 연구에서 우리는 도움을 줄 가능성이 있는 사람의 두 표본(조교와 또래 조언자)에게 한 학기 동안 자신의 도움을 구할 학생의 수를 가늠해 보라고 요청했다.",
+        "4": "semester"
+    },
+    {
+        "0": "prediction",
+        "1": "예측,예상",
+        "2": "This p_________ error emerged even though the peer advisors had been students themselves the prior year, and the majority of teaching assistants had worked as teaching assistants before (often for the same class).",
+        "3": "이런 예측의 오류는 또래 조언자가 그 전해에 자신이 학생이었는데도, 그리고 조교의 대다수가 이전에(흔히 바 로 그 동일한 학급의) 조교로 일했는데도 나타났다.",
+        "4": "prediction"
+    },
+    {
+        "0": "emerge",
+        "1": "나타나다",
+        "2": "This prediction error e______ even though the peer advisors had been students themselves the prior year, and the majority of teaching assistants had worked as teaching assistants before (often for the same class).",
+        "3": "이런 예측의 오류는 또래 조언자가 그 전해에 자신이 학생이었는데도, 그리고 조교의 대다수가 이전에(흔히 바 로 그 동일한 학급의) 조교로 일했는데도 나타났다.",
+        "4": "emerged"
+    },
+    {
+        "0": "clue",
+        "1": "단서, 실마리",
+        "2": "Nevertheless, their past experience as help-seekers offered no c____ in predicting others' future help-seeking behavior.",
+        "3": "그럼에도 불구하고 도움을 구하는 사람으로서 자신의 과거 경험은 다른 사람이 장차 도움을 구하는 행동을 하는 것을 예측하는 데 아무런 단서를 제공하지 않았다.",
+        "4": "clues"
+    },
+    {
+        "0": "overestimate",
+        "1": "과대평가하다",
+        "2": "The peer advisors o___________ by over 60%, and the teaching assistants by 20%, the number of students who would ask them for help.",
+        "3": "자신에게 도움을 요청할 학생의 수를 또래 조언자는 60퍼센트가 넘는 차이가 나게, 그리고 조교는 20퍼센트 차이가 나게 과대평가했다.",
+        "4": "overestimated"
+    },
+    {
+        "0": "peer advisor",
+        "1": "또래 조언자",
+        "2": "The p____ ________ overestimated by over 60%, and the teaching assistants by 20%, the number of students who would ask them for help.",
+        "3": "자신에게 도움을 요청할 학생의 수를 또래 조언자는 60퍼센트가 넘는 차이가 나게, 그리고 조교는 20퍼센트 차이가 나게 과대평가했다.",
+        "4": "peer advisors"
+    },
+    {
+        "0": "teaching assistant",
+        "1": "조교",
+        "2": "This prediction error emerged even though the peer advisors had been students themselves the prior year, and the majority of t________ ___________ had worked as teaching assistants before (often for the same class).",
+        "3": "이런 예측의 오류는 또래 조언자가 그 전해에 자신이 학생이었는데도, 그리고 조교의 대다수가 이전에(흔히 바 로 그 동일한 학급의) 조교로 일했는데도 나타났다.",
+        "4": "teaching assistants"
+    },
+    {
+        "0": "teaching assistant",
+        "1": "조교",
+        "2": "This prediction error emerged even though the peer advisors had been students themselves the prior year, and the majority of teaching assistants had worked as t_______ _________ before (often for the same class).",
+        "3": "이런 예측의 오류는 또래 조언자가 그 전해에 자신이 학생이었는데도, 그리고 조교의 대다수가 이전에(흔히 바 로 그 동일한 학급의) 조교로 일했는데도 나타났다.",
+        "4": "teaching assistants"
+    },
+    {
+        "0": "teaching assistant",
+        "1": "조교",
+        "2": "The peer advisors overestimated by over 60%, and the t________ _________ by 20%, the number of students who would ask them for help.",
+        "3": "자신에게 도움을 요청할 학생의 수를 또래 조언자는 60퍼센트가 넘는 차이가 나게, 그리고 조교는 20퍼센트 차이가 나게 과대평가했다.",
+        "4": "teaching assistants"
+    }
+]

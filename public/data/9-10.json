@@ -1,0 +1,107 @@
+[
+    {
+        "0": "collaborative",
+        "1": "협업적인, 합작의",
+        "2": "Proteins are among the most important molecules we possess, because they are also among the most c__________.",
+        "3": "단백질은 우리가 소유하는 가장 중요한 분자에 속하는데, 왜냐하면 그것은 또한 가장 협업적인 것에 속하기 때 문이다.",
+        "4": "collaborative"
+    },
+    {
+        "0": "distinct",
+        "1": "뚜렷한",
+        "2": "They play d______ roles in helping the body to interpret changes, communicate them and decide on actions as a result.",
+        "3": "그것들은 신체가 변화를 해석하고, 그것을 전달하고, 결과적으로 행동을 결정하도록 돕는 데 뚜렷한 역할을 한다.",
+        "4": "distinct"
+    },
+    {
+        "0": "interpret",
+        "1": "해석하다, 이해하다",
+        "2": "They play distinct roles in helping the body to i_______ changes, communicate them and decide on actions as a result.",
+        "3": "그것들은 신체가 변화를 해석하고, 그것을 전달하고, 결과적으로 행동을 결정하도록 돕는 데 뚜렷한 역할을 한다.",
+        "4": "interpret"
+    },
+    {
+        "0": "in large part",
+        "1": "주로, 대개",
+        "2": "Our bodies work i__ ______ _____ because our proteins know their own role, appreciate that of their peers and act accordingly.",
+        "3": "우리의 몸은 주로 우리의 단백질이 자기의 역할을 알고, 동료의 역할을 인식하며, 그에 따라 행동하기 때문에 작동한다.",
+        "4": "in large part"
+    },
+    {
+        "0": "appreciate",
+        "1": "인식하다, 인정하다",
+        "2": "Our bodies work in large part because our proteins know their own role, a___________ that of their peers and act accordingly.",
+        "3": "우리의 몸은 주로 우리의 단백질이 자기의 역할을 알고, 동료의 역할을 인식하며, 그에 따라 행동하기 때문에 작동한다.",
+        "4": "appreciate"
+    },
+    {
+        "0": "peersonality",
+        "1": "특성, 개성, 성격",
+        "2": "They work as part of a team, but through the expression of entirely individual p__________ and capabilities.",
+        "3": "그것은 팀의 일부로서 작동하지만, 전적으로 개별적인 특성과 능력의 표현을 통해서이다.",
+        "4": "personalities"
+    },
+    {
+        "0": "defined",
+        "1": "경계가 분명한",
+        "2": "Dynamic yet d______, individual within a team context, proteins can offer a new model for how we organize and interact as people. ",
+        "3": "역동적이되 경계가 분명하며, 팀의 맥락 속에서도 개별적이므로, 단백질은 우리가 사람으로서 조직하고 상호 작용하는 방식에 대한 새로운 모델을 제공할 수 있다.",
+        "4": "defined"
+    },
+    {
+        "0": "put ~ into action",
+        "1": "~을 행동에 옮기다",
+        "2": "Like humans, proteins respond to their environment, communicate information, make decisions and then p___ _____ ____ _______. ",
+        "3": "인간과 마찬가지로, 단백질도 자기의 환경에 반응하고, 정보를 전달하고, 결정을 내린 다음, 그것을 행동에 옮긴다.",
+        "4": "put them into action"
+    },
+    {
+        "0": "instinctively",
+        "1": "본능적으로",
+        "2": "But unlike us, proteins are actually very good at doing this: working in an i___________ collaborative way without letting personality clashes, personal problems or office politics become obstacles. ",
+        "3": "하지만 우리와 달리, 단백질은 실제로 다음의 것, 즉 특성 충돌, 개별적인 문제 또는 사무실 정치가 장애가 되도록 두지 않고 본능적으로 협업적인 방식으로 작용하는 것을 매우 잘한다.",
+        "4": "instinctively"
+    },
+    {
+        "0": "obstacle",
+        "1": "장애(물)",
+        "2": "But unlike us, proteins are actually very good at doing this: working in an instinctively collaborative way without letting personality clashes, personal problems or office politics become o________. ",
+        "3": "하지만 우리와 달리, 단백질은 실제로 다음의 것, 즉 특성 충돌, 개별적인 문제 또는 사무실 정치가 장애가 되도록 두지 않고 본능적으로 협업적인 방식으로 작용하는 것을 매우 잘한다.",
+        "4": "obstacles"
+    },
+    {
+        "0": "fit in with",
+        "1": "~에 맞추다, ~과 어울리다",
+        "2": "And they achieve this not by trying to 'f__ __' _____ their environment, but by aligning and making use of their various chemistries: embracing the complementarity of contrasting 'types'. ",
+        "3": "그리고 그것이 이것을 달성하는 것은, 자기의 환경에 '맞추려'고 애씀으로써가 아니라, 자기의 다양한 화학적 성질을 조정하여 사용함으로써, 즉 대조적인 '유형'의 상호보완성을 수용함으로써이다.",
+        "4": "fit in with"
+    },
+    {
+        "0": "align",
+        "1": "조정하다, 정렬하다",
+        "2": "And they achieve this not by trying to 'fit in' with their environment, but by a_______ and making use of their various chemistries: embracing the complementarity of contrasting 'types'. ",
+        "3": "그리고 그것이 이것을 달성하는 것은, 자기의 환경에 '맞추려'고 애씀으로써가 아니라, 자기의 다양한 화학적 성질을 조정하여 사용함으로써, 즉 대조적인 '유형'의 상호보완성을 수용함으로써이다.",
+        "4": "aligning"
+    },
+    {
+        "0": "make use of",
+        "1": "~을 이용하다",
+        "2": "And they achieve this not by trying to 'fit in' with their environment, but by aligning and m______ ___ __ their various chemistries: embracing the complementarity of contrasting 'types'. ",
+        "3": "그리고 그것이 이것을 달성하는 것은, 자기의 환경에 '맞추려'고 애씀으로써가 아니라, 자기의 다양한 화학적 성질을 조정하여 사용함으로써, 즉 대조적인 '유형'의 상호보완성을 수용함으로써이다.",
+        "4": "making use of"
+    },
+    {
+        "0": "embrace",
+        "1": "수용하다",
+        "2": "And they achieve this not by trying to 'fit in' with their environment, but by aligning and making use of their various chemistries: e________ the complementarity of contrasting 'types'. ",
+        "3": "그리고 그것이 이것을 달성하는 것은, 자기의 환경에 '맞추려'고 애씀으로써가 아니라, 자기의 다양한 화학적 성질을 조정하여 사용함으로써, 즉 대조적인 '유형'의 상호보완성을 수용함으로써이다.",
+        "4": "embracing"
+    },
+    {
+        "0": "contrasting",
+        "1": "대조적인",
+        "2": "And they achieve this not by trying to 'fit in' with their environment, but by aligning and making use of their various chemistries: embracing the complementarity of c_________ 'types'. ",
+        "3": "그리고 그것이 이것을 달성하는 것은, 자기의 환경에 '맞추려'고 애씀으로써가 아니라, 자기의 다양한 화학적 성질을 조정하여 사용함으로써, 즉 대조적인 '유형'의 상호보완성을 수용함으로써이다.",
+        "4": "contrasting"
+    }
+]

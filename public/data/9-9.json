@@ -1,0 +1,100 @@
+[
+    {
+        "0": "molecule",
+        "1": "분자",
+        "2": "During this process, the m_________ never achieved a structured arrangement but instead remained as disordered as they had been in the liquid state. ",
+        "3": "이 과정 동안, 분자는 구조적 배열을 전혀 이루지 않았고, 대신에 그것들이 액체 상태에 있었을 때만큼 무질서한 상태로 남아 있었다.",
+        "4": "molecules"
+    },
+    {
+        "0": "connection",
+        "1": "연결",
+        "2": "As this happens, molecules have a harder time slipping quickly past one another, so they begin to slow down, and as they do this, they make stronger c_________. ",
+        "3": "이런 일이 일어날 때, 분자들은 서로 빠르게 미끄러져 지나가기가 더 어려워져서 그것들은 속도를 늦추기 시작하고, 이렇게 할 때, 그것들은 더 강하게 연결된다.",
+        "4": "connections"
+    },
+    {
+        "0": "molten",
+        "1": "녹은",
+        "2": "Whatever the item ─ a drinking glass, glass lenses, a window pane ─ it was once a m_______ liquid that reached temperatures of over 1700'C and was then allowed to cool. ",
+        "3": "그 물건이 무엇이든 ― 음료수 잔이든, 유리 렌즈든, 창유리든 ─ 그것은 한때 1700'C 이상의 온도에 도달했다가 냉각되도록 둔 녹은 액체였다.",
+        "4": "molten"
+    },
+    {
+        "0": "liquid",
+        "1": "액체",
+        "2": "Whatever the item ─ a drinking glass, glass lenses, a window pane ─ it was once a molten l_____ that reached temperatures of over 1700'C and was then allowed to cool. ",
+        "3": "그 물건이 무엇이든 ― 음료수 잔이든, 유리 렌즈든, 창유리든 ─ 그것은 한때 1700'C 이상의 온도에 도달했다가 냉각되도록 둔 녹은 액체였다.",
+        "4": "liquid"
+    },
+    {
+        "0": "arrangement",
+        "1": "배열",
+        "2": "During this process, the molecules never achieved a structured a____________ but instead remained as disordered as they had been in the liquid state. ",
+        "3": "이 과정 동안, 분자는 구조적 배열을 전혀 이루지 않았고, 대신에 그것들이 액체 상태에 있었을 때만큼 무질서한 상태로 남아 있었다.",
+        "4": "arrangement"
+    },
+    {
+        "0": "disordered",
+        "1": "무질서한, 어질러진",
+        "2": "During this process, the molecules never achieved a structured arrangement but instead remained as d_______ as they had been in the liquid state. ",
+        "3": "이 과정 동안, 분자는 구조적 배열을 전혀 이루지 않았고, 대신에 그것들이 액체 상태에 있었을 때만큼 무질서한 상태로 남아 있었다.",
+        "4": "disordered"
+    },
+    {
+        "0": "snapshot",
+        "1": "스냅 사진",
+        "2": "A molecular s_________ of the liquid state and the glass state would appear almost identical, although there is more crowding in the glass thanks to the contraction that occurs during cooling. ",
+        "3": "액체 상태와 유리 상태의 분자 스냅 사진은 거의 동일하게 보일 것이지만, 냉각하는 동안 발생하는 수축으로 인해 유리 안은 더 붐빈다.",
+        "4": "snapshot"
+    },
+    {
+        "0": "contraction",
+        "1": "수축, 위축",
+        "2": "A molecular snapshot of the liquid state and the glass state would appear almost identical, although there is more crowding in the glass thanks to the c___________ that occurs during cooling. ",
+        "3": "액체 상태와 유리 상태의 분자 스냅 사진은 거의 동일하게 보일 것이지만, 냉각하는 동안 발생하는 수축으로 인해 유리 안은 더 붐빈다.",
+        "4": "contraction"
+    },
+    {
+        "0": "grab",
+        "1": "붙잡다",
+        "2": "It's a bit like how it's easier to grab the hand of someone who is walking slowly past you than to g____ the hand of someone driving past you in a convertible going 150 kilometres per hour, which is not advisable. ",
+        "3": "그것은 천천히 걸어서 여러분을 지나가는 사람의 손을 잡는 것이, 권할 만하지 않지만, 시속 150km로 달리는 컨버터블을 타고 운전해서 여러분을 지나가는 사람의 손을 붙잡는 것보다 더 쉽다는 것과 약간 비슷하다.",
+        "4": "grab"
+    },
+    {
+        "0": "convertible",
+        "1": "컨버터블 자동차",
+        "2": "It's a bit like how it's easier to grab the hand of someone who is walking slowly past you than to grab the hand of someone driving past you in a c________ going 150 kilometres per hour, which is not advisable. ",
+        "3": "그것은 천천히 걸어서 여러분을 지나가는 사람의 손을 잡는 것이, 권할 만하지 않지만, 시속 150km로 달리는 컨버터블을 타고 운전해서 여러분을 지나가는 사람의 손을 붙잡는 것보다 더 쉽다는 것과 약간 비슷하다.",
+        "4": "convertible"
+    },
+    {
+        "0": "advisable",
+        "1": "권할 만한",
+        "2": "It's a bit like how it's easier to grab the hand of someone who is walking slowly past you than to grab the hand of someone driving past you in a convertible going 150 kilometres per hour, which is not a__________. ",
+        "3": "그것은 천천히 걸어서 여러분을 지나가는 사람의 손을 잡는 것이, 권할 만하지 않지만, 시속 150km로 달리는 컨버터블을 타고 운전해서 여러분을 지나가는 사람의 손을 붙잡는 것보다 더 쉽다는 것과 약간 비슷하다.",
+        "4": "advisable"
+    },
+    {
+        "0": "molecule",
+        "1": "분자",
+        "2": "As this happens, m_________ have a harder time slipping quickly past one another, so they begin to slow down, and as they do this, they make stronger connections. ",
+        "3": "이런 일이 일어날 때, 분자들은 서로 빠르게 미끄러져 지나가기가 더 어려워져서 그것들은 속도를 늦추기 시작하고, 이렇게 할 때, 그것들은 더 강하게 연결된다.",
+        "4": "molecules"
+    },
+    {
+        "0": "liquid",
+        "1": "액체",
+        "2": "During this process, the molecules never achieved a structured arrangement but instead remained as disordered as they had been in the l______ state. ",
+        "3": "이 과정 동안, 분자는 구조적 배열을 전혀 이루지 않았고, 대신에 그것들이 액체 상태에 있었을 때만큼 무질서한 상태로 남아 있었다.",
+        "4": "liquid"
+    },
+    {
+        "0": "molecule",
+        "1": "분자",
+        "2": "As the cooling continues, so, too, does this process until at last the m__________ become fixed in place and glass is formed. ",
+        "3": "냉각이 계속됨에 따라, 마침내 분자들이 제자리에 고정되고 유리가 형성될 때까지 이 과정 또한 계속된다.",
+        "4": "molecules"
+    }
+]

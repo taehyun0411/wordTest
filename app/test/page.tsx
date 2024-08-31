@@ -9,62 +9,71 @@ import {Input} from "@nextui-org/input";
 interface DataArrays {
   [key: string]: any;
 }
-const T11 =   require('../../public/data/1-1.json')
-  const T12 = require('../../public/data/1-2.json')
-  const T13 = require('../../public/data/1-3.json')
-  const T16 = require('../../public/data/1-6.json')
-  const T18 = require('../../public/data/1-8.json')
-  const T19 = require('../../public/data/1-9.json')
-  const T111 = require('../../public/data/1-11.json')
-  const T112 = require('../../public/data/1-12.json')
-  const T21 = require('../../public/data/2-1.json')
-  const T24 = require('../../public/data/2-4.json')
-  const T26 = require('../../public/data/2-6.json')
-  const T29 = require('../../public/data/2-9.json')
-  const T211 = require('../../public/data/2-11.json')
-  const T212 = require('../../public/data/2-12.json')
-  const T31 = require('../../public/data/3-1.json')
-  const T32 = require('../../public/data/3-2.json')
-  const T33 = require('../../public/data/3-3.json')
-  const T36 = require('../../public/data/3-6.json')
-  const T38 = require('../../public/data/3-8.json')
-  const T39 = require('../../public/data/3-9.json')
-  const T310 = require('../../public/data/3-10.json')
-  const T41 = require('../../public/data/4-1.json')
-  const T42 = require('../../public/data/4-2.json')
-  const T43 = require('../../public/data/4-3.json')
-  const T44 = require('../../public/data/4-4.json')
-  const T45 = require('../../public/data/4-5.json')
-  const T46 = require('../../public/data/4-6.json')
-
+const T11 =   require('../../public/data/7-1.json')
+  const T12 = require('../../public/data/7-2.json')
+  const T13 = require('../../public/data/7-3.json')
+  const T16 = require('../../public/data/7-4.json')
+  const T18 = require('../../public/data/7-7.json')
+  const T19 = require('../../public/data/7-8.json')
+  const T111 = require('../../public/data/7-9.json')
+  const T112 = require('../../public/data/7-10.json')
+  const T21 = require('../../public/data/8-1.json')
+  const T24 = require('../../public/data/8-2.json')
+  const T26 = require('../../public/data/8-3.json')
+  const T29 = require('../../public/data/8-4.json')
+  const T211 = require('../../public/data/8-7.json')
+  const T212 = require('../../public/data/8-8.json')
+  const T31 = require('../../public/data/8-9.json')
+  const T32 = require('../../public/data/8-10.json')
+  const T33 = require('../../public/data/9-1.json')
+  const T36 = require('../../public/data/9-2.json')
+  const T38 = require('../../public/data/9-3.json')
+  const T39 = require('../../public/data/9-4.json')
+  const T310 = require('../../public/data/9-8.json')
+  const T41 = require('../../public/data/9-9.json')
+  const T42 = require('../../public/data/9-10.json')
+  const T43 = require('../../public/data/9-11.json')
+  const T44 = require('../../public/data/10-1.json')
+  const T45 = require('../../public/data/10-2.json')
+  const T46 = require('../../public/data/10-3.json')
+  const T47 = require('../../public/data/10-4.json')
+  const T48 = require('../../public/data/10-8.json')
+  const T49 = require('../../public/data/10-9.json')
+  const T50 = require('../../public/data/10-10.json')
+  const T51 = require('../../public/data/10-11.json')
   const data: DataArrays = {
-    data11: jsonToArray(T11),
-    data12: jsonToArray(T12),
-    data13: jsonToArray(T13),
-    data16: jsonToArray(T16),
-    data18: jsonToArray(T18),
-    data19: jsonToArray(T19),
-    data111:jsonToArray(T111),
-    data112:jsonToArray(T112),
-    data21: jsonToArray(T21),
-    data24: jsonToArray(T24),
-    data26: jsonToArray(T26),
-    data29: jsonToArray(T29),
-    data211: jsonToArray(T211),
-    data212: jsonToArray(T212),
-    data31: jsonToArray(T31),
-    data32: jsonToArray(T32),
-    data33: jsonToArray(T33),
-    data36: jsonToArray(T36),
-    data38: jsonToArray(T38),
-    data39: jsonToArray(T39),
-    data310: jsonToArray(T310),
-    data41: jsonToArray(T41),
-    data42: jsonToArray(T42),
-    data43: jsonToArray(T43),
-    data44: jsonToArray(T44),
-    data45: jsonToArray(T45),
-    data46: jsonToArray(T46)
+    data71: jsonToArray(T11),
+    data72: jsonToArray(T12),
+    data73: jsonToArray(T13),
+    data74: jsonToArray(T16),
+    data77: jsonToArray(T18),
+    dat78: jsonToArray(T19),
+    data79:jsonToArray(T111),
+    data710:jsonToArray(T112),
+    data81: jsonToArray(T21),
+    data82: jsonToArray(T24),
+    data83: jsonToArray(T26),
+    data84: jsonToArray(T29),
+    data87: jsonToArray(T211),
+    data88: jsonToArray(T212),
+    data89: jsonToArray(T31),
+    data810: jsonToArray(T32),
+    data91: jsonToArray(T33),
+    data92: jsonToArray(T36),
+    data93: jsonToArray(T38),
+    data94: jsonToArray(T39),
+    data98: jsonToArray(T310),
+    data99: jsonToArray(T41),
+    data910: jsonToArray(T42),
+    data911: jsonToArray(T43),
+    data101: jsonToArray(T44),
+    data102: jsonToArray(T45),
+    data103: jsonToArray(T46),
+    data104: jsonToArray(T47),
+    data108: jsonToArray(T48),
+    data109: jsonToArray(T49),
+    data1010: jsonToArray(T50),
+    data1011: jsonToArray(T51),
 
 }
 

@@ -1,0 +1,114 @@
+[
+    {
+        "0": "illusion",
+        "1": "착각, 환상",
+        "2": "Positive i_______ can help with facing inevitable threats to relationships.",
+        "3": "긍정적 착각은 관계에 대한 불가피한 위협에 맞서는 데 도움이 될 수 있다.",
+        "4": "illusion"
+    },
+    {
+        "0": "inevitable",
+        "1": "불가피한",
+        "2": "Positive illusion can help with facing i________ threats to relationships.",
+        "3": "긍정적 착각은 관계에 대한 불가피한 위협에 맞서는 데 도움이 될 수 있다.",
+        "4": "inevitable"
+    },
+    {
+        "0": "conflict of interest",
+        "1": "이해관계의 충돌",
+        "2": "Most relationships are inevitably threatened by c_____ __ ________ or seductive alternatives, and solving such problems often requires a departure from one's own direct interests.",
+        "3": "대부분의 관계는 이해관계의 충돌이나 마음을 끄는 선택 가능한 것들에 의해 불가피하게 위협을 받을 수밖에 없으며, 그러한 문제를 해결하려면 흔히 자기 자신의 직접적인 이해관계에서 벗어남이 필요하다.",
+        "4": "conflicts of interest"
+    },
+    {
+        "0": "departure",
+        "1": "벗어남, 떠남",
+        "2": "Most relationships are inevitably threatened by conflicts of interest or seductive alternatives, and solving such problems often requires a d________ from one's own direct interests.",
+        "3": "대부분의 관계는 이해관계의 충돌이나 마음을 끄는 선택 가능한 것들에 의해 불가피하게 위협을 받을 수밖에 없으며, 그러한 문제를 해결하려면 흔히 자기 자신의 직접적인 이해관계에서 벗어남이 필요하다.",
+        "4": "departure"
+    },
+    {
+        "0": "accommodation",
+        "1": "타협, 화해, 조정",
+        "2": "For example, when a partner behaves badly, a_____________ rather than revenge is more conducive to the stability of the relationship.",
+        "3": "예를 들어, 파트너가 나쁘게 행동할 때, 복수보다는 타협하는 것이 관계의 안정에 더 도움이 된다.",
+        "4": "accommodation"
+    },
+    {
+        "0": "revenge",
+        "1": "복수",
+        "2": "For example, when a partner behaves badly, accommodation rather than r_______ is more conducive to the stability of the relationship.",
+        "3": "예를 들어, 파트너가 나쁘게 행동할 때, 복수보다는 타협하는 것이 관계의 안정에 더 도움이 된다.",
+        "4": "revenge"
+    },
+    {
+        "0": "stability",
+        "1": "안정",
+        "2": "For example, when a partner behaves badly, accommodation rather than revenge is more conducive to the s_______ of the relationship.",
+        "3": "예를 들어, 파트너가 나쁘게 행동할 때, 복수보다는 타협하는 것이 관계의 안정에 더 도움이 된다.",
+        "4": "stability"
+    },
+    {
+        "0": "preference",
+        "1": "좋아하는 것, 선호도",
+        "2": "Further, when partners' p___________ are inconsistent, it is beneficial to sacrifice one's own interests for the partner's interests.",
+        "3": "게다가, 파트너끼리 좋아하는 것들이 일치하지 않을 때 파트너의 이익을 위해 자기 자신의 이익을 희생하는 것이 이롭다.",
+        "4": "preferences"
+    },
+    {
+        "0": "inconsistent",
+        "1": "일치하지 않는, 모순되는",
+        "2": "Further, when partners' preferences are i__________, it is beneficial to sacrifice one's own interests for the partner's interests.",
+        "3": "게다가, 파트너끼리 좋아하는 것들이 일치하지 않을 때 파트너의 이익을 위해 자기 자신의 이익을 희생하는 것이 이롭다.",
+        "4": "inconsistent"
+    },
+    {
+        "0": "available",
+        "1": "이용할 수 있는",
+        "2": "Overall, positive belief systems motivate us to find a_________ solutions to dilemmas found across relationships.",
+        "3": "전반적으로 긍정적인 믿음 체계는 관계 전반에서 발견되는 딜레마에 대해 이용할 수 있는 해결책을 찾도록 우리에게 동기를 부여한다.",
+        "4": "available"
+    },
+    {
+        "0": "promote",
+        "1": "도모하다, 촉진하다",
+        "2": "Such systems p________ persistence, by increasing pro-social motivation, and facilitating a willingness to invest oneself in a relationship.",
+        "3": "그러한 체계는 친사회적 동기를 높이고 관계에 자신을 기꺼이 쏟는 마음을 촉진함으로써 (관계의) 지속됨을 도 모한다.",
+        "4": "promote"
+    },
+    {
+        "0": "persistence",
+        "1": "지속됨",
+        "2": "Such systems promote p_________, by increasing pro-social motivation, and facilitating a willingness to invest oneself in a relationship.",
+        "3": "그러한 체계는 친사회적 동기를 높이고 관계에 자신을 기꺼이 쏟는 마음을 촉진함으로써 (관계의) 지속됨을 도 모한다.",
+        "4": "persistence"
+    },
+    {
+        "0": "pro-social",
+        "1": "친사회적인",
+        "2": "Such systems promote persistence, by increasing p__-______ motivation, and facilitating a willingness to invest oneself in a relationship.",
+        "3": "그러한 체계는 친사회적 동기를 높이고 관계에 자신을 기꺼이 쏟는 마음을 촉진함으로써 (관계의) 지속됨을 도 모한다.",
+        "4": "pro-social"
+    },
+    {
+        "0": "facilitate",
+        "1": "(행동, 과정 등을) 촉진하다",
+        "2": "Such systems promote persistence, by increasing pro-social motivation, and f__________ a willingness to invest oneself in a relationship.",
+        "3": "그러한 체계는 친사회적 동기를 높이고 관계에 자신을 기꺼이 쏟는 마음을 촉진함으로써 (관계의) 지속됨을 도 모한다.",
+        "4": "facilitating"
+    },
+    {
+        "0": "willingness",
+        "1": "기꺼이 하는 마음",
+        "2": "Such systems promote persistence, by increasing pro-social motivation, and facilitating a w__________ to invest oneself in a relationship.",
+        "3": "그러한 체계는 친사회적 동기를 높이고 관계에 자신을 기꺼이 쏟는 마음을 촉진함으로써 (관계의) 지속됨을 도 모한다.",
+        "4": "willingness"
+    },
+    {
+        "0": "red flag",
+        "1": "위험 신호(를 나타내는 붉은 기)",
+        "2": "Indeed, positive illusion can sometimes lead to ignoring r__ _______ or warning signs in a relationship, which can ultimately harm the health of the relationship.",
+        "3": "실제로, 긍정적 착각은 때때로 관계에서의 위험 신호나 경고 신호를 무시하게 만들 수 있으며, 이것은 궁극적으로 관계의 건강을 해칠 수 있다.",
+        "4": "red flags"
+    }
+]

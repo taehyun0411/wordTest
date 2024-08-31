@@ -1,0 +1,142 @@
+[
+    {
+        "0": "fictional",
+        "1": "허구적인, 소설적인",
+        "2": "A number of f______ Stone Age accounts, especially from the first three decades of the 20th century, portray children in the active role of innovator and inventor.",
+        "3": "특히 20세기 초반 30년 동안에 나온 많은 허구적인 석기 시대의 이야기는 혁신가이자 발명가라는 적극적인 역 할을 하는 아이들을 묘사한다.",
+        "4": "fictional"
+    },
+    {
+        "0": "account",
+        "1": "이야기, 설명",
+        "2": "A number of fictional Stone Age a______, especially from the first three decades of the 20th century, portray children in the active role of innovator and inventor.",
+        "3": "특히 20세기 초반 30년 동안에 나온 많은 허구적인 석기 시대의 이야기는 혁신가이자 발명가라는 적극적인 역 할을 하는 아이들을 묘사한다.",
+        "4": "accounts"
+    },
+    {
+        "0": "portray",
+        "1": "묘사하다",
+        "2": "A number of fictional Stone Age accounts, especially from the first three decades of the 20th century, p______ children in the active role of innovator and inventor.",
+        "3": "특히 20세기 초반 30년 동안에 나온 많은 허구적인 석기 시대의 이야기는 혁신가이자 발명가라는 적극적인 역 할을 하는 아이들을 묘사한다.",
+        "4": "portray"
+    },
+    {
+        "0": "innovator",
+        "1": "혁신가",
+        "2": "A number of fictional Stone Age accounts, especially from the first three decades of the 20th century, portray children in the active role of i_______ and inventor.",
+        "3": "특히 20세기 초반 30년 동안에 나온 많은 허구적인 석기 시대의 이야기는 혁신가이자 발명가라는 적극적인 역 할을 하는 아이들을 묘사한다.",
+        "4": "innovator"
+    },
+    {
+        "0": "formula",
+        "1": "공식",
+        "2": "The basic f_______ of children as implementers of ideas and inventors of material culture is found in a variety of tales about the first fish spear, flint saw, bow and arrow, boat, taming of fire and cooking meat, and so forth.",
+        "3": "아이디어의 실행자이자 물질 문화의 발명가로서의 아이들의 기본 공식은 최초의 물고기 작살, 부싯돌 톱, 활과 화살, 배, 불 다스리기와 고기 요리 등에 관한 다양한 이야기에서 발견된다.",
+        "4": "formula"
+    },
+    {
+        "0": "implementer",
+        "1": "실행자, 시행자",
+        "2": "The basic formula of children as i__________ of ideas and inventors of material culture is found in a variety of tales about the first fish spear, flint saw, bow and arrow, boat, taming of fire and cooking meat, and so forth.",
+        "3": "아이디어의 실행자이자 물질 문화의 발명가로서의 아이들의 기본 공식은 최초의 물고기 작살, 부싯돌 톱, 활과 화살, 배, 불 다스리기와 고기 요리 등에 관한 다양한 이야기에서 발견된다.",
+        "4": "implementers"
+    },
+    {
+        "0": "tale",
+        "1": "이야기",
+        "2": "The basic formula of children as implementers of ideas and inventors of material culture is found in a variety of t____ about the first fish spear, flint saw, bow and arrow, boat, taming of fire and cooking meat, and so forth.",
+        "3": "아이디어의 실행자이자 물질 문화의 발명가로서의 아이들의 기본 공식은 최초의 물고기 작살, 부싯돌 톱, 활과 화살, 배, 불 다스리기와 고기 요리 등에 관한 다양한 이야기에서 발견된다.",
+        "4": "tales"
+    },
+    {
+        "0": "spear",
+        "1": "작살, 창",
+        "2": "The basic formula of children as implementers of ideas and inventors of material culture is found in a variety of tales about the first fish s____, flint saw, bow and arrow, boat, taming of fire and cooking meat, and so forth.",
+        "3": "아이디어의 실행자이자 물질 문화의 발명가로서의 아이들의 기본 공식은 최초의 물고기 작살, 부싯돌 톱, 활과 화살, 배, 불 다스리기와 고기 요리 등에 관한 다양한 이야기에서 발견된다.",
+        "4": "spear"
+    },
+    {
+        "0": "tame",
+        "1": "다스리다, 길들이다",
+        "2": "The basic formula of children as implementers of ideas and inventors of material culture is found in a variety of tales about the first fish spear, flint saw, bow and arrow, boat, t______ of fire and cooking meat, and so forth.",
+        "3": "아이디어의 실행자이자 물질 문화의 발명가로서의 아이들의 기본 공식은 최초의 물고기 작살, 부싯돌 톱, 활과 화살, 배, 불 다스리기와 고기 요리 등에 관한 다양한 이야기에서 발견된다.",
+        "4": "taming"
+    },
+    {
+        "0": "theme",
+        "1": "주제",
+        "2": "Another common t______ in Palaeolithic fiction is children successfully domesticating animals, most often wolves and horses.",
+        "3": "초기 구석기 시대의 허구적인 이야기의 또 다른 일반적인 주제는 동물을, 가장 흔하게는 늑대와 말을 성공적으 로 길들이는 아이들이다.",
+        "4": "theme"
+    },
+    {
+        "0": "domesticate",
+        "1": "길들이다",
+        "2": "Another common theme in Palaeolithic fiction is children successfully d___________ animals, most often wolves and horses.",
+        "3": "초기 구석기 시대의 허구적인 이야기의 또 다른 일반적인 주제는 동물을, 가장 흔하게는 늑대와 말을 성공적으 로 길들이는 아이들이다.",
+        "4": "domesticating"
+    },
+    {
+        "0": "frequently",
+        "1": "빈번히, 자주",
+        "2": "F________ the act of taming leads to more significant contributions such as helping a struggling people find food or hunt animals in new ways.",
+        "3": "빈번하게, 길들이는 행위는 어려움을 겪고 있는 사람들이 새로운 방식으로 식량을 찾거나 동물을 사냥하는 데 도움을 주는 것과 같은 더 중요한 기여로 이어진다.",
+        "4": "Frequently"
+    },
+    {
+        "0": "significant",
+        "1": "중요한",
+        "2": "Frequently the act of taming leads to more s_________ contributions such as helping a struggling people find food or hunt animals in new ways.",
+        "3": "빈번하게, 길들이는 행위는 어려움을 겪고 있는 사람들이 새로운 방식으로 식량을 찾거나 동물을 사냥하는 데 도움을 주는 것과 같은 더 중요한 기여로 이어진다.",
+        "4": "significant"
+    },
+    {
+        "0": "struggling",
+        "1": "어려움을 겪고 있는",
+        "2": "Frequently the act of taming leads to more significant contributions such as helping a s________ people find food or hunt animals in new ways.",
+        "3": "빈번하게, 길들이는 행위는 어려움을 겪고 있는 사람들이 새로운 방식으로 식량을 찾거나 동물을 사냥하는 데 도움을 주는 것과 같은 더 중요한 기여로 이어진다.",
+        "4": "struggling"
+    },
+    {
+        "0": "main character",
+        "1": "주인공",
+        "2": "For instance, in Malu 's Wolf, the m___ ___________ tames a wolf who later finds an elusive herd of mammoths upon which the group depends.",
+        "3": "예를 들어, Malu's Wolf에서, 주인공은 후에 그 집단이 의존하는 찾기 힘든 메머드 무리를 발견하는 늑대를 길들인다.",
+        "4": "main character"
+    },
+    {
+        "0": "herd",
+        "1": "무리",
+        "2": "For instance, in Malu 's Wolf, the main character tames a wolf who later finds an elusive h____ of mammoths upon which the group depends.",
+        "3": "예를 들어, Malu's Wolf에서, 주인공은 후에 그 집단이 의존하는 찾기 힘든 메머드 무리를 발견하는 늑대를 길들인다.",
+        "4": "herd"
+    },
+    {
+        "0": "twist",
+        "1": "반전, 비틂",
+        "2": "The interesting t____ in this story is the fact that Malu is a girl, which is quite rare.",
+        "3": "이 이야기에서 흥미로운 반전은 Malu가 소녀라는 사실인데, 이것은 매우 드문 경우이다.",
+        "4": "twist"
+    },
+    {
+        "0": "thrower",
+        "1": "발사기",
+        "2": "Like the boys, she is allowed to use a spear t_____ and participate in an initiation ceremony in the painted cave.",
+        "3": "남자아이들처럼 그녀도 작살 발사기를 사용하고 그림이 그려진 동굴에서 성년식에 참여하는 것이 허용된다.",
+        "4": "thrower"
+    },
+    {
+        "0": "initiation ceremony",
+        "1": "성년식, 입회식",
+        "2": "Like the boys, she is allowed to use a spear thrower and participate in an i_______ ___________ in the painted cave.",
+        "3": "남자아이들처럼 그녀도 작살 발사기를 사용하고 그림이 그려진 동굴에서 성년식에 참여하는 것이 허용된다.",
+        "4": "initiation ceremony"
+    },
+    {
+        "0": "tame",
+        "1": "다스리다, 길들이다",
+        "2": "Frequently the act of t_______ leads to more significant contributions such as helping a struggling people find food or hunt animals in new ways.",
+        "3": "빈번하게, 길들이는 행위는 어려움을 겪고 있는 사람들이 새로운 방식으로 식량을 찾거나 동물을 사냥하는 데 도움을 주는 것과 같은 더 중요한 기여로 이어진다.",
+        "4": "taming"
+    }
+]
