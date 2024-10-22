@@ -119,7 +119,7 @@ const [incorrectAnswer,setincorrectAnswer] = React.useState<string[]>([]);
     if(RdayResult[currentWordindex][4] === userAnswer) {
       alert("Correct!");
     } else {
-      alert("InCorrect! 정답: " + RdayResult[currentWordindex][4]);
+      alert("InCorrect! 정답: " + RdayResult[currentWordindex][4] + "\n당신의 답: " + userAnswer);
       setincorrectAnswer((prevIncorrectAnswer) => {
     return [...prevIncorrectAnswer, RdayResult[currentWordindex][4]];
   });
